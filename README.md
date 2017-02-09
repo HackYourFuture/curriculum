@@ -21,14 +21,13 @@ The statement ‘*What do we do?*’ on the [HYF web site](http://www.hackyourfu
 The programme has been running for over well a year now. A curriculum has been established that consist of the following training modules:
 
 1. HTML / CSS (3 weeks)
-3. GIT/CLI (3 weeks)
-4. JavaScript 1, 2, 3 (3 x 3 weeks)
-5. Angular (3 weeks)
-6. Node (3 weeks)
-7. Database (MySQL, Mongo) (3 weeks)
-8. (Graduation) Project (6 weeks)
-    
-Total: 30 weeks
+2. JavaScript (+ GIT, CLI) 1, 2, 3 (3 x 3 weeks)
+3. Angular (3 weeks)
+4. Node (3 weeks)
+5. Database (MySQL, Mongo) (3 weeks)
+6. (Graduation) Project (6 weeks)
+
+Total: 27 weeks
 
 ## HYF Curriculum as a Scrum Project
 
@@ -38,7 +37,7 @@ In the curriculum scrum is gradually being introduced to students as a modern wa
 - Each 3-week module is a **sprint**.
 - The desired learnings of a module equate to the sprint's **backlog**.
 
-For each sprint an agreed target backlog should be established, to ensure consistency and predictability for follow-on modules. However, it is left up to the individual teachers how to best deliver the topics on the backlog. 
+For each sprint an agreed target backlog should be established, to ensure consistency and predictability for follow-on modules. However, it is left up to the individual teachers how to best deliver the topics on the backlog.
 
 It is proposed to establish measurements of ‘success’ for each sprint, e.g.:
 
@@ -88,6 +87,8 @@ Feedback from alumni?
 - Basic ES5 training (var, data types, conditionals, loops, function, scope, hoisting, closures, this, callbacks, etc)
 - ES6 training (let, const, fat arrow, spread, rest, destructuring, promises, classes, etc)
 - Array functions (forEach, filter, map, find, reduce, etc) over loop iteration for collections
+- Error handling (try/catch, Node-style error handling)
+- Web APIs (DOM etc), JSON
 - Debugging JS in Chrome (breakpoints, single step, step in/over, watch, call stack, scope, etc)
 - Clean code principles: naming, DRY
 
@@ -95,7 +96,7 @@ Feedback from alumni?
 
 **Current situation:** Angular 1.5+ has been selected as target front-end development framework. At present it is taught using ES5 by default.
 
-**Proposed situation:** Continue teaching Angular 1.5+, mentioning Angular 2 as emerging. Switch to use ES6 exclusively. 
+**Proposed situation:** Continue teaching Angular 1.5+, mentioning Angular 2 as emerging. Switch to use ES6 exclusively.
 
 **Rationale:** Angular provides a complete solution for developing SPA front-ends. Angular 1.5+ is probably still the most used production environment as compared to Angular 2. Furthermore, for Angular 2 we would need to add TypeScript to the curriculum and there is simply no slot left in the curriculum to fit it in (unless we can expand the 6-month programme).
 
@@ -120,7 +121,7 @@ Feedback from alumni?
 
 - RESTful API semantics: `GET`, `POST`, `PUT`, `PATCH`, `DELETE`
 - Node built-ins: fs, http, path, etc
-- Express 
+- Express
 - Node debugging (VSCode?)
 - Clean code principles
 
