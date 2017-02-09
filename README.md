@@ -64,16 +64,6 @@ Feedback from alumni?
 
 **Module Deliverables:** TBD
 
-### GIT/CLI
-
-**Current situation:** TBD
-
-**Proposed sitation:** TBD
-
-**Rationale**: TBD
-
-**Module Deliverables:** TBD
-
 ### JavaScript
 
 **Current situation:** The current JS modules target mainly ES5. Some ES6 features are touched upon. Follow-on modules default back to ES5, with ES6 mixed in, in an ad-hoc fashion.
