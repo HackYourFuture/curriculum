@@ -14,6 +14,7 @@ Due to the big use of react with flux like state manager I think we should cover
 | jsx |
 | state |
 | props |
+| smart / dumb components |
 | component lifecycle |
 
 State managment options:
