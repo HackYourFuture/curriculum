@@ -52,7 +52,7 @@ Our **[Github repository](../)** contains all the specifications and learing goa
 - Presenting and explaining your work to others
 
 
-##[JavaScript1 + ](https://github.com/HackYourFuture/JavaScript)[CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md) + [GIT](https://github.com/HackYourFuture/Git)
+##[JavaScript1](https://github.com/HackYourFuture/JavaScript) + [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md) + [GIT](https://github.com/HackYourFuture/Git)
 
 
 >The command line (cli, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module two half day sessions are spend to get students familiar with the command line.
@@ -92,7 +92,7 @@ __Git:__
 - Know how to add / remove files to that new repository
 - Know how to `commit` and `push` files in that new repository.
 
-##[JavaScript2](https://github.com/HackYourFuture/JavaScript)+ [GIT](https://github.com/HackYourFuture/Git)
+##[JavaScript2](https://github.com/HackYourFuture/JavaScript) + [GIT](https://github.com/HackYourFuture/Git)
 
 **Module goals**
 
