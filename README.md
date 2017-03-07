@@ -1,153 +1,168 @@
-# Discussion Paper: HackYourFuture Curriculum
+# HackYourFuture Curriculum
 
-## Purpose
+>Here you can find an overview of the HackYourFuture program. It gives insight in how our program is structured, organized, what you can expect from the modules that we teach and last but not least where we teach and where you can find support during the week. Our half year course is divided into modules that last 3 weeks with exception of the project module that lasts 6 weeks. Below you can find a short listing of the contents and deliverables/learning goals of the different modules. The headers of the different modules link to the actual repositories that are used by teachers to post assignments/reading materials etc. Be aware that some of the modules make use of more than one repository. 
 
-This write-up presents my thoughts on a possible way forward for the HackYourFuture (henceforth HYF) curriculum and is offered as a ‘seed’ for discussion to the gathering of teachers and mentors scheduled for 9 February 2017.
+##When do we teach?
 
-## HYF Mission
+###Class on Sunday
+Class is every Sunday from 12.00 to approximately 16/16.30. 
 
-The statement ‘*What do we do?*’ on the [HYF web site](http://www.hackyourfuture.net/#/) and repeated below succinctly describes the mission of the HYF curriculum and is assumed here as a given.
+###Online support
+During the week students work at home on the given assignments or reading material provided by the teacher. Teachers and mentors are available during the week on Slack to provide support and or answer questions related to the given homework.
 
-> We teach refugees web-development in our 6-month program.
+##How do we teach?
 
-> We teach our students front- and backend development for the web, making them full-stack developers as they finish our course.
+###Modules
+At HackYourFuture we teach in modules. The modules can be seen as a three week [sprint](http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint) wherein the teachers set clear learning goals for the end of each module. The list of module goals should be used by students to check if they understood all the core concepts of a certain module. 
 
-> We do this with our group of experienced developers who closely support our students in their process.
+###What do we mean by module goals?
+Module goals can be read as: "by the end of this module, students should have a familiarity with and basic understanding of the following"
 
-> Besides coding we train our students in project-management, becoming independent coders and teach them about the working culture in Dutch companies.
+###Come prepared!
+Students are expected to finish all reading material before class, teachers provide students with reading material (mostly on Wednesdays) introducing the concepts that will be discussed in the upcoming session. Students are expected to __always__ come prepared to the class on Sunday.
 
-## Where are we now?
+##What tools do we use?
 
-The programme has been running for over well a year now. A curriculum has been established that consist of the following training modules:
+###Github
+Our **[Github repository](../)** contains all the specifications and learing goals for the different modules. It's advised to get yourself familiar with [Github](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/). How to actually work with Git, a version control system, will be covered during the JavaScript modules. If students did not follow this modules yet they at least should be able to navigate and find course material inside our Github repository.
 
-1. HTML / CSS (3 weeks)
-2. JavaScript (+ GIT, CLI) 1, 2, 3 (3 x 3 weeks)
-3. Angular (3 weeks)
-4. Node (3 weeks)
-5. Database (MySQL, Mongo) (3 weeks)
-6. (Graduation) Project (6 weeks)
+###Slack
+**[Slack](https://slack.com/is)** is used to communicate between teachers and students during the week. Each class has their own channel in Slack where module specific questions can be asked. We require our students to be active on Slack and ask questions when they get stuck. Students are off course also stimulated to help each other out.
 
-Total: 27 weeks
+###Trello
+**[Trello](https://trello.com/tour)** is where students hand in their homework and also receive feedback on their assignments every week. It's a commonly used tool for project management in workspaces and valuable to know your way around it.
 
-## HYF Curriculum as a Scrum Project
+##What do we teach?
 
-In the curriculum scrum is gradually being introduced to students as a modern way to execute projects. It is proposed here to adopt scrum for executing the curriculum itself. This could take the following shape:
+##[HTML/CSS](../HTML-CSS)
 
-- Each individual class is a **product** (the deliverable being a group of trained full-stack developers as they progress through the curriculum).
-- Each 3-week module is a **sprint**.
-- The desired learnings of a module equate to the sprint's **backlog**.
+>HTML is the standard markup language for creating Web pages. CSS is a language that describes the style of an HTML document. This module will introduce the basic concepts of HTML5 and CSS. We spend time getting you familiar with your text editor and handy developer tools. After this we will focus on responsive web development. Making responsive websites is an important part of front-end programming. You will learn how to make your websites responsive by using media queries using a “mobile first” approach. Last but not least we will spend time practicing some soft skills that we think are important for becoming a good developer. These include: give and receive feedback to your fellow students, presenting and explaining your work.
 
-For each sprint an agreed target backlog should be established, to ensure consistency and predictability for follow-on modules. However, it is left up to the individual teachers how to best deliver the topics on the backlog.
-
-It is proposed to establish measurements of ‘success’ for each sprint, e.g.:
-
-   - Number of home work assignments submitted
-   - Number of assignments correct
-
-Trello could be used for maintaining scrum task boards (todo, doing, done). By maintaining these boards for individual classes throughout the curriculum teachers and mentors taking turns can quickly familiarise themselves with what has been taught already and which topics could benefit from additional tutoring for the module at hand.
-
-A HYF scrum team should be formed and roles assigned (Product Owner, Scrum Master). Naturally, teachers and mentors are scrum team members.
-
-The curriculum should be kept evergreen through the scrum process of *inspect and adapt*. Appropriate review meetings and retrospectives to be scheduled as appropriate.
-
-Feedback from alumni?
-
-## The Modules / Sprints
-
-### HTML/CSS
-
-**Current situation:** TBD
-
-**Proposed sitation:** TBD
-
-**Rationale**: TBD
-
-**Module Deliverables:** TBD
-
-### JavaScript
-
-**Current situation:** The current JS modules target mainly ES5. Some ES6 features are touched upon. Follow-on modules default back to ES5, with ES6 mixed in, in an ad-hoc fashion.
-
-**Proposed situation:** Teaching starts with ES5, highlighting it pitfalls, and then all training going forward (JS and follow-on modules) to be consistently based on ES6. Exit `var`.
-
-**Rationale:** ES6 is the latest, widely embraced version of JS and solves many issues present in ES5. Although not yet fully supported in all browsers, ES6 is supported in Chrome and Node as used during training. In production environments transpilers and module loaders enable ES6 in all situations.
-
-**Module Deliverables:**
-
-- Basic ES5 training (var, data types, conditionals, loops, function, scope, hoisting, closures, this, callbacks, etc)
-- ES6 training (let, const, fat arrow, spread, rest, destructuring, promises, classes, etc)
-- Array functions (forEach, filter, map, find, reduce, etc) over loop iteration for collections
-- Error handling (try/catch, Node-style error handling)
-- Web APIs (DOM etc), JSON
-- Debugging JS in Chrome (breakpoints, single step, step in/over, watch, call stack, scope, etc)
-- Clean code principles: naming, DRY
-
-### Angular
-
-**Current situation:** Angular 1.5+ has been selected as target front-end development framework. At present it is taught using ES5 by default.
-
-**Proposed situation:** Continue teaching Angular 1.5+, mentioning Angular 2 as emerging. Switch to use ES6 exclusively.
-
-**Rationale:** Angular provides a complete solution for developing SPA front-ends. Angular 1.5+ is probably still the most used production environment as compared to Angular 2. Furthermore, for Angular 2 we would need to add TypeScript to the curriculum and there is simply no slot left in the curriculum to fit it in (unless we can expand the 6-month programme).
-
-**Module Deliverables**:
-
-- Controllers (ES6 classes over ES5 constructor functions)
-- Services (ES6 classes over ES5 constructor functions)
-- Components (over directives and `ng-controller`)
-- Routing (AngularUI Router v1.x component routing over ngRoute)
-- Clean code principles: Single Responsibility Principle
-- Basic understanding of John Papa's Angular 1 Style Guide
-
-### Node
-
-**Current situation:** TBD
-
-**Proposed sitation:** TBD
-
-**Rationale**: TBD
-
-**Module Deliverables:**
-
-- RESTful API semantics: `GET`, `POST`, `PUT`, `PATCH`, `DELETE`
-- Node built-ins: fs, http, path, etc
-- Express
-- Node debugging (VSCode?)
-- Clean code principles
-
-### Database
-
-**Current situation:** TBD
-
-**Proposed sitation:** TBD
-
-- Decide on one (which?) or both DBs: MongoDB and/or MySQL
-
-**Rationale**: TBD
-
-**Module Deliverables:** TBD
-
-### Project
-
-**Current situation:** TBD
-
-**Proposed sitation:** TBD
-
-**Rationale**: TBD
-
-**Module Deliverables:** TBD
+**Module goals**
+- Basic understanding of HTML5 and CSS (DOM, semantic elements)
+- Know how to organize your files
+- Know your way around your text editor
+- Feel comfortable working with the console
+- Properly indent your code
+- Properly naming classes, id's
+- Responsive mobile first development
+- Know "good" and "bad" practices when it comes to HTML
+- Get an understanding of what good resources are on the web
+- Give receive/feedback from/on fellow students
+- Presenting and explaining your work to others
 
 
-### Curriculum Wish List Backlog Items
+##[JavaScript1 + ](https://gist.github.com/M3kH/19f78a17657a54d280a31eb9cb9664cd)[CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md) + [GIT](../Git)
 
-The list below represents subjects that are not now covered in the curriculum, but, if time was not was not constrained, could be on the wish list. For example:
 
-- lodash
-- Babel
-- WebPack
-- TypeScript
-- Angular 2
-- React
-- RxJS
-- Immutable
-- Ionic
+>The command line (cli, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module two half day sessions are spend to get students familiar with the command line.
+
+In [this](../JavaScript/tree/master/fundamentals) repo you can find a very nice overview of some of the fundamental javaScript concepts
+
+**Module goals** 
+
+__JavaScript:__
+- Values, Operators and Variables
+- Primitives Types
+    - Strings
+    - Numbers
+    - Array  
+    - Function
+    - Objects litterals
+- Conditions
+- Functions
+- For Loops and While
+- String and Array Manipulations
+- Closures, Scope and Immediately Invoked function expression
+- Call Backs and Promises 
+
+__CLI:__
+- To know the terminal/bash/command line for UNIX based systems.
+- Navigate the file system without using a UI explorer.
+- Copy, rename and move files with terminal commands.
+- Learn output redirection, piping on the terminal.
+- Write basic shell scripts to ease the programming life.
+
+__Git:__
+- Have an understanding of problems for developers working together on software
+- Have an understanding of the need for version control software
+- Have an understanding of what GIT is and what problem it solves.
+- Understand what a `commit` is and how it represents a certain unit of work
+- Know how to create a new repository using `clone` and `init`
+- Know how to add / remove files to that new repository
+- Know how to `commit` and `push` files in that new repository.
+
+##[JavaScript2](https://gist.github.com/M3kH/19f78a17657a54d280a31eb9cb9664cd)+ [Git](../Git)
+
+**Module goals**
+
+__JavaScript:__
+- Async VS Sync
+- XHTTP Requests 
+- Objects and Instances
+
+__Git:__
+- Have an understanding of branches and how they can be used.
+- Know what a remote is and know how to retrieve remote information from git: `git remote [show] [-v] [-vv]`
+- Know what the difference between the three types of branches are: : `local`, `local tracking`, `remote tracking`.
+- Know how to navigate between branches and what git commands to use for them.
+- Have an understanding of what `HEAD` means.
+
+##[JavaScript3](../TDD-TTT)
+
+**Module goals**
+
+__JavaScript:__
+- Test Driven Development
+
+##[Angular](../angular/blob/master/README.md)
+
+>There are millions of web applications and native (iOS/Android) out there. Now, say, today we want to create our own application, and we want it to be awesome and modern and at least as good as all those others. If you know how to write JavaScript, you have what it takes to write ANY web application that's out there. Literally. ANY. Remember, everyone running a web application must follow the same rules, and use the exact same building blocks: HTML/CSS/JavaScript. So why should we learn Angular? First, why use any library or framework at all? Answer: >99% of all the things you want to do have been done before (no worries, that 1% will still be enough to be unique). >99% of all the problems you run into have been solved by others before you. Fortunately, the world of software has been built with sharing and freedom in its heart. So we can Stand on the Shoulders of Giants.
+
+**Module goals**
+
+- How to use a Transpiler to convert ES6 into browser-safe JavaScript
+- How to use a Bundler to combine multiple modules into one, browser-safe file
+- How to use a TypeScript transpiler to convert TypeScript into browser-safe JavaScript
+- What is a Model?
+- What is a View?
+- How to setup an Angular application using the Angular CLI
+- How to create Components, component controllers and component templates using Angular.
+- How to create Services using Angular.
+
+##[Node](../Node.js)
+
+>Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine).
+
+**Module goals**
+
+- TBA
+- TBA
+- TBA
+
+##[Database](../databases)
+
+>What is a database? A place to store “things”. Could be as simple as a phone book (physical) or as complex as storing all the inventory for Amazon.com. Why use databases? Easier than having data all over the place. Puts the problem of collecting, storing, sorting and searching data in a single place. There are two primary types of database systems - relational and NoSQL. Relational databases have tables that relate to one another and can be “joined” ACID vs BASE
+
+**Module goals**
+By the end of this module, students should have a familiarity with and basic understanding of the following:
+
+- Entities
+- The relational model
+- The Structured Query Language (SQL)
+- The construction of a database system
+- MySQL as an example of a relational database system
+- Non-relational data and NoSQL
+- MongoDB as an example of a NoSQL database
+
+
+##[Project](../Project)
+
+>In this module students work together (in pairs of two) on a project. The goal of this module is to combine all your acquired skills from the last modules into a project. In this course requirement analysis and project management are core themes while building a full-stack project.
+
+**Module goals**
+
+- TBA
+- TBA
+- TBA
+
