@@ -108,7 +108,7 @@ __Git:__
 - Know how to navigate between branches and what git commands to use for them.
 - Have an understanding of what `HEAD` means.
 
-##[JavaScript3](../TDD-TTT)
+##[JavaScript3](https://github.com/HackYourFuture/TDD-TTT)
 
 **Module goals**
 
@@ -140,7 +140,7 @@ __JavaScript:__
 - TBA
 - TBA
 
-##[Database](../databases)
+##[Database](https://github.com/HackYourFuture/databases)
 
 >What is a database? A place to store “things”. Could be as simple as a phone book (physical) or as complex as storing all the inventory for Amazon.com. Why use databases? Easier than having data all over the place. Puts the problem of collecting, storing, sorting and searching data in a single place. There are two primary types of database systems - relational and NoSQL. Relational databases have tables that relate to one another and can be “joined” ACID vs BASE
 
