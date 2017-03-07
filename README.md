@@ -34,7 +34,7 @@ Our **[Github repository](../)** contains all the specifications and learing goa
 
 ##What do we teach?
 
-##[HTML/CSS](../HTML-CSS)
+##[HTML/CSS](https://github.com/HackYourFuture/HTML-CSS)
 
 >HTML is the standard markup language for creating Web pages. CSS is a language that describes the style of an HTML document. This module will introduce the basic concepts of HTML5 and CSS. We spend time getting you familiar with your text editor and handy developer tools. After this we will focus on responsive web development. Making responsive websites is an important part of front-end programming. You will learn how to make your websites responsive by using media queries using a “mobile first” approach. Last but not least we will spend time practicing some soft skills that we think are important for becoming a good developer. These include: give and receive feedback to your fellow students, presenting and explaining your work.
 
@@ -52,12 +52,12 @@ Our **[Github repository](../)** contains all the specifications and learing goa
 - Presenting and explaining your work to others
 
 
-##[JavaScript1 + ](https://gist.github.com/M3kH/19f78a17657a54d280a31eb9cb9664cd)[CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md) + [GIT](../Git)
+##[JavaScript1 + ](https://github.com/HackYourFuture/JavaScript)[CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md) + [GIT](https://github.com/HackYourFuture/Git)
 
 
 >The command line (cli, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module two half day sessions are spend to get students familiar with the command line.
 
-In [this](../JavaScript/tree/master/fundamentals) repo you can find a very nice overview of some of the fundamental javaScript concepts
+In [this](https://github.com/HackYourFuture/JavaScript/tree/master/fundamentals) repo you can find a very nice overview of some of the fundamental javaScript concepts
 
 **Module goals** 
 
@@ -92,7 +92,7 @@ __Git:__
 - Know how to add / remove files to that new repository
 - Know how to `commit` and `push` files in that new repository.
 
-##[JavaScript2](https://gist.github.com/M3kH/19f78a17657a54d280a31eb9cb9664cd)+ [Git](../Git)
+##[JavaScript2](https://github.com/HackYourFuture/JavaScript)+ [GIT](https://github.com/HackYourFuture/Git)
 
 **Module goals**
 
@@ -115,7 +115,7 @@ __Git:__
 __JavaScript:__
 - Test Driven Development
 
-##[Angular](../angular/blob/master/README.md)
+##[Angular](https://github.com/HackYourFuture/angular)
 
 >There are millions of web applications and native (iOS/Android) out there. Now, say, today we want to create our own application, and we want it to be awesome and modern and at least as good as all those others. If you know how to write JavaScript, you have what it takes to write ANY web application that's out there. Literally. ANY. Remember, everyone running a web application must follow the same rules, and use the exact same building blocks: HTML/CSS/JavaScript. So why should we learn Angular? First, why use any library or framework at all? Answer: >99% of all the things you want to do have been done before (no worries, that 1% will still be enough to be unique). >99% of all the problems you run into have been solved by others before you. Fortunately, the world of software has been built with sharing and freedom in its heart. So we can Stand on the Shoulders of Giants.
 
@@ -130,7 +130,7 @@ __JavaScript:__
 - How to create Components, component controllers and component templates using Angular.
 - How to create Services using Angular.
 
-##[Node](../Node.js)
+##[Node](https://github.com/HackYourFuture/Node.js)
 
 >Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine).
 
@@ -156,7 +156,7 @@ By the end of this module, students should have a familiarity with and basic und
 - MongoDB as an example of a NoSQL database
 
 
-##[Project](../Project)
+##[Project](https://github.com/HackYourFuture/Project)
 
 >In this module students work together (in pairs of two) on a project. The goal of this module is to combine all your acquired skills from the last modules into a project. In this course requirement analysis and project management are core themes while building a full-stack project.
 
