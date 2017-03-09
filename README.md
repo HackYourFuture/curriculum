@@ -24,7 +24,7 @@ Students are expected to finish all reading material before class, teachers prov
 ##What tools do we use?
 
 ###Github
-Our **[Github repository](https://github.com/HackYourFuture)** contains all the specifications and learing goals for the different modules. It's advised to get yourself familiar with [Github](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/). How to actually work with Git, a version control system, will be covered during the JavaScript modules. If students did not follow this modules yet they at least should be able to navigate and find course material inside our Github repository.
+Our **[Github repository](https://github.com/HackYourFuture)** contains all the specifications and learning goals for the different modules. It's advised to get yourself familiar with [Github](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/). How to actually work with Git, a version control system, will be covered during the JavaScript modules. If students did not follow this modules yet they at least should be able to navigate and find course material inside our Github repository.
 
 ###Slack
 **[Slack](https://slack.com/is)** is used to communicate between teachers and students during the week. Each class has their own channel in Slack where module specific questions can be asked. We require our students to be active on Slack and ask questions when they get stuck. Students are off course also stimulated to help each other out.
@@ -158,11 +158,13 @@ By the end of this module, students should have a familiarity with and basic und
 
 ##[Project](https://github.com/HackYourFuture/Project)
 
->In this module students work together (in pairs of two) on a project. The goal of this module is to combine all your acquired skills from the last modules into a project. In this course requirement analysis and project management are core themes while building a full-stack project.
+>In this module students work together in a team on a predefined project. The goal of this module is to combine all your acquired skills from the last modules into a project. In this course requirement analysis and project management are core themes while building a full-stack project.
 
 **Module goals**
 
-- TBA
-- TBA
-- TBA
+- Build a full-stack project, using all the different technologies you've acquired during the HackYourFuture program.
+- Show that you can work and function in a team
+- Get familiar working with Scrum
+- Get your CV and LinkedIn ready for when you are ready to go to interviews
+- Get an understanding of how (technical) interviews go in the Dutch job market
 
