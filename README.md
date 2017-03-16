@@ -1,4 +1,4 @@
-# HackYourFuture Curriculum
+#HackYourFuture Curriculum
 
 >Here you can find an overview of the HackYourFuture program. It gives insight in how our program is structured, organized, what you can expect from the modules that we teach and last but not least where we teach and where you can find support during the week. Our half year course is divided into modules that last 3 weeks with exception of the project module that lasts 6 weeks. Below you can find a short listing of the contents and deliverables/learning goals of the different modules. The headers of the different modules link to the actual repositories that are used by teachers to post assignments/reading materials etc. Be aware that some of the modules make use of more than one repository. 
 
@@ -29,7 +29,7 @@ Our **[Github repository](https://github.com/HackYourFuture)** contains all the 
 ###Slack
 **[Slack](https://slack.com/is)** is used to communicate between teachers and students during the week. Each class has their own channel in Slack where module specific questions can be asked. We require our students to be active on Slack and ask questions when they get stuck. Students are off course also stimulated to help each other out.
 
-###Trello
+### Trello
 **[Trello](https://trello.com/tour)** is where students hand in their homework and also receive feedback on their assignments every week. It's a commonly used tool for project management in workspaces and valuable to know your way around it.
 
 ##What do we teach?
