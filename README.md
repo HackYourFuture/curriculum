@@ -34,7 +34,7 @@ Our **[Github repository](https://github.com/HackYourFuture)** contains all the 
 
 ## What do we teach?
 
-##[HTML/CSS](https://github.com/HackYourFuture/HTML-CSS)
+## [HTML/CSS](https://github.com/HackYourFuture/HTML-CSS)
 
 >HTML is the standard markup language for creating Web pages. CSS is a language that describes the style of an HTML document. This module will introduce the basic concepts of HTML5 and CSS. We spend time getting you familiar with your text editor and handy developer tools. After this we will focus on responsive web development. Making responsive websites is an important part of front-end programming. You will learn how to make your websites responsive by using media queries using a “mobile first” approach. Last but not least we will spend time practicing some soft skills that we think are important for becoming a good developer. These include: give and receive feedback to your fellow students, presenting and explaining your work.
 
@@ -52,7 +52,7 @@ Our **[Github repository](https://github.com/HackYourFuture)** contains all the 
 - Presenting and explaining your work to others
 
 
-##[JavaScript1](https://github.com/HackYourFuture/JavaScript) + [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md) + [GIT](https://github.com/HackYourFuture/Git)
+## [JavaScript1](https://github.com/HackYourFuture/JavaScript) + [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md) + [GIT](https://github.com/HackYourFuture/Git)
 
 
 >The command line (cli, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module two half day sessions are spend to get students familiar with the command line.
@@ -92,7 +92,7 @@ __Git:__
 - Know how to add / remove files to that new repository
 - Know how to `commit` and `push` files in that new repository.
 
-##[JavaScript2](https://github.com/HackYourFuture/JavaScript) + [GIT](https://github.com/HackYourFuture/Git)
+## [JavaScript2](https://github.com/HackYourFuture/JavaScript) + [GIT](https://github.com/HackYourFuture/Git)
 
 **Module goals**
 
@@ -108,7 +108,7 @@ __Git:__
 - Know how to navigate between branches and what git commands to use for them.
 - Have an understanding of what `HEAD` means.
 
-##[JavaScript3](https://github.com/HackYourFuture/TDD-TTT)
+## [JavaScript3](https://github.com/HackYourFuture/TDD-TTT)
 
 **Module goals**
 
@@ -130,7 +130,7 @@ __JavaScript:__
 - How to create Components, component controllers and component templates using Angular.
 - How to create Services using Angular.
 
-##[Node](https://github.com/HackYourFuture/Node.js)
+## [Node](https://github.com/HackYourFuture/Node.js)
 
 >Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine).
 
@@ -140,7 +140,7 @@ __JavaScript:__
 - TBA
 - TBA
 
-##[Database](https://github.com/HackYourFuture/databases)
+## [Database](https://github.com/HackYourFuture/databases)
 
 >What is a database? A place to store “things”. Could be as simple as a phone book (physical) or as complex as storing all the inventory for Amazon.com. Why use databases? Easier than having data all over the place. Puts the problem of collecting, storing, sorting and searching data in a single place. There are two primary types of database systems - relational and NoSQL. Relational databases have tables that relate to one another and can be “joined” ACID vs BASE
 
@@ -156,7 +156,7 @@ By the end of this module, students should have a familiarity with and basic und
 - MongoDB as an example of a NoSQL database
 
 
-##[Project](https://github.com/HackYourFuture/Project)
+## [Project](https://github.com/HackYourFuture/Project)
 
 >In this module students work together in a team on a predefined project. The goal of this module is to combine all your acquired skills from the last modules into a project. In this course requirement analysis and project management are core themes while building a full-stack project.
 
