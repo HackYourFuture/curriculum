@@ -115,7 +115,7 @@ __Git:__
 __JavaScript:__
 - Test Driven Development
 
-##[Angular](https://github.com/HackYourFuture/angular)
+## [Angular](https://github.com/HackYourFuture/angular)
 
 >There are millions of web applications and native (iOS/Android) out there. Now, say, today we want to create our own application, and we want it to be awesome and modern and at least as good as all those others. If you know how to write JavaScript, you have what it takes to write ANY web application that's out there. Literally. ANY. Remember, everyone running a web application must follow the same rules, and use the exact same building blocks: HTML/CSS/JavaScript. So why should we learn Angular? First, why use any library or framework at all? Answer: >99% of all the things you want to do have been done before (no worries, that 1% will still be enough to be unique). >99% of all the problems you run into have been solved by others before you. Fortunately, the world of software has been built with sharing and freedom in its heart. So we can Stand on the Shoulders of Giants.
 
