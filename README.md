@@ -73,8 +73,6 @@ __JavaScript:__
 - Functions
 - For Loops and While
 - String and Array Manipulations
-- Closures, Scope and Immediately Invoked function expression
-- Call Backs and Promises 
 
 __CLI:__
 - To know the terminal/bash/command line for UNIX based systems.
@@ -97,6 +95,8 @@ __Git:__
 **Module goals**
 
 __JavaScript:__
+- Closures, Scope and Immediately Invoked function expression
+- Call Backs and Promises 
 - Async VS Sync
 - XHTTP Requests 
 - Objects and Instances
@@ -132,13 +132,22 @@ __JavaScript:__
 
 ## [Node](https://github.com/HackYourFuture/Node.js)
 
->Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine).
+>Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine).For almost any web application, it is essential to have a backend. The backend is a place where we, the developers, can store our data, communicate with users and let the users communicate with us, do smart things like calculations, data processing etc.
 
-**Module goals**
+There are many languages for this. We might've heard of Java, C, C++, Go, Python, Ruby, PHP and the [list goes on](https://blog.newrelic.com/2016/08/18/popular-programming-languages-2016-go/). 
 
-- TBA
-- TBA
-- TBA
+There are two reasons why we at HYF choose Node.JS over others:
+1) You already know JavaScript, so it's easier to get started than other languages
+2) Node.js is great for making web APIs because it is asynchronous by nature and thus allows for high input/output. By this we mean that it allows many users to make very light requests at the same time.
+
+## What will we learn?
+- What is Node.js?
+- Using Node Package Manager (NPM)
+- Using `require` to include modules
+- Using `http` to handle http requests and respond
+- Using `fs` to read from and write to files.
+- Using `process` to read arguments from the CLI
+- Using `express` to make a RESTful API
 
 ## [Database](https://github.com/HackYourFuture/databases)
 
