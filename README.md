@@ -111,24 +111,10 @@ __Git:__
 ## [JavaScript3](https://github.com/HackYourFuture/TDD-TTT)
 
 **Module goals**
+-TBA
 
 __JavaScript:__
 - Test Driven Development
-
-## [Angular](https://github.com/HackYourFuture/angular)
-
->There are millions of web applications and native (iOS/Android) out there. Now, say, today we want to create our own application, and we want it to be awesome and modern and at least as good as all those others. If you know how to write JavaScript, you have what it takes to write ANY web application that's out there. Literally. ANY. Remember, everyone running a web application must follow the same rules, and use the exact same building blocks: HTML/CSS/JavaScript. So why should we learn Angular? First, why use any library or framework at all? Answer: >99% of all the things you want to do have been done before (no worries, that 1% will still be enough to be unique). >99% of all the problems you run into have been solved by others before you. Fortunately, the world of software has been built with sharing and freedom in its heart. So we can Stand on the Shoulders of Giants.
-
-**Module goals**
-
-- How to use a Transpiler to convert ES6 into browser-safe JavaScript
-- How to use a Bundler to combine multiple modules into one, browser-safe file
-- How to use a TypeScript transpiler to convert TypeScript into browser-safe JavaScript
-- What is a Model?
-- What is a View?
-- How to setup an Angular application using the Angular CLI
-- How to create Components, component controllers and component templates using Angular.
-- How to create Services using Angular.
 
 ## [Node](https://github.com/HackYourFuture/Node.js)
 
@@ -148,6 +134,21 @@ There are two reasons why we at HYF choose Node.JS over others:
 - Using `fs` to read from and write to files.
 - Using `process` to read arguments from the CLI
 - Using `express` to make a RESTful API
+
+## [Angular](https://github.com/HackYourFuture/angular)
+
+>There are millions of web applications and native (iOS/Android) out there. Now, say, today we want to create our own application, and we want it to be awesome and modern and at least as good as all those others. If you know how to write JavaScript, you have what it takes to write ANY web application that's out there. Literally. ANY. Remember, everyone running a web application must follow the same rules, and use the exact same building blocks: HTML/CSS/JavaScript. So why should we learn Angular? First, why use any library or framework at all? Answer: >99% of all the things you want to do have been done before (no worries, that 1% will still be enough to be unique). >99% of all the problems you run into have been solved by others before you. Fortunately, the world of software has been built with sharing and freedom in its heart. So we can Stand on the Shoulders of Giants.
+
+**Module goals**
+
+- How to use a Transpiler to convert ES6 into browser-safe JavaScript
+- How to use a Bundler to combine multiple modules into one, browser-safe file
+- How to use a TypeScript transpiler to convert TypeScript into browser-safe JavaScript
+- What is a Model?
+- What is a View?
+- How to setup an Angular application using the Angular CLI
+- How to create Components, component controllers and component templates using Angular.
+- How to create Services using Angular.
 
 ## [Database](https://github.com/HackYourFuture/databases)
 
