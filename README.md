@@ -178,4 +178,6 @@ By the end of this module, students should have a familiarity with and basic und
 - Get your CV and LinkedIn ready for when you are ready to go to interviews
 - Get an understanding of how (technical) interviews go in the Dutch job market
 
+
+
 Our curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it:)
