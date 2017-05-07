@@ -52,7 +52,7 @@ Our **[Github repository](https://github.com/HackYourFuture)** contains all the 
 - Presenting and explaining your work to others
 
 
-## [JavaScript1](https://github.com/HackYourFuture/JavaScript) + [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md) + [GIT](https://github.com/HackYourFuture/Git)
+## [JavaScript1](https://github.com/HackYourFuture/JavaScript/tree/laurens_thomas) + [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md) + [GIT](https://github.com/HackYourFuture/Git)
 
 
 >The command line (cli, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module two half day sessions are spend to get students familiar with the command line.
@@ -62,17 +62,24 @@ In [this](https://github.com/HackYourFuture/JavaScript/tree/master/fundamentals)
 **Module goals** 
 
 __JavaScript:__
-- Values, Operators and Variables
-- Primitives Types
+- What is JavaScript and where can you use it for
+- Basic Data Types
     - Strings
     - Numbers
     - Array  
-    - Function
-    - Objects litterals
-- Conditions
+- Values
+- Operators
+- Variables
+- Naming conventions
+- Loops (for and while)
 - Functions
-- For Loops and While
+- Closures
+- Scopes
+- Advanced Data types
+    - Objects
 - String and Array Manipulations
+- Basic DOM manipulations
+- Code commenting
 
 __CLI:__
 - To know the terminal/bash/command line for UNIX based systems.
@@ -80,6 +87,24 @@ __CLI:__
 - Copy, rename and move files with terminal commands.
 - Learn output redirection, piping on the terminal.
 - Write basic shell scripts to ease the programming life.
+
+## [JavaScript2](https://github.com/HackYourFuture/JavaScript/tree/laurens_thomas) + [GIT](https://github.com/HackYourFuture/Git)
+
+**Module goals**
+
+__JavaScript:__
+- JSON
+- Code debugging using the browser
+- Functions + JSON/Arrays
+- Code flow (order of execution)
+- (Capturing user input)
+- Structuring code files
+- Events
+- Callbacks and Promises
+- XHTTP Requests
+- API calls
+- Async VS Sync
+- Polling
 
 __Git:__
 - Have an understanding of problems for developers working together on software
@@ -89,32 +114,25 @@ __Git:__
 - Know how to create a new repository using `clone` and `init`
 - Know how to add / remove files to that new repository
 - Know how to `commit` and `push` files in that new repository.
-
-## [JavaScript2](https://github.com/HackYourFuture/JavaScript) + [GIT](https://github.com/HackYourFuture/Git)
-
-**Module goals**
-
-__JavaScript:__
-- Closures, Scope and Immediately Invoked function expression
-- Call Backs and Promises 
-- Async VS Sync
-- XHTTP Requests 
-- Objects and Instances
-
-__Git:__
 - Have an understanding of branches and how they can be used.
 - Know what a remote is and know how to retrieve remote information from git: `git remote [show] [-v] [-vv]`
 - Know what the difference between the three types of branches are: : `local`, `local tracking`, `remote tracking`.
 - Know how to navigate between branches and what git commands to use for them.
 - Have an understanding of what `HEAD` means.
 
-## [JavaScript3](https://github.com/HackYourFuture/TDD-TTT)
+## [JavaScript3](https://github.com/HackYourFuture/JavaScript/tree/laurens_thomas)
 
 **Module goals**
--TBA
 
 __JavaScript:__
+- (re)writing data structures (in JSON)
+- Map, reduce filter    Reading Week 7  Homework Week 7
+- Closures 
+- Promises
 - Test Driven Development
+
+__GIT__
+- Git Workflow
 
 ## [Node](https://github.com/HackYourFuture/Node.js)
 
