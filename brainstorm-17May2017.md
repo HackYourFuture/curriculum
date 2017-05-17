@@ -16,6 +16,7 @@ To see the notes of what we discussed last time please check [Unmesh's notes](ht
     + There is an [Alumni Wiki](https://github.com/HackYourFuture/alumni/wiki) that tells you step by step how to land your first developer job (optimize your CV, how to prepare for an interview etc.). 
     + We've had two Masterclasses/Alumni sessions (Security event and the Datastrcutures class that is going on now) since the last meeting.
     + For the last few months Erol and Natan have been working with some of the Alumni on the [Generala App](https://github.com/HackYourFuture/generala). An project that Alumni (with or without a job) can join to improve their skill set. 
+    + We've done (tech)interview training with Martijn, Tim and Walla to prepare our students before they go into actual interviews (we still need to evaluate this with the students who did this).
     + Feedback after every module from students on quality of teaching/module content
 
 ### Future work
