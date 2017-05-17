@@ -22,10 +22,16 @@ To see the notes of what we discussed last time please check [Unmesh's notes](ht
 ### Future work
 - What we are currently working on:
     + Slack bot for administrative, feedback, test purposes.
-    + Clear teaching vision
+    + Clear teaching vision (learning practices)
+    + incorporate best learning practices in curriculum. For example:
+        * _Spaced practice_ (you learn more with the same amount of time) short study sessions (read questions or assignments via bot) make you learn more effectively. Review information form each class starting a day later. Then go back and study older information to keep it fresh.
+        * _Switch_ switch between ideas to show the singularities between topics or types of questions.
+        * _Ask explain & connect_ why and how questions.
+        * 
     + Clear profile graduated HYF students
 
 - What else can we improve?
+    + This is where you guys make all sorts of suggestions
 - What are your ideas where HYF should focus on in the coming year?
     Things to keep in mind:
     + We have to keep on finding good candidates (this could be an issue)
