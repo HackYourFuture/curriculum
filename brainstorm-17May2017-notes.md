@@ -3,8 +3,8 @@
 ### Attendees
 Daan, Jim, Pablo(the Real Pablo), Mattijn, David, Philipp (a.k.a. ze_german), Iris, Laurens, Timir, Gijs, Maartje.
 
-Former students: Ali, Wael and Jack
-Employers: Machiel, Ruben
+<br>Former students: Ali, Wael and Jack
+<br>Employers: Machiel, Ruben
 
 ## Plan
 [Today's plan](https://github.com/HackYourFuture/curriculum/blob/master/brainstorm-17May2017.md)
