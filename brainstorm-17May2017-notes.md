@@ -1,7 +1,10 @@
 # Brainstorm session 17 May 2017
 
 ### Attendees
-Daan, Maartje, Gijs
+Daan, Jim, Pablo(the Real Pablo), Mattijn, David, Philipp (a.k.a. ze_german), Iris, Laurens, Timir, Gijs, Maartje.
+
+Former students: Ali, Wael and Jack
+Employers: Machiel, Ruben
 
 ## Plan
 [Today's plan](https://github.com/HackYourFuture/curriculum/blob/master/brainstorm-17May2017.md)
@@ -13,7 +16,7 @@ Daan, Maartje, Gijs
 [Notes here](EmployerFeedback-17May2017.md)
 
 ## Curriculum 
-- Start with summary / look back since previous brainstorm
+- Start with summary / look back since [previous brainstorm.](https://github.com/HackYourFuture/curriculum/blob/master/brainstorm-17May2017.md) 
 
 ### 15 minutes of short improvements
 *Getting more people to finish the program successfully.*
