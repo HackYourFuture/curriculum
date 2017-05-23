@@ -52,7 +52,7 @@ Our **[Github repository](https://github.com/HackYourFuture)** contains all the 
 - Presenting and explaining your work to others
 
 
-## [JavaScript1](https://github.com/HackYourFuture/JavaScript/tree/laurens_thomas) + [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md) + [GIT](https://github.com/HackYourFuture/Git)
+## [JavaScript1](https://github.com/HackYourFuture/JavaScript/tree/laurens_thomas) + [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md)
 
 
 >The command line (cli, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module two half day sessions are spend to get students familiar with the command line.
@@ -120,7 +120,7 @@ __Git:__
 - Know how to navigate between branches and what git commands to use for them.
 - Have an understanding of what `HEAD` means.
 
-## [JavaScript3](https://github.com/HackYourFuture/JavaScript/tree/laurens_thomas)
+## [JavaScript3](https://github.com/HackYourFuture/JavaScript/tree/laurens_thomas) + [GIT](https://github.com/HackYourFuture/Git)
 
 **Module goals**
 
@@ -190,12 +190,12 @@ By the end of this module, students should have a familiarity with and basic und
 
 **Module goals**
 
-- Build a full-stack project, using all the different technologies you've acquired during the HackYourFuture program.
-- Show that you can work and function in a team
-- Get familiar working with Scrum
-- Get your CV and LinkedIn ready for when you are ready to go to interviews
-- Get an understanding of how (technical) interviews go in the Dutch job market
+- Working on a full-stack skeleton (provided by us), using different technologies you’ve been exposed to during the HackYourFuture program.
+- Fill the gaps that you have left in the previous modules. Did you miss an Node assignment? Make sure to pick up an extra issue there.
+- Show that you can work and function in a team.
+- Get familiar working with Scrum.
 
 
-
-Our curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it:)
+**After this module we offer (technical)interview and cv training for those who are interested. The goal of these sessions are to:**
+- Get your CV and LinkedIn ready for when you are ready to go to interviews.
+- Get an understanding of how (technical) interviews go in the Dutch job market.
