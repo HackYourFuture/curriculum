@@ -1,8 +1,8 @@
 # I'm a (new) teacher!
 
-### Super nice that you joined our HYF teaching team. Here are some practical things to help you get started:
+### Super nice that you joined our HYF teaching team, here are some practical things to help you get started:
 
-* :information_desk_person: If you don't have access to one of the things mentioned below, ask Maartje.
+\*:information_desk_person: If you don't have access to one of the things mentioned below, ask Maartje.
 
 **Slack**
 - Our Slack has channels for every class, the main goal here is that we support students with questions/their homework during the week. You of course don't have to join all of them, but please join the channel of the class that you are currently teaching or helping out with. If you are not in Slack yet: :information_desk_person: 
@@ -19,5 +19,5 @@
 - *Trello* is used in the first three modules to hand in homework (first zip files) later links to Github repositories. :information_desk_person:
 - Later on we use [this](https://github.com/HackYourFuture/Git/blob/master/Lecture-3.md) method to hand in homework.
 
-**Any other questions? ->** :information_desk_person:
+**Any other questions?**:arrow_right: :information_desk_person:
 
