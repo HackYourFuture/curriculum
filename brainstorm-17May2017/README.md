@@ -7,7 +7,7 @@ Daan, Jim, Pablo(the Real Pablo), Mattijn, David, Philipp (a.k.a. ze_german), Ir
 <br>Employers: Machiel, Ruben
 
 ## Plan
-[Today's plan](https://github.com/HackYourFuture/curriculum/blob/master/brainstorm-17May2017.md)
+[Today's plan](https://github.com/HackYourFuture/curriculum/blob/master/brainstorm-17May2017/brainstorm-17May2017.md)
 
 ## Student feedback
 [Notes here](JackWaelAli-feedback.md)
@@ -16,7 +16,7 @@ Daan, Jim, Pablo(the Real Pablo), Mattijn, David, Philipp (a.k.a. ze_german), Ir
 [Notes here](EmployerFeedback-17May2017.md)
 
 ## Curriculum 
-- Start with summary / look back since [previous brainstorm.](https://github.com/HackYourFuture/curriculum/blob/master/brainstorm-17May2017.md) 
+- Start with summary / look back since [previous brainstorm.](https://github.com/HackYourFuture/curriculum/blob/master/brainstorm-17May2017/brainstorm-17May2017.md) 
 
 ### 15 minutes of short improvements
 *Getting more people to finish the program successfully.*
