@@ -6,7 +6,7 @@
 
 **Are you a new student? Take a look [here](https://github.com/HackYourFuture/curriculum/blob/master/i-am-a-new-student.md) to see how to prepare for your first class!**
 
-### **Are you either a new student or a new teacher? Take a look at what we see as our [core values](https://github.com/HackYourFuture/curriculum/blob/master/hyf-core-values.md) at HackYourFuture before you join our community**:heart:
+### **Are you either a new student or a new teacher? Take a look at what we see as our [core values](https://github.com/HackYourFuture/curriculum/blob/master/hyf-core-values.md) at HackYourFuture before you join our community** :heart:
 
 ## What do we teach?
 
@@ -14,7 +14,7 @@
 
 >HTML is the standard markup language for creating Web pages. CSS is a language that describes the style of an HTML document. This module will introduce the basic concepts of HTML5 and CSS. We spend time getting you familiar with your text editor and handy developer tools. After this we will focus on responsive web development. Making responsive websites is an important part of front-end programming. You will learn how to make your websites responsive by using media queries using a “mobile first” approach. Last but not least we will spend time practicing some soft skills that we think are important for becoming a good developer. These include: give and receive feedback to your fellow students, presenting and explaining your work.
 
-**Module goals**
+### **Module goals**
 - Basic understanding of HTML5 and CSS (DOM, semantic elements)
 - Know how to organize your files
 - Know your way around your text editor
@@ -35,9 +35,9 @@
 
 In [this](https://github.com/HackYourFuture/JavaScript/tree/master/fundamentals) repo you can find a very nice overview of some of the fundamental javaScript concepts
 
-**Module goals** 
+### **Module goals**
 
-__JavaScript:__
+**JavaScript:**
 - What is JavaScript and where can you use it for
 - Basic Data Types
     - Strings
@@ -57,7 +57,7 @@ __JavaScript:__
 - Basic DOM manipulations
 - Code commenting
 
-__CLI:__
+**CLI:**
 - To know the terminal/bash/command line for UNIX based systems.
 - Navigate the file system without using a UI explorer.
 - Copy, rename and move files with terminal commands.
@@ -66,9 +66,9 @@ __CLI:__
 
 ## [JavaScript2](https://github.com/HackYourFuture/JavaScript/tree/laurens_thomas) + [GIT](https://github.com/HackYourFuture/Git)
 
-**Module goals**
+### **Module goals**
 
-__JavaScript:__
+**JavaScript:**
 - JSON
 - Code debugging using the browser
 - Functions + JSON/Arrays
@@ -82,7 +82,7 @@ __JavaScript:__
 - Async VS Sync
 - Polling
 
-__Git:__
+**Git:**
 - Have an understanding of problems for developers working together on software
 - Have an understanding of the need for version control software
 - Have an understanding of what GIT is and what problem it solves.
@@ -98,21 +98,21 @@ __Git:__
 
 ## [JavaScript3](https://github.com/HackYourFuture/JavaScript/tree/laurens_thomas) + [GIT](https://github.com/HackYourFuture/Git)
 
-**Module goals**
+### **Module goals**
 
-__JavaScript:__
+**JavaScript:**
 - (re)writing data structures (in JSON)
 - Map, reduce filter
 - Closures 
 - Promises
 - Test Driven Development
 
-__GIT__
+**GIT**
 - Git Workflow
 
 ## [Node](https://github.com/HackYourFuture/Node.js)
 
->Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine).For almost any web application, it is essential to have a backend. The backend is a place where we, the developers, can store our data, communicate with users and let the users communicate with us, do smart things like calculations, data processing etc.
+>Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine). For almost any web application, it is essential to have a backend. The backend is a place where we, the developers, can store our data, communicate with users and let the users communicate with us, do smart things like calculations, data processing etc.
 
 There are many languages for this. We might've heard of Java, C, C++, Go, Python, Ruby, PHP and the [list goes on](https://blog.newrelic.com/2016/08/18/popular-programming-languages-2016-go/). 
 
@@ -120,7 +120,7 @@ There are two reasons why we at HYF choose Node.JS over others:
 1) You already know JavaScript, so it's easier to get started than other languages
 2) Node.js is great for making web APIs because it is asynchronous by nature and thus allows for high input/output. By this we mean that it allows many users to make very light requests at the same time.
 
-## What will we learn?
+### **What will we learn?**
 - What is Node.js?
 - Using Node Package Manager (NPM)
 - Using `require` to include modules
@@ -129,17 +129,11 @@ There are two reasons why we at HYF choose Node.JS over others:
 - Using `process` to read arguments from the CLI
 - Using `express` to make a RESTful API
 
-## [React](https://github.com/HackYourFuture/React)
-
-**Module goals**
-
-TBA
-
 ## [Database](https://github.com/HackYourFuture/databases)
 
 >What is a database? A place to store “things”. Could be as simple as a phone book (physical) or as complex as storing all the inventory for Amazon.com. Why use databases? Easier than having data all over the place. Puts the problem of collecting, storing, sorting and searching data in a single place. There are two primary types of database systems - relational and NoSQL. Relational databases have tables that relate to one another and can be “joined” ACID vs BASE
 
-**Module goals**
+### **Module goals**
 By the end of this module, students should have a familiarity with and basic understanding of the following:
 
 - Entities
@@ -150,12 +144,17 @@ By the end of this module, students should have a familiarity with and basic und
 - Non-relational data and NoSQL
 - MongoDB as an example of a NoSQL database
 
+## [React](https://github.com/HackYourFuture/React)
+
+### **Module goals**
+
+TBA
 
 ## [Project](https://github.com/HackYourFuture/Project)
 
 >In this module students work together in a team on a predefined project. The goal of this module is to combine all your acquired skills from the last modules into a project. In this course requirement analysis and project management are core themes while building a full-stack project.
 
-**Module goals**
+### **Module goals**
 
 - Working on a full-stack skeleton (provided by us), using different technologies you’ve been exposed to during the HackYourFuture program.
 - Fill the gaps that you have left in the previous modules. Did you miss an Node assignment? Make sure to pick up an extra issue there.
@@ -163,8 +162,9 @@ By the end of this module, students should have a familiarity with and basic und
 - Get familiar working with Scrum.
 
 
-**After this module we offer (technical)interview and cv training for those who are interested. The goal of these sessions are to:**
+**After this module we offer (technical)interview and CV training for those who are interested. The goal of these sessions are to:**
 - Get your CV and LinkedIn ready for when you are ready to go to interviews.
 - Get an understanding of how (technical) interviews go in the Dutch job market.
+
 
 Our curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it:)

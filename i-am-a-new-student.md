@@ -1,7 +1,6 @@
+**Please read the [HackYourFuture core values](https://github.com/HackYourFuture/curriculum/blob/master/hyf-core-values.md)**
+
 ## When do we teach?
-
-#read the [HackYourFuture core values](https://github.com/HackYourFuture/curriculum/blob/master/hyf-core-values.md)
-
 
 ### Class on Sunday
 Class is every Sunday from 12.00 to approximately 16/16.30. 

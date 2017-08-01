@@ -2,6 +2,8 @@
 
 ### Super nice that you joined our HYF teaching team, here are some practical things to help you get started:
 
+**Please read the [HackYourFuture core values](https://github.com/HackYourFuture/curriculum/blob/master/hyf-core-values.md)**
+
 \*:information_desk_person: If you don't have access to one of the things mentioned below, ask Maartje.
 
 **Slack**
