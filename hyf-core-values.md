@@ -11,7 +11,7 @@
 ## Community
 * Volunteers, they are here on their free Sundays, while they could be with their families and friends. Respect their time. Value their time. Give them energy and motivate them. 
 * You are now part of our community. Think about how you would like to contribute to the community. What do you have to offer? What can you teach us?
-* Your team (aka your class).  Doing HYF all alone is merely impossible. Help out your team mates, motivate each other, be strict to each other. Find out why you are all here is this room together. As a team you have a responsibility toward us and mostly towards your teachers. Again, value and respect their time. Motivate them when they need it, help them out as well.
+* Your team (aka your class).  Doing HYF all alone is merely impossible. Help out your team mates, motivate each other, be strict to each other. Find out why you are all here in this room together. As a team you have a responsibility toward us and mostly towards your teachers. Again, value and respect their time. Motivate them when they need it, help them out as well.
 
 ## In short, your responsibilities inside HYF:
 * Take ownership for your own learning process.
