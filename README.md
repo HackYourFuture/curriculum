@@ -30,31 +30,24 @@
 
 ## [JavaScript1](https://github.com/HackYourFuture/JavaScript/) + [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md)
 
-
 >The command line (cli, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module two half day sessions are spend to get students familiar with the command line.
 
-In [this](https://github.com/HackYourFuture/JavaScript/tree/master/fundamentals) repo you can find a very nice overview of some of the fundamental javaScript concepts
+### **Module goals for JavaScript1**
 
-### **Module goals**
-
-**JavaScript:**
 - What is JavaScript and where can you use it for
-- Basic Data Types
-    - Strings
-    - Numbers
-    - Array  
-- Values
+- Variables [var, let, const]
+- Basic Data Types [Strings, Numbers, Arrays]
 - Operators
-- Variables
+-  Advanced data types [Objects] 
+- Conditions 
+- Statements vs Expressions
+- Loops (for/while)
+- Functions 
 - Naming conventions
-- Loops (for and while)
-- Functions
-- Closures
-- Scopes
-- Advanced Data types
-    - Objects
-- String and Array Manipulations
-- Basic DOM manipulations
+- Closures 
+- Scope 
+- Array Manipulations 
+- Basic DOM manipulations [img src, innerHTML]
 - Code commenting
 
 **CLI:**
@@ -66,9 +59,8 @@ In [this](https://github.com/HackYourFuture/JavaScript/tree/master/fundamentals)
 
 ## [JavaScript2](https://github.com/HackYourFuture/JavaScript/) + [GIT](https://github.com/HackYourFuture/Git)
 
-### **Module goals**
+### **Module goals for JavaScript 2**
 
-**JavaScript:**
 - JSON
 - Code debugging using the browser
 - Functions + JSON/Arrays
@@ -76,11 +68,12 @@ In [this](https://github.com/HackYourFuture/JavaScript/tree/master/fundamentals)
 - (Capturing user input)
 - Structuring code files
 - Events
-- Callbacks and Promises
+- Callbacks
 - XHTTP Requests
 - API calls
 - Async VS Sync
 - Polling
+- Structure for a basic SPA
 
 **Git:**
 - Have an understanding of problems for developers working together on software
@@ -98,13 +91,15 @@ In [this](https://github.com/HackYourFuture/JavaScript/tree/master/fundamentals)
 
 ## [JavaScript3](https://github.com/HackYourFuture/JavaScript/) + [GIT](https://github.com/HackYourFuture/Git)
 
-### **Module goals**
+### **Module goals for JavaScript 3**
 
 **JavaScript:**
 - (re)writing data structures (in JSON)
-- Map, reduce filter
+- Map, reduce, filter
+- Arrow functions
 - Closures 
 - Promises
+- Object Literals (and other patterns)
 - Test Driven Development
 
 **GIT**
@@ -148,7 +143,9 @@ By the end of this module, students should have a familiarity with and basic und
 
 ### **Module goals**
 
-TBA
+- React Components
+- State and Lifecycle
+- Forms and Managing State
 
 ## [Project](https://github.com/HackYourFuture/Project)
 
