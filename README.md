@@ -44,6 +44,7 @@
 
 ### **Module goals**
 **JavaScript**
+
 A basic understanding of the following topics:
 - Intro JavaScript (What is it, where can you use it for)
 - Variables [var, let, const]
@@ -57,6 +58,7 @@ A basic understanding of the following topics:
 - Functions 
 
 **Git**
+
 After this sessions students should:
 - Have an understanding of problems for developers working together on software
 - Have an understanding of the need for version control software
@@ -74,11 +76,11 @@ After this sessions students should:
 - Have an understanding of pull requests and forking workflow.
 
 
-## [JavaScript2](https://github.com/HackYourFuture/JavaScript/) + 
-
-### **Module goals for JavaScript2**
+## [JavaScript2](https://github.com/HackYourFuture/JavaScript/)
 
 > JavaScript in the browser with HTML and CSS
+
+### **Module goals for JavaScript2**
 
 - Capturing user input
 - Basic DOM manipulations [img src, innerHTML]
