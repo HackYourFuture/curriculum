@@ -38,7 +38,7 @@
 - Write basic shell scripts to ease the programming life.
 
 
-## [JavaScript1](https://github.com/HackYourFuture/JavaScript/)/[GIT](https://github.com/HackYourFuture/Git)/ [debugging](https://github.com/HackYourFuture/debugging)
+## [JavaScript1](https://github.com/HackYourFuture/JavaScript1/)/[GIT](https://github.com/HackYourFuture/Git)/ [debugging](https://github.com/HackYourFuture/debugging)
 
 > In this module we use Node to run JavaScript.
 
@@ -147,10 +147,13 @@ By the end of this module, students should have a familiarity with and basic und
 ## [React](https://github.com/HackYourFuture/React)
 
 ### **Module goals**
+By the end of this module, students should have a familiarity with and basic understanding of the following:
 
 - React Components
 - State and Lifecycle
 - Forms and Managing State
+- Flux & MobX MobX
+- API Integration
 
 ## [Project](https://github.com/HackYourFuture/Project)
 
