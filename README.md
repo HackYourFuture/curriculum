@@ -76,7 +76,7 @@ After this sessions students should:
 - Have an understanding of pull requests and forking workflow.
 
 
-## [JavaScript2](https://github.com/HackYourFuture/JavaScript/)
+## [JavaScript2](https://github.com/HackYourFuture/JavaScript2)
 
 > JavaScript in the browser with HTML and CSS
 
@@ -97,7 +97,7 @@ After this sessions students should:
 - Events
 - Callbacks
 
-## [JavaScript3](https://github.com/HackYourFuture/JavaScript/)
+## [JavaScript3](https://github.com/HackYourFuture/JavaScript3)
 
 ### **Module goals for JavaScript3**
 
