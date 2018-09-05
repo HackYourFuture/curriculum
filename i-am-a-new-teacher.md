@@ -4,7 +4,7 @@
 
 **Please read the [HackYourFuture core values](https://github.com/HackYourFuture/curriculum/blob/master/hyf-core-values.md)**
 
-\*:information_desk_person: If you don't have access to one of the things mentioned below, ask Maartje.
+\*:information_desk_person: If you don't have access to one of the things mentioned below, ask Gijs.
 
 **Slack**
 - Our Slack has channels for every class, the main goal here is that we support students with questions/their homework during the week. You of course don't have to join all of them, but please join the channel of the class that you are currently teaching or helping out with. If you are not in Slack yet: :information_desk_person: 
@@ -20,6 +20,7 @@
 **Homework**
 - *Trello* is used in the first three modules to hand in homework (first zip files) later links to Github repositories. :information_desk_person:
 - Later on we use [this](https://github.com/HackYourFuture/Git/blob/master/Lecture-3.md) method to hand in homework.
+- All homework is given feedback by teachers, we do this by commenting on the pull-requests of the students and asking for improvements. 
 
 **Any other questions?**:arrow_right: :information_desk_person:
 
