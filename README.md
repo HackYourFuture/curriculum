@@ -157,19 +157,19 @@ By the end of this module, students should have a familiarity with and basic und
 
 ## [Project](https://github.com/HackYourFuture/Project)
 
->In this module students work together in a team on a predefined project. The goal of this module is to combine all your acquired skills from the last modules into a project. In this course requirement analysis and project management are core themes while building a full-stack project.
+>This six week project module will simulate parts of a real working experience in a typical software company.
 
-### **Module goals**
+### **Module goals**:
+- Learn to understand an existing codebase in a short period of time
+- Get experience working on existing projects 
+- Get experience working on open-source projects
+- Get familiar with the basics of project management with agile
+- Become comfortable with reporting about your work and comunicating within a team.
 
-- Working on a full-stack skeleton (provided by us), using different technologies you’ve been exposed to during the HackYourFuture program.
-- Fill the gaps that you have left in the previous modules. Did you miss an Node assignment? Make sure to pick up an extra issue there.
-- Show that you can work and function in a team.
-- Get familiar working with Scrum.
-
-
-**After this module we offer (technical)interview and CV training for those who are interested. The goal of these sessions are to:**
+ **After this module we offer (technical) interview and cv training for those who are interested. The goal of these sessions are to:**
 - Get your CV and LinkedIn ready for when you are ready to go to interviews.
 - Get an understanding of how (technical) interviews go in the Dutch job market.
+
 
 
 Our curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it:)
