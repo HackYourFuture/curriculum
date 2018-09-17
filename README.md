@@ -164,7 +164,7 @@ By the end of this module, students should have a familiarity with and basic und
 - Get experience working on existing projects 
 - Get experience working on open-source projects
 - Get familiar with the basics of project management with agile
-- Become comfortable with reporting about your work and comunicating within a team.
+- Become comfortable with reporting about your work and communicating within a team.
 
  **After this module we offer (technical) interview and cv training for those who are interested. The goal of these sessions are to:**
 - Get your CV and LinkedIn ready for when you are ready to go to interviews.
