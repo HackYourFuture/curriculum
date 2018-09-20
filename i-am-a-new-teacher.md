@@ -52,7 +52,7 @@ Based on your skillset and availability you will be asked to teach/TA for a spec
 
 **Modules**
 - All modules have their own repository in our Github organization.
-- For more detailed information on the curriculum have a look at our[curriculum on Github](https://github.com/HackYourFuture/curriculum). Here you can find information about when/how and what we teach.
+- For more detailed information on the curriculum have a look at our [curriculum on Github](https://github.com/HackYourFuture/curriculum). Here you can find information about when/how and what we teach.
 - We divided everyone in our organization into teams, we have a teachers team, a team for every class etc. which all have different permissions.
 - We have a private repository where fellow teachers share their [BestTeachingPractices](https://github.com/HackYourFuture/BestTeachingPractices), if you are new to teaching or are just curious on what they think works well in class, take a look.
 - If you are teaching a certain module and would like to make changes on the contents of the repo, please create a branch with your name and your fellow teacher, like: `yourname_othername`. Our master branches are protected, if you would like to change something to the default module please make a PR.
