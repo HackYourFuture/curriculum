@@ -10,14 +10,17 @@ HackYourFuture is a program that teaches programming to refugees/newcomers in or
 
 Our program consists of 8 modules:
 
-1. HTML/CSS -- 3 weeks
-2. JavaScript1 -- 3 weeks
-3. JavaScript2 -- 3 weeks
-4. JavaScript3 -- 3 weeks
-5. Node -- 3 weeks
-6. Databases -- 3 weeks
-7. React -- 5 weeks
-8. Project --  6 weeks
+| Module  | # of weeks |
+| ------------- | ------------- |
+|  HTML/CSSl  | 3 weeks |
+| JavaScript1  | 3 weeks |
+| JavaScript2  | 3 weeks |
+| JavaScript3  | 3 weeks |
+| Node  | 3 weeks |
+| Databases | 3 weeks |
+| React | 5 weeks |
+| Project | 6 weeks |
+ 
 
 Total: 28 weeks
 
