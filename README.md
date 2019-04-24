@@ -11,6 +11,14 @@
 
 ## [HTML/CSS](https://github.com/HackYourFuture/HTML-CSS)/[CLI](https://github.com/HackYourFuture/CommandLine/)
 
+> In this module we learn about Html, CSS and the CLI
+
+| Week | Topic | Details |
+| ---- | --- | --- | --- |
+| 1 | [HTML/CSS](https://github.com/HackYourFuture/HTML-CSS) | [Details](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week1)
+| 2 | [CLI](https://github.com/HackYourFuture/CommandLine/) | [Details](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2)
+| 3 | [CLI & recap](https://github.com/HackYourFuture/CommandLine/) | [Details](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week3) | 
+
 >HTML is the standard markup language for creating Web pages. CSS is a language that describes the style of an HTML document. This module will introduce the basic concepts of HTML5 and CSS. We spend time getting you familiar with your text editor and handy developer tools. After this we will focus on responsive web development. Making responsive websites is an important part of front-end programming. You will learn how to make your websites responsive by using media queries using a “mobile first” approach. Last but not least we will spend time practicing some soft skills that we think are important for becoming a good developer. These include: give and receive feedback to your fellow students, presenting and explaining your work.
 
 >The command line (cli, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module two half day sessions are spend to get students familiar with the command line.
@@ -41,6 +49,12 @@
 ## [JavaScript1](https://github.com/HackYourFuture/JavaScript1/)/[GIT](https://github.com/HackYourFuture/Git)/ [debugging](https://github.com/HackYourFuture/debugging)
 
 > In this module we use Node to run JavaScript.
+
+| Week | Topic | Details |
+| ---- | --- | --- | --- |
+| 1 | [GIT](https://github.com/HackYourFuture/Git) | [Details](https://github.com/HackYourFuture/JavaScript1/tree/master/Week1)
+| 2 | [Javascript](https://github.com/HackYourFuture/JavaScript1/) | [Details](https://github.com/HackYourFuture/JavaScript1/tree/master/Week2)
+| 3 | [Git & Javascript](https://github.com/HackYourFuture/JavaScript1/) | [Details](https://github.com/HackYourFuture/JavaScript1/tree/master/Week3) |
 
 ### **Module goals**
 **JavaScript**
@@ -78,7 +92,14 @@ After this sessions students should:
 
 ## [JavaScript2](https://github.com/HackYourFuture/JavaScript2)
 
-> JavaScript in the browser with HTML and CSS
+> In this module we will learn about JavaScript, combined with HTML and CSS and there will be a test at the end.
+
+| Week | Topic | Details |
+| ---- | --- | --- | --- |
+| 1 | [Javascript 2](https://github.com/HackYourFuture/JavaScript2) | [Details](https://github.com/HackYourFuture/JavaScript2/tree/master/Week1)
+| 2 | [Javascript 2](https://github.com/HackYourFuture/JavaScript2) | [Details](https://github.com/HackYourFuture/JavaScript2/tree/master/Week2)
+| 3 | [Javascript 2](https://github.com/HackYourFuture/JavaScript2) | [Details](https://github.com/HackYourFuture/JavaScript2/tree/master/Week3) |
+| - | [Formative test](https://github.com/HackYourFuture/JavaScript2) | [Details](https://github.com/HackYourFuture/JavaScript2) |
 
 ### **Module goals for JavaScript2**
 
@@ -99,6 +120,14 @@ After this sessions students should:
 
 ## [JavaScript3](https://github.com/HackYourFuture/JavaScript3)
 
+> In this module we will learn about more advanced concepts of Javascript.
+
+| Week | Topic | Details |
+| ---- | --- | --- | --- |
+| 1 | [Javascript 3](https://github.com/HackYourFuture/JavaScript3) | [Details](https://github.com/HackYourFuture/JavaScript3/tree/master/Week1)
+| 2 | [Javascript 3](https://github.com/HackYourFuture/JavaScript3) | [Details](https://github.com/HackYourFuture/JavaScript3/tree/master/Week2)
+| 3 | [Javascript 3](https://github.com/HackYourFuture/JavaScript3) | [Details](https://github.com/HackYourFuture/JavaScript3/tree/master/Week3) |
+
 ### **Module goals for JavaScript3**
 
 - Object Oriented Programming
@@ -111,6 +140,15 @@ After this sessions students should:
 - Promises
 
 ## [Node](https://github.com/HackYourFuture/Node.js)
+
+> In this module we will learn about Node.js.
+ 
+| Week | Topic | Details |
+| ---- | --- | --- | --- |
+| 1 | [Node](https://github.com/HackYourFuture/Node.js) | [Details](https://github.com/HackYourFuture/Node.js/tree/master/week1)
+| 2 | [Node](https://github.com/HackYourFuture/Node.js) | [Details](https://github.com/HackYourFuture/Node.js/tree/master/week2)
+| 3 | [Node](https://github.com/HackYourFuture/Node.js) | [Details](https://github.com/HackYourFuture/Node.js/tree/master/week3) |
+
 
 >Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine). For almost any web application, it is essential to have a backend. The backend is a place where we, the developers, can store our data, communicate with users and let the users communicate with us, do smart things like calculations, data processing etc.
 
@@ -131,6 +169,14 @@ There are two reasons why we at HYF choose Node.JS over others:
 
 ## [Database](https://github.com/HackYourFuture/databases)
 
+> In this module we will learn about databases using MySQL.
+
+| Week | Topic | Details |
+| ---- | --- | --- | --- |
+| 1 | [Database](https://github.com/HackYourFuture/databases) | [Details](https://github.com/HackYourFuture/databases/tree/master/Week1)
+| 2 | [Database Queries](https://github.com/HackYourFuture/databases) | [Details](https://github.com/HackYourFuture/databases/tree/master/Week2)
+| 3 | [Database design](https://github.com/HackYourFuture/databases) | [Details](https://github.com/HackYourFuture/databases/tree/master/Week3) |
+
 >What is a database? A place to store “things”. Could be as simple as a phone book (physical) or as complex as storing all the inventory for Amazon.com. Why use databases? Easier than having data all over the place. Puts the problem of collecting, storing, sorting and searching data in a single place. There are two primary types of database systems - relational and NoSQL. Relational databases have tables that relate to one another and can be “joined” ACID vs BASE
 
 ### **Module goals**
@@ -145,6 +191,16 @@ By the end of this module, students should have a familiarity with and basic und
 - MongoDB as an example of a NoSQL database
 
 ## [React](https://github.com/HackYourFuture/React)
+
+> In this module we will learn about React.
+
+| Week | Topic | Details |
+| ---- | --- | --- | --- |
+| 1 | [Thinking in React](https://github.com/HackYourFuture/React) | [Details](https://github.com/HackYourFuture/React/blob/master/documentation/homework/W1-homework.md)
+| 2 | [Data flow in React](https://github.com/HackYourFuture/React) | [Details](https://github.com/HackYourFuture/React/blob/master/documentation/homework/W2-homework.md)
+| 3 | [Advanced React](https://github.com/HackYourFuture/React) | [Details](https://github.com/HackYourFuture/React/blob/master/documentation/homework/W3-homework.md) |
+| 4 | [Client-side routing](https://github.com/HackYourFuture/React) | [Details](https://github.com/HackYourFuture/React/blob/master/documentation/homework/W4-homework.md) |
+| 5 | [Test](https://github.com/HackYourFuture/React) | [Details](https://github.com/HackYourFuture/React) |
 
 ### **Module goals**
 By the end of this module, students should have a familiarity with and basic understanding of the following:
