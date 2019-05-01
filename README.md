@@ -14,7 +14,7 @@
 > In this module we learn about Html, CSS and the CLI
 
 | Week | Topic | Details |
-| ---- | --- | --- | --- |
+| --- | --- | --- | 
 | 1 | [HTML/CSS](https://github.com/HackYourFuture/HTML-CSS) | [Details](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week1)
 | 2 | [CLI](https://github.com/HackYourFuture/CommandLine/) | [Details](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2)
 | 3 | [CLI & recap](https://github.com/HackYourFuture/CommandLine/) | [Details](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week3) | 
@@ -51,7 +51,7 @@
 > In this module we use Node to run JavaScript.
 
 | Week | Topic | Details |
-| ---- | --- | --- | --- |
+| --- | --- | --- |
 | 1 | [GIT](https://github.com/HackYourFuture/Git) | [Details](https://github.com/HackYourFuture/JavaScript1/tree/master/Week1)
 | 2 | [Javascript](https://github.com/HackYourFuture/JavaScript1/) | [Details](https://github.com/HackYourFuture/JavaScript1/tree/master/Week2)
 | 3 | [Git & Javascript](https://github.com/HackYourFuture/JavaScript1/) | [Details](https://github.com/HackYourFuture/JavaScript1/tree/master/Week3) |
@@ -95,7 +95,7 @@ After this sessions students should:
 > In this module we will learn about JavaScript, combined with HTML and CSS and there will be a test at the end.
 
 | Week | Topic | Details |
-| ---- | --- | --- | --- |
+| --- | --- | --- |
 | 1 | [Javascript 2](https://github.com/HackYourFuture/JavaScript2) | [Details](https://github.com/HackYourFuture/JavaScript2/tree/master/Week1)
 | 2 | [Javascript 2](https://github.com/HackYourFuture/JavaScript2) | [Details](https://github.com/HackYourFuture/JavaScript2/tree/master/Week2)
 | 3 | [Javascript 2](https://github.com/HackYourFuture/JavaScript2) | [Details](https://github.com/HackYourFuture/JavaScript2/tree/master/Week3) |
@@ -123,7 +123,7 @@ After this sessions students should:
 > In this module we will learn about more advanced concepts of Javascript.
 
 | Week | Topic | Details |
-| ---- | --- | --- | --- |
+| --- | --- | --- |
 | 1 | [Javascript 3](https://github.com/HackYourFuture/JavaScript3) | [Details](https://github.com/HackYourFuture/JavaScript3/tree/master/Week1)
 | 2 | [Javascript 3](https://github.com/HackYourFuture/JavaScript3) | [Details](https://github.com/HackYourFuture/JavaScript3/tree/master/Week2)
 | 3 | [Javascript 3](https://github.com/HackYourFuture/JavaScript3) | [Details](https://github.com/HackYourFuture/JavaScript3/tree/master/Week3) |
@@ -144,7 +144,7 @@ After this sessions students should:
 > In this module we will learn about Node.js.
  
 | Week | Topic | Details |
-| ---- | --- | --- | --- |
+| --- | --- | --- |
 | 1 | [Node](https://github.com/HackYourFuture/Node.js) | [Details](https://github.com/HackYourFuture/Node.js/tree/master/week1)
 | 2 | [Node](https://github.com/HackYourFuture/Node.js) | [Details](https://github.com/HackYourFuture/Node.js/tree/master/week2)
 | 3 | [Node](https://github.com/HackYourFuture/Node.js) | [Details](https://github.com/HackYourFuture/Node.js/tree/master/week3) |
@@ -172,7 +172,7 @@ There are two reasons why we at HYF choose Node.JS over others:
 > In this module we will learn about databases using MySQL.
 
 | Week | Topic | Details |
-| ---- | --- | --- | --- |
+| --- | --- | --- | 
 | 1 | [Database](https://github.com/HackYourFuture/databases) | [Details](https://github.com/HackYourFuture/databases/tree/master/Week1)
 | 2 | [Database Queries](https://github.com/HackYourFuture/databases) | [Details](https://github.com/HackYourFuture/databases/tree/master/Week2)
 | 3 | [Database design](https://github.com/HackYourFuture/databases) | [Details](https://github.com/HackYourFuture/databases/tree/master/Week3) |
@@ -195,7 +195,7 @@ By the end of this module, students should have a familiarity with and basic und
 > In this module we will learn about React.
 
 | Week | Topic | Details |
-| ---- | --- | --- | --- |
+| --- | --- | --- |
 | 1 | [Thinking in React](https://github.com/HackYourFuture/React) | [Details](https://github.com/HackYourFuture/React/blob/master/documentation/homework/W1-homework.md)
 | 2 | [Data flow in React](https://github.com/HackYourFuture/React) | [Details](https://github.com/HackYourFuture/React/blob/master/documentation/homework/W2-homework.md)
 | 3 | [Advanced React](https://github.com/HackYourFuture/React) | [Details](https://github.com/HackYourFuture/React/blob/master/documentation/homework/W3-homework.md) |
