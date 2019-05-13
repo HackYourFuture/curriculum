@@ -1,6 +1,6 @@
 ## Student Manual
 
-Please download and read the Student Manual[HackYourFuture student manual](https://github.com/HackYourFuture/curriculum/blob/master/Student%20Manual_v01_13052019.docx)
+Please download and read the [HackYourFuture student manual](https://github.com/HackYourFuture/curriculum/blob/master/Student%20Manual_v01_13052019.docx)
 
 ## When do we teach?
 
