@@ -5,8 +5,6 @@
 - Are you a new teacher? Take a look [here](https://github.com/HackYourFuture/curriculum/blob/master/i-am-a-new-teacher.md) for some practical tips on how to get started!
 - Are you a new student? Take a look [here](https://github.com/HackYourFuture/curriculum/blob/master/i-am-a-new-student.md) to see how to prepare for your first class!
 
-### **Are you either a new student or a new teacher? Take a look at what we see as our [core values](https://github.com/HackYourFuture/curriculum/blob/master/hyf-core-values.md) at HackYourFuture before you join our community** :heart:
-
 # What do we teach?
 
 ## [HTML/CSS](https://github.com/HackYourFuture/HTML-CSS)/[CLI](https://github.com/HackYourFuture/CommandLine/)
