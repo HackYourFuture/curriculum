@@ -37,12 +37,12 @@ You'll also be learning [GIT](https//www.github.com/hackyourfuture/git), softwar
 
 In the following table you can find the module material, week-by-week:
 
-| Week | Topic                                                  | Reading Materials                  | Homework                        | Lesson Plan                            |
-| ---- | ------------------------------------------------------ | ---------------------------------- | ------------------------------- | -------------------------------------- |
-| 0.   | Quick Start!                                           | [W0 Reading](Week0/preparation.md) | -                               | -                                      |
-| 1.   | Command Line Interface basics, HTML/CSS syntax         | [W1 Reading](/Week1/README.md)     | [W1 Homework](/Week1/MAKEME.md) | [W1 Lesson Plan](/Week1/LESSONPLAN.md) |
-| 2.   | Introduction to GIT, Responsive design                 | [W2 Reading](/Week2/README.md)     | [W2 Homework](/Week2/MAKEME.md) | [W2 Lesson Plan](/Week2/LESSONPLAN.md) |
-| 3.   | GIT branches, CSS frameworks, Working with the browser | [W3 Reading](/Week3/README.md)     | [W3 Homework](/Week3/MAKEME.md) | [W3 Lesson Plan](/Week3/LESSONPLAN.md) |
+| Week | Topic                                                  | Reading Materials                                                                         | Homework                                                                              | Lesson Plan                                                                                  |
+| ---- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| 0.   | Quick Start!                                           | [W0 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week0/preparation.md) | -                                                                                     | -                                                                                            |
+| 1.   | Command Line Interface basics, HTML/CSS syntax         | [W1 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master//Week1/README.md)     | [W1 Homework](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week1/MAKEME.md) | [W1 Lesson Plan](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week1/LESSONPLAN.md) |
+| 2.   | Introduction to GIT, Responsive design                 | [W2 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master//Week2/README.md)     | [W2 Homework](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/MAKEME.md) | [W2 Lesson Plan](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/LESSONPLAN.md) |
+| 3.   | GIT branches, CSS frameworks, Working with the browser | [W3 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master//Week3/README.md)     | [W3 Homework](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week3/MAKEME.md) | [W3 Lesson Plan](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week3/LESSONPLAN.md) |
 
 ### **Module goals**
 
@@ -84,12 +84,12 @@ By the end of this module, students should have a familiarity with and basic und
 
 In **JavaScript2** you'll learn all about how to use JavaScript within the browser. First, you'll learn about how HTML is structured within your browser: we call this the `Document Object Model` (DOM). Once you've gotten the hang of that we'll apply JavaScript to it, in order to manipulate the elements and make our pages more interactive. We call this `DOM manipulation` and it's one of the most interesting things about JavaScript!
 
-| Week | Topic                                                                | Reading Materials              | Homework                        | Lesson Plan                            |
-| ---- | -------------------------------------------------------------------- | ------------------------------ | ------------------------------- | -------------------------------------- |
-| 1.   | Document-Object Model (DOM), DOM manipulation                        | [Reading W1](/Week1/README.md) | [Homework W1](/Week1/MAKEME.md) | [Lesson Plan W1](/Week1/LESSONPLAN.md) |
-| 2.   | Synchronous vs. asynchronous, Event Loop, Callbacks, Array Functions | [Reading W2](/Week2/README.md) | [Homework W2](/Week2/MAKEME.md) | [Lesson Plan W2](/Week1/LESSONPLAN.md) |
-| 3.   | Scope, Hoisting, Closures, Thinking like a programmer II             | [Reading W3](/Week3/README.md) | [Homework W3](/Week3/MAKEME.md) | [Lesson Plan W3](/Week1/LESSONPLAN.md) |
-| 4.   | Test                                                                 | [Details](/test/README.md)     | -                               | -                                      |
+| Week | Topic                                                                | Reading Materials                                                                       | Homework                                                                                 | Lesson Plan                                                                                     |
+| ---- | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 1.   | Document-Object Model (DOM), DOM manipulation                        | [Reading W1](https://github.com/HackYourFuture/JavaScript2/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/JavaScript2/tree/master/Week1/MAKEME.md) | [Lesson Plan W1](https://github.com/HackYourFuture/JavaScript2/tree/master/Week1/LESSONPLAN.md) |
+| 2.   | Synchronous vs. asynchronous, Event Loop, Callbacks, Array Functions | [Reading W2](https://github.com/HackYourFuture/JavaScript2/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/JavaScript2/tree/master/Week2/MAKEME.md) | [Lesson Plan W2](https://github.com/HackYourFuture/JavaScript2/tree/master/Week1/LESSONPLAN.md) |
+| 3.   | Scope, Hoisting, Closures, Thinking like a programmer II             | [Reading W3](https://github.com/HackYourFuture/JavaScript2/tree/master/Week3/README.md) | [Homework W3](https://github.com/HackYourFuture/JavaScript2/tree/master/Week3/MAKEME.md) | [Lesson Plan W3](https://github.com/HackYourFuture/JavaScript1/tree/master/Week1/LESSONPLAN.md) |
+| 4.   | Test                                                                 | [Details](https://github.com/HackYourFuture/JavaScript2/tree/master/test/README.md)     | -                                                                                        | -                                                                                               |
 
 ### **Module goals for JavaScript2**
 
@@ -109,12 +109,12 @@ A big part of being a programmer means moving data from one place to another. It
 
 On top of that you'll also learn how to think differently about how you write your programs. Like in any field, once you've mastered a particular way of doing things you start thinking about how it could be done differently. In programming we call these `paradigms` and in this module you'll learn one such paradigm: Object-Oriented Programming!
 
-| Week | Topic                                                                                       | Reading Materials              | Homework                        | Lesson Plan                            |
-| ---- | ------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------- | -------------------------------------- |
-| 1.   | Application Programming Interface (API), AJAX, Modules & Libraries                          | [Reading W1](/Week1/README.md) | [Homework W1](/Week1/MAKEME.md) | [Lesson Plan W1](/Week1/LESSONPLAN.md) |
-| 2.   | Promises, Fetch API, JavaScript Versions, 'this' keyword, Arrow functions                   | [Reading W2](/Week2/README.md) | [Homework W2](/Week2/MAKEME.md) | [Lesson Plan W1](/Week1/LESSONPLAN.md) |
-| 3.   | Object-Oriented Programming (OOP), ES6 Classes, Async/await, Thinking like a programmer III | [Reading W3](/Week3/README.md) | [Homework W3](/Week3/MAKEME.md) | [Lesson Plan W1](/Week1/LESSONPLAN.md) |
-| 4.   | Final JavaScript Test                                                                       | [Details](test.md)             | -                               | -                                      |
+| Week | Topic                                                                                       | Reading Materials                                                                       | Homework                                                                                 | Lesson Plan                                                                                     |
+| ---- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 1.   | Application Programming Interface (API), AJAX, Modules & Libraries                          | [Reading W1](https://github.com/HackYourFuture/JavaScript3/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/JavaScript3/tree/master/Week1/MAKEME.md) | [Lesson Plan W1](https://github.com/HackYourFuture/JavaScript3/tree/master/Week1/LESSONPLAN.md) |
+| 2.   | Promises, Fetch API, JavaScript Versions, 'this' keyword, Arrow functions                   | [Reading W2](https://github.com/HackYourFuture/JavaScript3/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/JavaScript3/tree/master/Week2/MAKEME.md) | [Lesson Plan W1](https://github.com/HackYourFuture/JavaScript3/tree/master/Week1/LESSONPLAN.md) |
+| 3.   | Object-Oriented Programming (OOP), ES6 Classes, Async/await, Thinking like a programmer III | [Reading W3](https://github.com/HackYourFuture/JavaScript3/tree/master/Week3/README.md) | [Homework W3](https://github.com/HackYourFuture/JavaScript3/tree/master/Week3/MAKEME.md) | [Lesson Plan W1](https://github.com/HackYourFuture/JavaScript3/tree/master/Week1/LESSONPLAN.md) |
+| 4.   | Final JavaScript Test                                                                       | [Details](https://github.com/HackYourFuture/JavaScript3/tree/master/test.md)            | -                                                                                        | -                                                                                               |
 
 ### **Module goals for JavaScript3**
 
@@ -134,11 +134,11 @@ In order to successfully complete this module you will need to master the follow
 
 Any software application consists of at least 2 parts: a frontend, which is what the user sees and interacts with, and a backend. This module will expose you to the wonderful world of backend development, where you learn all about where your data goes once you've pressed that submit button. You'll be writing web servers and learn how to send users the right feedback.
 
-| Week | Topic                               | Readings                       | Homework                       | Lesson Plan                           |
-| ---: | ----------------------------------- | ------------------------------ | ------------------------------ | ------------------------------------- |
-|   1. | Client-server model, HTTP & Express | [Readings W1](week1/README.md) | [Homework W1](week1/MAKEME.md) | [Lesson Plan W1](week1/LESSONPLAN.md) |
-|   2. | REST, CRUD & API                    | [Readings W2](week2/README.md) | [Homework W2](week2/MAKEME.md) | [Lesson Plan W2](week2/LESSONPLAN.md) |
-|   3. | Templating engines, API calls       | [Readings W3](week3/README.md) | [Homework W3](week3/MAKEME.md) | [Lesson Plan W3](week3/LESSONPLAN.md) |
+| Week | Topic                               | Readings                                                                             | Homework                                                                             | Lesson Plan                                                                                 |
+| ---: | ----------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+|   1. | Client-server model, HTTP & Express | [Readings W1](https://github.com/HackYourFuture/Node.js/tree/master/week1/README.md) | [Homework W1](https://github.com/HackYourFuture/Node.js/tree/master/week1/MAKEME.md) | [Lesson Plan W1](https://github.com/HackYourFuture/Node.js/tree/master/week1/LESSONPLAN.md) |
+|   2. | REST, CRUD & API                    | [Readings W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/README.md) | [Homework W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/MAKEME.md) | [Lesson Plan W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/LESSONPLAN.md) |
+|   3. | Templating engines, API calls       | [Readings W3](https://github.com/HackYourFuture/Node.js/tree/master/week3/README.md) | [Homework W3](https://github.com/HackYourFuture/Node.js/tree/master/week3/MAKEME.md) | [Lesson Plan W3](https://github.com/HackYourFuture/Node.js/tree/master/week3/LESSONPLAN.md) |
 
 ### **Module goals for Node.js**
 
@@ -159,11 +159,11 @@ In this module you will get familiar with the world of backend development. By t
 
 In this module you'll learn all about a fundamental part of any software application: how to (safely) store data, so that it can be used on-demand. You'll learn how to structure and group data so your apps know where to find and store the correct data.
 
-| Week | Topic                                                                         | Readings                       | Homework                       | Lesson Plan                           |
-| ---: | ----------------------------------------------------------------------------- | ------------------------------ | ------------------------------ | ------------------------------------- |
-|   1. | What's a database, Entities, Data structures, Structured Query Language (SQL) | [Readings W1](Week1/README.md) | [Homework W1](Week1/MAKEME.md) | [Lesson Plan W1](Week1/LESSONPLAN.md) |
-|   2. | Identifiers, Relationships, Domain Modeling, Advanced SQL commands            | [Readings W2](Week2/README.md) | [Homework W2](Week2/MAKEME.md) | [Lesson Plan W2](Week2/LESSONPLAN.md) |
-|   3. | Normalization, Transactions, SQL Injection, NoSQL (with MongoDB)              | [Readings W3](Week3/README.md) | [Homework W3](Week3/MAKEME.md) | [Lesson Plan W3](Week3/LESSONPLAN.md) |
+| Week | Topic                                                                         | Readings                                                                               | Homework                                                                               | Lesson Plan                                                                                   |
+| ---: | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+|   1. | What's a database, Entities, Data structures, Structured Query Language (SQL) | [Readings W1](https://github.com/HackYourFuture/databases/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/databases/tree/master/Week1/MAKEME.md) | [Lesson Plan W1](https://github.com/HackYourFuture/databases/tree/master/Week1/LESSONPLAN.md) |
+|   2. | Identifiers, Relationships, Domain Modeling, Advanced SQL commands            | [Readings W2](https://github.com/HackYourFuture/databases/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/databases/tree/master/Week2/MAKEME.md) | [Lesson Plan W2](https://github.com/HackYourFuture/databases/tree/master/Week2/LESSONPLAN.md) |
+|   3. | Normalization, Transactions, SQL Injection, NoSQL (with MongoDB)              | [Readings W3](https://github.com/HackYourFuture/databases/tree/master/Week3/README.md) | [Homework W3](https://github.com/HackYourFuture/databases/tree/master/Week3/MAKEME.md) | [Lesson Plan W3](https://github.com/HackYourFuture/databases/tree/master/Week3/LESSONPLAN.md) |
 
 ### **Module goals**
 
@@ -186,14 +186,13 @@ It is mainly used to create dynamic user interfaces, changing the data a user se
 
 In this module you'll learn about how to think about webpages in a radically different way: instead of making seperate pages, you'll be making components of pages. Instead of hardcoded content, you'll make structures that can hold different data.
 
-
-| Week | Topic                                                          | Details                                                                                              |
-| ---- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 1    | [Thinking in React](https://github.com/HackYourFuture/React)   | [Details](https://github.com/HackYourFuture/React/blob/master/documentation/homework/W1-homework.md) |
-| 2    | [Data flow in React](https://github.com/HackYourFuture/React)  | [Details](https://github.com/HackYourFuture/React/blob/master/documentation/homework/W2-homework.md) |
-| 3    | [Advanced React](https://github.com/HackYourFuture/React)      | [Details](https://github.com/HackYourFuture/React/blob/master/documentation/homework/W3-homework.md) |
-| 4    | [Client-side routing](https://github.com/HackYourFuture/React) | [Details](https://github.com/HackYourFuture/React/blob/master/documentation/homework/W4-homework.md) |
-| 5    | [Test](https://github.com/HackYourFuture/React)                | [Details](https://github.com/HackYourFuture/React)                                                   |
+| Week | Topics                                          | Reading Materials                                                                  | Homework                                                                           | Lesson Plans                                                                              |
+| ---- | ----------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 1.   | What is React, JSX, Props, Deploy a static site | [Readings W1](https://github.com/HackYourFuture/React/blob/master/week1/README.md) | [Homework W1](https://github.com/HackYourFuture/React/blob/master/week1/MAKEME.md) | [Lesson Plan W1](https://github.com/HackYourFuture/React/blob/master/week1/LESSONPLAN.md) |
+| 2.   | State I, Hooks I, API calls, Forms              | [Readings W2](https://github.com/HackYourFuture/React/blob/master/week2/README.md) | [Homework W2](https://github.com/HackYourFuture/React/blob/master/week2/MAKEME.md) | [Lesson Plan W2](https://github.com/HackYourFuture/React/blob/master/week2/LESSONPLAN.md) |
+| 3.   | State II, Hooks II, Third party components      | [Readings W3](https://github.com/HackYourFuture/React/blob/master/week3/README.md) | [Homework W3](https://github.com/HackYourFuture/React/blob/master/week3/MAKEME.md) | [Lesson Plan W3](https://github.com/HackYourFuture/React/blob/master/week3/LESSONPLAN.md) |
+| 4.   | Context, Client-side routing                    | [Readings W4](https://github.com/HackYourFuture/React/blob/master/week4/README.md) | [Homework W4](https://github.com/HackYourFuture/React/blob/master/week4/MAKEME.md) | [Lesson Plan W4](https://github.com/HackYourFuture/React/blob/master/week4/LESSONPLAN.md) |
+| 5.   | Test                                            | [Details](https://github.com/HackYourFuture/React/blob/master/week5/test.md)       | -                                                                                  | -                                                                                         |
 
 ### **Module goals**
 
