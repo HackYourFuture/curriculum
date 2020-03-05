@@ -249,9 +249,15 @@ Communication skills:
 
 ## Graduation! What's next?
 
-The final stage is graduation! Afterwards you can officially call yourself a **junior web developer**.
+The final stage is graduation! If you've reached this point you can officially call yourself a **junior web developer**. Be proud of yourself!
 
-Post-graduation we'll work on finding you an intership/job in any of the companies we have within our network.
+At this stage the next step is finding a job. HackYourFuture will assist you, but the responsibility is still on you.
+
+We'll work on finding you an internship/job in any of the companies we have within our network. Your job is to keep your skills sharp, both technically as non-technically.
+
+You can click on any the following addons to keep improving your skills:
+
+[![Postgrad](./assets/postgrad.png)](https://github.com/hackyourfuture/post-grad-ed)
 
 ## Final words
 
