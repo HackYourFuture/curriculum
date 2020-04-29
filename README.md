@@ -60,7 +60,7 @@ By the end of this module, students should have a familiarity with and basic und
 
 ![JavaScript1](./assets/javascript1.png)
 
-In this module you'll make a start into wonderful world of programming. We will be using the programming language JavaScript to do so. You'll learn about the basic building blocks of programming: `loops`, `functions`, `control flow` and more. Consider these as the ABC's of programming, without them it's impossible to write working software!
+In this module you'll make a start into the wonderful world of programming. We will be using the programming language JavaScript to do so. You'll learn about the basic building blocks of programming: `loops`, `functions`, `control flow` and more. Consider these as the ABC's of programming, without them it's impossible to write working software!
 
 | Week | Topic                                                                             | Reading Materials                                                                       | Homework                                                                                 | Lesson Plan                                                                                     |
 | ---- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
