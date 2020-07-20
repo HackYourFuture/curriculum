@@ -1,6 +1,6 @@
 # HackYourFuture Curriculum
 
-> Here you can find an overview of the HackYourFuture program. It gives insight in how our program is structured, organized, what you can expect from the modules that we teach and last but not least where we teach and where you can find support during the week. Below you can find an outline of the contents and learning goals per module. The headers of the different modules link to the actual repositories that both student and teacher will use to go through the material. 
+> Here you can find an overview of the HackYourFuture program. It gives insight in how our program is structured, organized, what you can expect from the modules that we teach and last but not least where we teach and where you can find support during the week. Below you can find an outline of the contents and learning goals per module. The headers of the different modules link to the actual repositories that both student and teacher will use to go through the material.
 
 - Are you a new teacher? Take a look [here](https://github.com/HackYourFuture/curriculum/blob/master/i-am-a-new-teacher.md) for some practical tips on how to get started!
 - Are you a new student? Take a look at our [Student Manual](https://docs.google.com/document/d/1YzPC7m9vOCb0h4EFCqLChw1L096XcbJv3dK3k7VooQM/edit?usp=sharing) to see how to prepare for your first class and beyond!
@@ -17,10 +17,10 @@ In the following diagram you'll find the sequence of all the modules included:
 
 If you follow the program you'll learn the following skills:
 
-- Ability to build a basic modern full-stack web application (using NodeJS, MySQL and React)
-- Get experience with working in teams using Agile principles
-- Knowing how to learn and self-teach new programming concepts
-- How to use third-party libraries/APIs
+- Ability to `build a basic modern full-stack web application` (using NodeJS, MySQL and React)
+- Get experience with working in teams using `Agile principles`
+- Knowing how to `learn and self-teach new programming concepts`
+- How to use `third-party libraries/APIs`
 - Have a basic understanding of what it means to work on digital products
 
 ## Module #1 - [HTML/CSS/GIT](https://github.com/HackYourFuture/HTML-CSS)
@@ -258,6 +258,8 @@ We'll work on finding you an internship/job in any of the companies we have with
 You can click on any the following addons to keep improving your skills:
 
 [![Postgrad](./assets/postgrad.png)](https://github.com/hackyourfuture/post-grad-ed)
+[![QA Training](./assets/qa-training.png)](https://github.com/hackyourfuture/qa-training)
+[![English](./assets/english-booster.png)](https://github.com/hackyourfuture/english-booster)
 
 ## Final words
 
