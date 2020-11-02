@@ -61,8 +61,10 @@ By the end of this module, students should have a familiarity with and basic und
 ![JavaScript1](./assets/javascript1.png)
 
 In this module you'll make a start into the wonderful world of programming. We will be using the programming language JavaScript to do so. You'll learn about the basic building blocks of programming: `loops`, `functions`, `control flow` and more. Consider these as the ABC's of programming, without them it's impossible to write working software!
+Besides the technical part, you'll improve your 'softskills' as well in the [Presentation module](https://github.com/HackYourFuture/presentation-module). This is a two weeks program that will get you out of your comfort zone. Check the Read.me file for a more detailed explanation and overview. 
 
-| Week | Topic | Reading Materials     | Homework      | Lesson Plan  |[Presentation module](https://github.com/HackYourFuture/presentation-module) |
+
+| Week | Topic | Reading Materials     | Homework      | Lesson Plan  |Presentation module |
 | ---- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |-----------|
 | 1.   | What is JavaScript?, Variables, Data Structures & Naming Conventions              | [Reading W1](https://github.com/HackYourFuture/JavaScript1/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/JavaScript1/tree/master/Week1/MAKEME.md) | [Lesson Plan W1](https://github.com/HackYourFuture/JavaScript1/tree/master/Week1/LESSONPLAN.md) |[W1 presentations](https://github.com/HackYourFuture/presentation-module/blob/main/week1.md) |
 | 2.   | Statements vs. Expressions, Control flow, Loops, Operators, Conditional statement | [Reading W2](https://github.com/HackYourFuture/JavaScript1/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/JavaScript1/tree/master/Week2/MAKEME.md) | [Lesson Plan W2](https://github.com/HackYourFuture/JavaScript1/tree/master/Week2/LESSONPLAN.md) |[W2 presentation](https://github.com/HackYourFuture/presentation-module/blob/main/week2.md) |
