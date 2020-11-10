@@ -255,13 +255,17 @@ The final stage is graduation! If you've reached this point you can officially c
 
 At this stage the next step is finding a job. HackYourFuture will assist you, but the responsibility is still on you.
 
-We'll work on finding you an internship/job in any of the companies we have within our network. Your job is to keep your skills sharp, both technically as non-technically.
+We'll work on finding you an internship/job in any of the companies we have within our network. Your job is to keep your skills sharp, both technically as non-technically. Next to that, be sure to check the following repos:
+
+- [Your Personal Brand](https://github.com/HackYourFuture/yourpersonalbrand) <br>
+- [Interview Preparation](https://github.com/HackYourFuture/interviewpreparation)
 
 You can click on any the following addons to keep improving your skills:
 
 [![Postgrad](./assets/postgrad.png)](https://github.com/hackyourfuture/post-grad-ed)
 [![QA Training](./assets/qa-training.png)](https://github.com/hackyourfuture/qa-training)
-[![English](./assets/english-booster.png)](https://github.com/hackyourfuture/english-booster)
+
+Last but not leaast, If you want to improve your English and Presentation skills, please contact the team and we will make the proper arrangements. Same if you want to join a [Fellowship](https://www.hackyourfuture.net/fellowship/) group!
 
 ## Final words
 
