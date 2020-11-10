@@ -265,7 +265,7 @@ You can click on any the following addons to keep improving your skills:
 [![Postgrad](./assets/postgrad.png)](https://github.com/hackyourfuture/post-grad-ed)
 [![QA Training](./assets/qa-training.png)](https://github.com/hackyourfuture/qa-training)
 
-Last but not leaast, If you want to improve your English and Presentation skills, please contact the team and we will make the proper arrangements. Same if you want to join a [Fellowship](https://www.hackyourfuture.net/fellowship/) group!
+Last but not least, If you want to improve your English and Presentation skills, please contact the team and we will make the proper arrangements. Same if you want to join a [Fellowship](https://www.hackyourfuture.net/fellowship/) group!
 
 ## Final words
 
