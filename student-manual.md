@@ -2,20 +2,20 @@
 # Table of Contents
 * Introduction
 * Chapter 1: Course Overview
-    * 1.1 Curriculum
-    * 1.2 Homework and Preparation
-⋅⋅* 1.3 Tests
-⋅⋅* 1.4 Teachers
-⋅⋅* 1.5 Teaching Location
-⋅⋅* 1.6 After Class
-⋅⋅* 1.7 Start your career
+   * 1.1 Curriculum
+   * 1.2 Homework and Preparation
+   * 1.3 Tests
+   * 1.4 Teachers
+   * 1.5 Teaching Location
+   * 1.6 After Class
+   * 1.7 Start your career
 * Chapter 2: How to study programming
 * Chapter 3: Study Strategies
-⋅⋅* 3.1 Planning	
-⋅⋅* 3.2 Don’t just read, code it!
-⋅⋅* 3.3 Go back to the basics
-⋅⋅* 3.4 Sleep, Breaks & Exercise	
-⋅⋅* 3.5 Distractions
+   * 3.1 Planning	
+   * 3.2 Don’t just read, code it!
+   * 3.3 Go back to the basics
+   * 3.4 Sleep, Breaks & Exercise
+   * 3.5 Distractions
 * Chapter 4: How to ask Questions
 * Chapter 5: Core Values
 * Final thoughts	
