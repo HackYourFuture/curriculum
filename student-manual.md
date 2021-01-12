@@ -1,7 +1,9 @@
 
 # Table of Contents
-Introduction	2
+Introduction
+
 Chapter 1: Course Overview
+
  1.1 Curriculum
  1.2 Homework and Preparation
  1.3 Tests
@@ -109,17 +111,17 @@ After the first couple of weeks, Github will also be where you will publish your
 You are expected to always come prepared to the class on Sunday. Every week you will have homework assignments and we expect you to finish them before Wednesday. The sooner you hand them in, the more time your teacher has to check your homework and give you feedback. Not handing in homework without proper communication will not be tolerated (see also our values in chapter 5 and our 3 strike policy). 
 
 
-You are not allowed to copy homework from others. Please take yourself and HYF seriously. On some occasions copying code is necessary and allowed. In such a case, the following criteria apply:
-A reference is given (in a comment) 
-It must be clear which code is copied.
-The functionality of the code is explained in the comment. 
+**You are not allowed to copy homework** from others. Please take yourself and HYF seriously. On some occasions copying code is necessary and allowed. In such a case, the following criteria apply:
+1. A reference is given (in a comment) 
+2. It must be clear which code is copied.
+3. The functionality of the code is explained in the comment. 
 
 If we find out you copy code without taking the criteria above in mind, this will have consequences. We usually will ask you to do a technical interview. If you fail the interview, you have to leave our course.
-1.3 Tests
+## 1.3 Tests
 After most modules we will ask you to take a test. If there are any weaknesses in your understanding of the concepts we have taught you, the test will expose them. This is a good thing: you will get an opportunity to go over them again and master them. Make use of it, because in a company you will not always have such a luxury. Receiving a low score on one of the tests does not immediately lead to removal from our program but we will re-evaluate the best way forward.
-1.4 Teachers
+## 1.4 Teachers
 HackYourFuture is only possible because of our amazing team of teachers. See for an overview here. Our teachers are medior and senior software developers working at small and big companies. They usually have very busy jobs and they sacrifice their limited free time to help you to become a developer. Some of them are graduates from our program! We ask you to respect and value their time by preparing yourself for class and ask plenty of questions! 
-1.5 Teaching Day (Sunday)
+## 1.5 Teaching Day (Sunday)
 Note: Because of the Corona crisis, we are currently conducting all of our classes online. 
 
 We will explain this in more detail during the introduction day. As a result some of the information in section 1.5 and 1.6 is more relevant for when we return to face-to-face classes.
@@ -134,7 +136,7 @@ The doors downstairs (main entrance), should be closed at all times. We will mak
 The main entrance to our teaching location
 
 If you want to go outside during the break for some fresh air or to smoke, please use the door at the back of the building. You are only allowed to smoke in the designated areas. Also this door should be closed at all times! If not, the private security company will be automatically alerted and we have a lot of explaining to do.
-
+u
 2. Chairs and tables
 If you are borrowing chairs from outside the meeting rooms during the day, you should put them exactly where taken from. Some Backbase-employees have the height of their chairs customised and find it very difficult to find them back if they were returned somewhere else. If you are using any desk space, please make sure that any chargers or monitors used/removed are put back as they were before. Please do not use any chargers that do not belong to you unless given permission by staff members.
 
