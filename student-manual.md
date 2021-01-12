@@ -1,103 +1,96 @@
 
 # Table of Contents
 Introduction	2
-Chapter 1: Course Overview	3
-1.1 Curriculum	3
-1.2 Homework and Preparation	4
-1.3 Tests	5
-1.4 Teachers	6
-1.5 Teaching Location	6
-1.6 After Class	8
-1.7 Start your career	8
-Chapter 2: How to study programming 
-(tips for non-programmers)	10
-Chapter 3: Study Strategies	15
-1. Planning	15
-2. Don’t just read, code it!	18
-3. Go back to the basics	18
-4. Sleep, Breaks & Exercise	18
-5. Distractions	19
-Chapter 4: How to ask Questions	21
-Chapter 5: Core Values	24
-Final thoughts	29
+Chapter 1: Course Overview
+ 1.1 Curriculum
+ 1.2 Homework and Preparation
+ 1.3 Tests
+ 1.4 Teachers
+ 1.5 Teaching Location
+ 1.6 After Class
+ 1.7 Start your career
+Chapter 2: How to study programming
+Chapter 3: Study Strategies
+ 3.1 Planning	
+ 3.2 Don’t just read, code it!
+ 3.3 Go back to the basics
+ 3.4 Sleep, Breaks & Exercise	
+ 3.5 Distractions
+Chapter 4: How to ask Questions
+Chapter 5: Core Values
+Final thoughts	
 
 
 # Introduction
 
 Dear new student of HackYourFuture, 
-
 Welcome to our program!
-
 On average, we receive 100-200 applications for every new class. Therefore, to be accepted into HackYourFuture is a big accomplishment. 
-
 You are now a member of a large community. Over a 100 students have graduated from HackYourFuture and more than 90% find a job as a professional web developer.
-
 However, our course will be challenging. For the next 7 months there will be moments in which you might want to give up. It is important to remember that you are not the first to go through this. Many of our students, who are now in professional jobs, have at some point thought about quitting our course. 
-
 Based on their experiences we compiled this guide to share the lessons learned: How do you make sure to be successful in HackYourFuture?
-
 This guide consists of five chapters. In the first chapter, we provide a short summary of our program. This will answer the question: What will I learn at HackYourFuture? The second chapter discusses the six steps of problem solving, the core skill of what programming is really all about. Chapter three talks about how to study programming most effectively. The fourth chapter details how you can become better at asking questions, which is vital to become a good programmer. Finally, chapter five lays out HackYourFuture’s core values.
-
 Like you, this document is always improving. If you feel something is missing or might be improved, please let us know and we might add your suggestion.
 
- Good luck on your journey! 
-
-
+Good luck on your journey! 
 
 The HackYourFuture team
 
 
 
-Chapter 1: Course Overview
+# Chapter 1: Course Overview
 
 During the next half year, you will practice with a variety of technologies and ways of thinking. This will build a solid foundation for you to become a junior web developer. What does this mean? 
 
 
 At the end of the 7 months you will leave HackYourFuture with:
-The skills to build your own full-stack web applications.
-Experience working in a team
-Access to the Alumni Network: a community of HackYourFuture graduates.
-A decent CV and LinkedIn profile coupled with interview skills
-Introductions to companies looking to hire programmers
-
+- The skills to build your own full-stack web applications.
+- Experience working in a team
+- Access to the Alumni Network: a community of HackYourFuture graduates.
+- A decent CV and LinkedIn profile coupled with interview skills
+- Introductions to companies looking to hire programmers
 
 In order for this to be turned into reality, you will have to work very hard.
-
 In the following section you will find an overview of all the subjects you’ll be learning about throughout the course. 
-1.1 Curriculum
-To facilitate your learning, we have developed a curriculum, which you can find here: www.github.com/hackyourfuture/curriculum. 
 
+## 1.1 Curriculum
 The 7 months are divided into different modules, each building on the one before. Here’s the overview:
 
+**HTML/CSS** 
+This is the foundation. Every website you know ultimately consists of these two technologies. You will learn how to create simple web pages (HTML) and how to make them look nice (CSS).
 
-HTML/CSS. This is the foundation. Every website you know ultimately consists of these two technologies. You will learn how to create simple web pages (HTML) and how to make them look nice (CSS).
-Command Line. This is the direct communication channel between you, the developer, and the computer. While most people use computers using nice icons and beautiful displays, here you will learn how to make things happen by directly executing commands. 
+**Command Line**
+This is the direct communication channel between you, the developer, and the computer. While most people use computers using nice icons and beautiful displays, here you will learn how to make things happen by directly executing commands. 
 Version control with GIT. Writing code is complex, especially if you’re working in multiple files. This is where version control comes in: how to save your workspace at any moment, in case you or someone from your team messes things up. You will learn how to always keep track of the code changes you’re making and undo your work whenever needed.
-JavaScript. The language of the web. You will learn the basics of programming, how to add interactivity to your web pages and how to make use of other services (GitHub, Google, etc.)
-Node.js. Software that allows us to use JavaScript outside the browser to create all kinds of applications. You will learn the basics of Node.js in order to understand and build web servers, which will allow us to create complex and dynamic web applications.
-MySQL. The world’s most popular open-source database. Every application needs a secure place to store sensitive data, so for that we use a database. You will learn the query language SQL in order to store and retrieve your data from your own database.
-React.js. Currently the most popular way to create fast and dynamic user interfaces. In this module you will learn how to build a more modern and dynamic frontend that changes depending on what the user does.
-Project. This is where all your knowledge and experience are put to the test. The goal is to build a fully functioning full-stack application while working in a team along Agile principles.
 
+**JavaScript** 
+The language of the web. You will learn the basics of programming, how to add interactivity to your web pages and how to make use of other services (GitHub, Google, etc.)
+
+**Node.js** 
+Software that allows us to use JavaScript outside the browser to create all kinds of applications. You will learn the basics of Node.js in order to understand and build web servers, which will allow us to create complex and dynamic web applications.
+
+**MySQL** 
+The world’s most popular open-source database. Every application needs a secure place to store sensitive data, so for that we use a database. You will learn the query language SQL in order to store and retrieve your data from your own database.
+
+**React.js** 
+Currently the most popular way to create fast and dynamic user interfaces. In this module you will learn how to build a more modern and dynamic frontend that changes depending on what the user does.
+
+**Project** 
+This is where all your knowledge and experience are put to the test. The goal is to build a fully functioning full-stack application while working in a team along Agile principles.
 
 If you do well enough during the Project and meet the deadlines, you will graduate. You will receive a diploma and you’ll become part of the Alumni Network. 
 
-However, there is no time to rest yet because the next challenge will be to find an internship (see also section 1.7). After you graduate it might take some time before you actually find an opportunity. That is why we have developed the Post-Graduation Package. The PGP consists of additional technical projects that you will build to improve your skills and increase your chances of finding an internship.
-1.2 Weekly program
+However, there is no time to rest yet because the next challenge will be to find an internship (see also section 1.7). After you graduate it might take some time before you actually find an opportunity. That is why we have developed the [Post-Graduation Package](https://github.com/hackyourfuture/post-grad-ed). The PGP consists of additional technical projects that you will build to improve your skills and increase your chances of finding an internship.
+
+## 1.2 Weekly program
 It is important to plan your week ahead of time, in order to work and study effectively (see also chapter 3: Study Strategies). In summary your study week for HackYourFuture is as follows:
 
-
-
-Day
-Activity
-Wednesday-Thursday
-Video lecture + Readings this week
-Friday-Saturday
-Work on the homework assignment + Submit question for the Q&A session
-Sunday
-Q&A Session 12-3pm (usually ends earlier)
-Monday-Tuesday
-Finish homework (deadline Tuesday 23:59) + Implement feedback on previous homework
+|Day               | Activity                                                                         |
+|------------------|----------------------------------------------------------------------------------|
+|Wednesday-Thursday|Video lecture + Readings this week                                                |
+|Friday-Saturday   |Work on the homework assignment + Submit question for the Q&A session             |
+|Sunday            |Q&A Session 12-3pm (usually ends earlier)                                         |
+|Monday-Tuesday    |Finish homework (deadline Tuesday 23:59) + Implement feedback on previous homework|
 
 The video lectures will be made available to you through Slack (You can also find them on our YouTube channel). In these lectures, one of our teachers explains the core concepts of this week and provides you with examples and exercises.
 
