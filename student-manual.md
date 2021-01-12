@@ -2,8 +2,8 @@
 # Table of Contents
 * Introduction
 * Chapter 1: Course Overview
-⋅⋅* 1.1 Curriculum
-⋅⋅* 1.2 Homework and Preparation
+    * 1.1 Curriculum
+    * 1.2 Homework and Preparation
 ⋅⋅* 1.3 Tests
 ⋅⋅* 1.4 Teachers
 ⋅⋅* 1.5 Teaching Location
