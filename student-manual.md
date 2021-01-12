@@ -92,15 +92,17 @@ It is important to plan your week ahead of time, in order to work and study effe
 |Sunday            |Q&A Session 12-3pm (usually ends earlier)                                         |
 |Monday-Tuesday    |Finish homework (deadline Tuesday 23:59) + Implement feedback on previous homework|
 
-The video lectures will be made available to you through Slack (You can also find them on our YouTube channel). In these lectures, one of our teachers explains the core concepts of this week and provides you with examples and exercises.
+The video lectures will be made available to you through Slack (You can also find them on our [YouTube channel](https://www.youtube.com/channel/UCkK246iKcOAvsL0SI_6n3eA)). In these lectures, one of our teachers explains the core concepts of this week and provides you  examples and exercises.
 
-You are also asked to do the homework assignments and readings (see next section). On Tuesday we ask you to submit your homework and on Saturday at least one question before the Question and Answer (Q&A) session on Sunday. The Q&A session is basically an online meeting where the teacher will answer your questions, so please come prepared! He/She might also ask you questions. Submitting homework and Q&A’s are mandatory! For some more info about the Q&A and how to ask questions, check this document.
+You are also asked to do the homework assignments and readings (see next section). On Tuesday we ask you to submit your homework and on Saturday at least one question before the Question and Answer (Q&A) session on Sunday. The Q&A session is basically an online meeting where the teacher will answer your questions, so please come prepared! He/She might also ask you questions. Submitting homework and Q&A’s are mandatory! 
 
-Currently, due to Corona all of our education is online. In the near future we might go back to face-to-face classes on Sunday.
-1.2 Homework and Preparation
+Currently, due to Corona all of our education is online. In the near future we hope to go back to face-to-face classes on Sunday.
+
+## 1.2 Homework and Preparation
 As mentioned, our complete curriculum can be found on Github. The modules are ordered sequentially.
 
-The homework can be found in the module repository. For example, if you click on HTML-CSS you’ll be taken to the document that has all the information about that particular module. If you scroll down you’ll see a table with a column Homework.
+The homework can be found in the module repository. For example, if you click on [HTML-CSS](https://github.com/HackYourFuture/HTML-CSS) you’ll be taken to the document that has all the information about that particular module. If you scroll down you’ll see a table with a column Homework.
+![alt text](https://github.com/HackYourFuture/curriculum/blob/master/assets/html:css-table.png)
 
 After the first couple of weeks, Github will also be where you will publish your homework. In the beginning you might struggle to use Github. But there is a reason we use it: It is the number 1 platform for programmers! In order to become a good programmer, you will have to understand how Github works. You will notice that after a few weeks, finding the right homework assignments and reading, as well as publishing your homework on Github, will become automatic. 
 
