@@ -120,16 +120,15 @@ After most modules we will ask you to take a test. If there are any weaknesses i
 ## 1.4 Teachers
 HackYourFuture is only possible because of our amazing team of teachers. See for an overview here. Our teachers are medior and senior software developers working at small and big companies. They usually have very busy jobs and they sacrifice their limited free time to help you to become a developer. Some of them are graduates from our program! We ask you to respect and value their time by preparing yourself for class and ask plenty of questions! 
 ## 1.5 Teaching Day (Sunday)
-Note: Because of the Corona crisis, we are currently conducting all of our classes online. 
-
-We will explain this in more detail during the introduction day. As a result some of the information in section 1.5 and 1.6 is more relevant for when we return to face-to-face classes.
+> Note: Because of the Corona crisis, we are currently conducting all of our classes online. 
+> We will explain this in more detail during the introduction day. As a result some of the information in section 1.5 and 1.6 is more relevant for when we return to face-to-face classes.
 
 For our main teaching day on Sunday, we make use of the office of Backbase, one of HackYourFuture’s most important partners. The office is located at Sarphatistraat 370. We are incredibly lucky as we can use this location for free.
 
 However there are few rules and regulations that are very important to take into consideration. Failure to comply with them could lead to your dismissal from the HYF program.
 
 1. Door policy
-The doors downstairs (main entrance), should be closed at all times. We will make sure to have someone open the door at the beginning of the day (usually from 11:30 until 12 when class starts). If you arrive later, please ask for someone to open door using the #door channel in Slack.
+The doors downstairs (main entrance), should be closed at **all times**. We will make sure to have someone open the door at the beginning of the day (usually from 11:30 until 12 when class starts). If you arrive later, please ask for someone to open door using the #door channel in Slack.
 
 The main entrance to our teaching location
 
