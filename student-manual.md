@@ -232,29 +232,29 @@ Imagine a fruit vendor on the market. The fruit vendor has a couple of different
 
 The fruit vendor has hired you to write a program that takes out the rotten fruit and only tells you which fruits are not rotten.
 
-1. Understand and define 
+#### 1. Understand and define 
 In our example understanding and defining the problem seems pretty straightforward. Indeed, we need to write a program that takes out the rotten fruit and returns the fruits that are not rotten. 
 
 However, let’s try to make this a bit more specific. We have to write a program that first takes an array of strings containing fruit names as input. It then filters out the strings that do not contain the word “rotten” and gives them as output.
 
 
-2. Divide 
+#### 2. Divide 
 We now know what we want to do in a general sense, but can we divide our problems in a few different problems? Yes, we can:
 
 1. Declare a variable named fruits with the fruits mentioned in the example 
 2. Define an empty function named TakeOutRottenFruit
 3. Inside the empty function write instructions that take out the strings containing the word “rotten”.
 
-3. Finding the right technique
-After going over our notes and the curriculum We discover that the filter() function could be used to filter out elements in an array. 
+#### 3. Finding the right technique
+After going over our notes and the curriculum we discover that the filter() function could be used to filter out elements in an array. 
 
-However, the documentation on Mozilla Development Network also tells us that it will return “a new array with all elements that pass the test implemented by the provided function”. That means we still have to instruct our computer to select the string(s) which contain the word ‘rotten’. 
+However, the documentation on [Mozilla Development Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) (MDN) also tells us that it will return “a new array with all elements that pass the test implemented by the provided function”. That means we still have to instruct our computer to select the string(s) which contain the word ‘rotten’. 
 
 After some more googling, we find out that includes() is a function that allows us to check the content of a string. Let us try to combine the two! 
 
-4. Experiment
+#### 4. Experiment
 This leads us to write the following code
-
+```javascript
 const fruits = ["apple", "rottenBanana", "mango"]
 
 function takeOutRottenFruit(arrayOfFruits) {
@@ -263,9 +263,9 @@ function takeOutRottenFruit(arrayOfFruits) {
 }
 
 takeOutRottenFruit(fruits)
-
-5. Debug
-When we write the code under step 4 in the Google Chrome Console we get the following error: Uncaught TypeError fruit.include is not a function 
+```
+#### 5. Debug
+When we write the code under step 4 in the Google Chrome Console we get the following error: *Uncaught TypeError fruit.include is not a function* 
 
 Probably we have made a small typo. Let’s google the include function. When we do, we notice that we should use fruit.includes (with an -s at the end).
 
@@ -273,7 +273,8 @@ When we run the following code, it does not give any errors anymore.
 
 However, I do notice that only rottenBanana is selected and displayed. 
 
-Hmmm, what to do? Let’s go back to the basics. I remember that in my JavaScript 1 Module I learned something about operators (here). Indeed, I find that you can use the ! operator to return what is not true (everything that does not contain the word rotten). Let me try to add the ! operator.
+Hmmm, what to do? Let’s go back to the basics. I remember that in my JavaScript 1 Module I learned something about operators ([here](https://github.com/HackYourFuture/fundamentals/blob/master/fundamentals/operators.md) ). Indeed, I find that you can use the ! operator to return what is not true (everything that does not contain the word rotten). Let me try to add the ! operator.
+```javascript
 
 const fruits = ["apple", "rottenBanana", "mango"]
 
@@ -284,78 +285,59 @@ function takeOutRottenFruit(arrayOfFruits) {
 
 takeOutRottenFruit(fruits)
 
+```
 
+**Yay! It seems to work! Can you think of a different / better solution?**   
 
-Yay! It seems to work! Can you think of a different / better solution?  
-
-Chapter 3: Study Strategies
+# Chapter 3: Study Strategies
 
 Most people study inefficiently. This is mostly because they never really learned how to study the right way, even after years of university in some cases!  In this chapter we will show you some of the most important strategies to learn in a way that is much more time efficient. 
 
 As the HackYourFuture course is very demanding, this is critical to get through the program successfully. In fact, many successful experts that require focus and concentration for their craft (scientists, programmers, writers, artists, craftsmen, etc.) share one thing in common: they are very serious about how they learn. This chapter will give you a short introduction into how you can study most effectively.
-1. Planning
+## 1. Planning
 The first part of studying should be to make a study plan. 
 
 Your homework will consist of various components. You will need to:
-read/watch a certain amount of information (videos/articles), 
-apply this knowledge in the homework exercises. 
-prepare questions for the Q&A on Sunday
+* read/watch a certain amount of information (videos/articles), 
+* apply this knowledge in the homework exercises. 
+* prepare questions for the Q&A on Sunday
 
 Every week consists of five main activities: (1.) Read the reading material. (2.) Watch the online lectures. (2.) Make the homework for the current week. (3.) Participate in the Q&A session. (4.) Implement the feedback on your previous homework. 
 
 Before you start doing anything, it’s good to plan your week ahead. Divide the large amounts of tasks into small pieces, and think about how much time you expect to spend on each task by having a quick look at it. 
 
-Let’s take the example of JavaScript 1 week 3.
+We have a certain number of articles and videos that we share as part of the curriculum. It is important to read and watch them effectively. Again, try to follow the examples and code them yourself. Also, you are free to look for your own reading material and videos. There is a lot of good material on the internet, which you can make use of. Also, if you find a resource that you think is better than what we offer in the curriculum, please let us know (see textbox below!).
 
-Homework + Recap (21 hours)
-
-
-1. Recapping previous concepts (5 hours)
-2. JavaScript exercises (8 hours)
-3. Project: Grade Calculator (8 hours)
-
-Before starting the homework it is essential to first have a look at the concepts discussed in the previous week(s) before moving forward. These concepts have been discussed in your video-lecture, the Q&A session on Sunday and the readings. Previous video-lectures lectures have been recorded and uploaded to Youtube (here). These clips contain an explanation of the concepts you need to master to do the homework well. 
-
-It is advised to watch some parts of the lecture again and practice with the examples/exercises provided. Change the values, variables and other aspects of the code to improve your understanding of the practical use of these concepts. In addition to the videos, you can go through the reading material of the previous week. Again, the idea is that you practice the concepts by putting them into code.
-
-Reading/Watching (10 hours)
-
-1. Section 1 (2 hours)
-2. Section 2 (2 hours)
-3. Section 3 (2 hours)
-4. Recap Sections 1-3 + practice + formulate questions for Q&A (4 hours)
-
-We have a certain number of articles and videos that we share as part of the curriculum. However, it is important to read and watch them effectively. Again, try to follow the examples and code them yourself. Also, you are free to look for your own reading material and videos. There is a lot of good material on the internet, which you can make use of. Also, if you find a resource that you think is better than what we offer in the curriculum, please let us know (see textbox below!).
-
-
+```
 How to Improve the Curriculum!
 
 1. Go to the Github page you want to add a suggestion to
 2. Click on Issues. 
+![alt text](https://github.com/HackYourFuture/curriculum/blob/master/assets/issue.png)
 
 3.  Click new issue and add your suggestions. This can be a URL to an article, a video, graphic or anything else that will improve the curriculum.
 4. We will review it and if we find it useful, add it to the curriculum.
 
 We are looking forward to your ideas & suggestions!
 
-
+```
 
 The homework and reading material combined take at least 30 hours, however this does not account for getting stuck with exercises or doing more in-depth research and practice to really master the concepts. Therefore, you probably want to add another 5-10 hours per week at least. 
 
 Now that you know how much time you have available and which are the activities you need to study per day, it’s time to make a weekly schedule. The key here is not to wait until Saturday, but to start Wednesday morning already. Learning programming concepts takes time, and if you try to do everything at the end of the week, your brain has very little time to process these concepts. Per day you schedule a number of small tasks, and once you are finished you can feel good about finishing the tasks of the day. 
 
 Note that planning is an art by itself! If you want to learn how to make better weekly and daily schedules, we recommend you to read the following two posts by Cal Newport (1 and 2). 
-2. Don’t just read, code it! 
+## 2. Don’t just read, code it! 
 As explained in the previous section, reading about code, or listening to your teacher about code, is not the same as actually coding! It is incredibly important that you try out the concepts that you have learned, and that you try to apply it in multiple ways in order to become comfortable with it. There is no way around this. 
 
 We recommend that when you study something, directly try it out in your code editor by making a simple coding example and see how it works in practice. Only this way you will truly understand it well, and gain the ability to turn ideas into code.
 
 One more tip: Write code with pen and paper. Try to write down the basic concepts including some simple examples. Yes, this can also be done on the computer, however research shows that writing things down with good old-fashioned pen and paper provides cognitive benefits that you cannot achieve when typing on your keyboard. By the way, some companies will ask you to do the same during their interview process – good practice indeed!
-3. Go back to the basics
+## 3. Go back to the basics
 The basic concepts presented in the earlier modules are crucial to become a good programmer. Many students in JS2 and JS3 still struggle with arrays, string, objects, array of objects, properties and other basic concepts which are discussed in JavaScript. Many students in the React-module still struggle with callback functions and closures (discussed in JS2). In order to solve more complicated coding challenges, you need to know these concepts! 
 
 If you really want to master the basic concepts, the best way is to do more exercises with them. You can find a lot on the internet, but you can also easily create your own basic exercises (like the rotten fruit example in chapter 1). For instance, can you come up with some examples on how to use a basic function?
-4. Sleep, Breaks & Exercise
+## 4. Sleep, Breaks & Exercise
 Sleep is incredibly important for your brain’s memory capability. If you study a lot, but don’t sleep enough, part of all the hours you put in are useless. On average the recommended time of sleep is ~8 hours. If you go much below this, it will most likely decrease your performance as a student. 
 
 We recommend that you do not look at any screen the hour before you go to bed, as this improves your overall sleep quality. Your brain thinks that the light of your screen is natural light, and this will make you stay awake.
@@ -363,7 +345,7 @@ We recommend that you do not look at any screen the hour before you go to bed, a
 Try to take 10-15 minutes breaks in between studying sessions of 90 minutes, as this re-energizes you and improves your focus. During these breaks, some form of physical exercise is highly recommended. Take a walk outside, stretch, dance...get moving!
 
 More generally, we recommend you eat healthy and do sports. There is a large body of evidence (for instance this and this) that shows exercise helps memory and thinking through both direct and indirect means. Directly through a reduction of insulin resistance, inflammation, and an increase of chemicals in the brain that affect the health of brain cells, the growth of blood vessels in the brain, as well as the survival of new brain cells. Indirectly, exercise improves mood and sleep, and reduces stress and anxiety. 
-5. Distractions
+## 5. Distractions
 The goal whilst studying should be to reach a state of ‘flow’. Flow can be described as the complete immersion in an activity. By doing so, you lose your sense of space and time. There is quite some research about ‘flow’. This research shows that not only your learning curve increases significantly, also the level of joy increases. In other words, if you are fully concentrated whilst programming you feel way more satisfied as a result. 
 
 To reach this level of optimal concentration and create a state of flow, distractions should be shut out as much as possible. The two most common enemies are described below.
