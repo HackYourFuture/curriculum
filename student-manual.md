@@ -321,12 +321,12 @@ Before you start doing anything, it’s good to plan your week ahead. Divide the
 We have a certain number of articles and videos that we share as part of the curriculum. It is important to read and watch them effectively. Again, try to follow the examples and code them yourself. Also, you are free to look for your own reading material and videos. There is a lot of good material on the internet, which you can make use of. Also, if you find a resource that you think is better than what we offer in the curriculum, please let us know (see textbox below!).
 
 > How to Improve the Curriculum!
-
+>
 > 1. Go to the Github page you want to add a suggestion to
 > 2. Click on Issues. 
 > 3.  Click new issue and add your suggestions. This can be a URL to an article, a video, graphic or anything else that will improve the curriculum.
 > 4. We will review it and if we find it useful, add it to the curriculum.
-
+>
 > We are looking forward to your ideas & suggestions!
 ![alt text](https://github.com/HackYourFuture/curriculum/blob/master/assets/issue.png)
 
@@ -369,13 +369,13 @@ Another app that can help you out: [Selfcontrol.](https://selfcontrolapp.com/) A
 **Challenge number 2: Children and family**
 Many of us are not living by ourselves. You might have children, or family members asking for attention. The challenge here is to try and create a quiet space, where you will not be interrupted. Of course, this is not always possible if you are a parent. But perhaps you can ask your partner or a friend to keep an eye on your children at least for a few hours a day, while you go to a local library, or study in a quiet room at a friend’s house. 
 
-> How to become a pro at learning
-
+> **How to become a pro at learning**
+>
 > Obviously, this chapter only provides you with a very basic introduction. 
-
+>
 > If you are interested in learning more about how to learn effectively we recommend you to read more about deliberate learning and deep work. 
 > Studying effectively – although NOT easy- is a superpower you can use for the rest of your life!!!
-
+>
 > An excellent read about the value of working without distractions (and how to achieve it) is the book Deep Work by Cal Newport [here](https://www.calnewport.com/books/deep-work/).
 
 # Chapter 4: How to ask Questions <a name="questions"></a>
