@@ -9,7 +9,7 @@
    * 1.5 Teaching Location
    * 1.6 After Class
    * 1.7 Start your career
-* Chapter 2: How to study programming
+* Chapter 2: How to study programming (tips for non-programmers)
 * Chapter 3: Study Strategies
    * 3.1 Planning	
    * 3.2 Don’t just read, code it!
@@ -82,7 +82,7 @@ If you do well enough during the Project and meet the deadlines, you will gradua
 
 However, there is no time to rest yet because the next challenge will be to find an internship (see also section 1.7). After you graduate it might take some time before you actually find an opportunity. That is why we have developed the [Post-Graduation Package](https://github.com/hackyourfuture/post-grad-ed). The PGP consists of additional technical projects that you will build to improve your skills and increase your chances of finding an internship.
 
-## 1.2 Weekly program
+## 1.1 Weekly program
 It is important to plan your week ahead of time, in order to work and study effectively (see also chapter 3: Study Strategies). In summary your study week for HackYourFuture is as follows:
 
 |Day               | Activity                                                                         |
@@ -125,12 +125,12 @@ HackYourFuture is only possible because of our amazing team of teachers. See for
 
 For our main teaching day on Sunday, we make use of the office of Backbase, one of HackYourFuture’s most important partners. The office is located at Sarphatistraat 370. We are incredibly lucky as we can use this location for free.
 
-However there are few rules and regulations that are very important to take into consideration. Failure to comply with them could lead to your dismissal from the HYF program.
+However there are few rules and regulations that are very important to take into consideration. _Failure to comply with them could lead to your dismissal from the HYF program._ 
 
 1. Door policy
 The doors downstairs (main entrance), should be closed at **all times**. We will make sure to have someone open the door at the beginning of the day (usually from 11:30 until 12 when class starts). If you arrive later, please ask for someone to open door using the #door channel in Slack.
 
-The main entrance to our teaching location
+> Slack is a communication tool we use within HackYourFuture. After the introduction day we will send you an invitation link to download the software.
 
 If you want to go outside during the break for some fresh air or to smoke, please use the door at the back of the building. You are only allowed to smoke in the designated areas. Also this door should be closed at all times! If not, the private security company will be automatically alerted and we have a lot of explaining to do.
 u
@@ -142,10 +142,11 @@ Please clean up after yourself. After lunch you should clean the breadcrumbs and
 
 4. Windows
 During class windows may be opened. However, please check after class if windows have been closed.
-1.6 After Class
+
+## 1.6 After Class
 We often go for drinks after class. We believe that HackYourFuture is not just about learning but also about building connections, friendships and socializing. Feel free to join, the first round is on us :) We usually go for drinks at Crea or Kriterion, two nearby cafes. 
 Note: Do make sure to take care of your belongings (backpack and coat). In the past we have had one case of theft.
-1.7 Start your career
+## 1.7 Start your career
 After graduation, it is time to find an internship. This internship almost always leads to a paid job. HackYourFuture will do its best to find suitable companies for you, as we have an extensive network of partner companies. However, finding work will depend completely on your own efforts.
 
 Finding an internship consists of the following steps:
@@ -168,51 +169,48 @@ We will share a Google Doc list with you. We will train you to find leads for co
 6. Education Fee
 It is in our best interest to find you an internship since we ask companies for a small compensation (education fee). We need this education fee to train the next class of students since we are a not-for-profit organization. 
 
-IMPORTANT: Finding an internship opportunity is a two-way street. While we reach out to many different companies, you need to contribute. You can control your chances of getting an internship by working on your technical and communication skills, and provide us with leads to companies.
+**IMPORTANT**: Finding an internship opportunity is a two-way street. While we reach out to many different companies, you need to contribute. You can control your chances of getting an internship by working on your technical and communication skills, and provide us with leads to companies.
 
 If you do not contribute, and remain unemployed, this is your responsibility. If the municipality or your contact person contacts us about your progress we will be straightforward and transparent about your performance.
 
-Chapter 2: How to study programming 
-(tips for non-programmers) 
+# Chapter 2: How to study programming (tips for non-programmers) 
 
 Many people think programming is just about the code, 0’s and 1’s, about frameworks, technical stuff, or complicated words that just confuse us.
 
-However, to be a good programmer, the most important thing is to be good at problem solving.  We program computers because we have:
+However, to be a good programmer, **the most important thing is to be good at problem solving.**  We program computers because we have:
 1. A problem/need
 2. We want to use the computer to help us solve that problem / need
 
 This chapter discusses the six steps of problem solving. This gives you a step-by-step approach on how to analyze and write code. 
 
 
-1. Understand and define 
+## 1. Understand and define 
 The key to problem solving, is to really understand the problem. Write down the problem exactly or explain the problem to someone else, until you clearly understand what the problem is you are trying to solve. Many times, software developers start fixing problems without really knowing what the problem is (or what the client wants).  
 
-2. Divide 
+## 2. Divide 
 Big problems (or challenges) should be divided into smaller problems, so that the problems become easier to solve. What seemed like a big monster problem, now just is a lot of small monsters on top of each other. For instance, if you want to loop through an array and select certain data from it, these are already two steps (making a loop and selecting data). The more you are able to divide big problems into small ones, the better.
 
-3. Finding the right technique
+## 3. Finding the right technique
 Now it is time to think about the techniques you know that could possibly help you to solve this problem (e.g. loops, if statements, filter, map etc.). If you do not find an appropriate technique you will have to find it. In both cases Google will probably be your best friend. Remember, most developers spend hours per day on Google trying to find solutions to their problems!
 
-4. Experiment
+## 4. Experiment
 Now try out some of the techniques you have found. Often it works well to first try out the technique on an easy example you have made yourself, before you try to solve the problem. Experiment with some examples so that you really understand what the technique is capable of. After that, put it all together and see if your code gives you the expected results.
 
-5. Debug
+## 5. Debug
 Often your code does not do what you want it to do. There is only one reason why this is the case: Your logic is not sound. 
 
 In the end the computer only executes on instructions that are written in a way it understands. Generally, there can be 2 reasons for your code not doing what you want:
-
-
 1. The computer throws an error.
 2. Your code returns an incorrect value that doesn’t solve your problem
 
 Whenever this happens, you can do the following:
-In case 1, make sure that you carefully read the error message, as it often gives you a good hint where the problem lies within your code. This should be the first thing to look for when something went wrong.
-Check for syntax errors. Use JsLint for this (an extension for VSCode that helps you find syntax errors). Most of your mistakes will be simple spelling/syntax mistakes. 
-Use the debugger to understand what steps the computer goes through when interpreting your code, and find where it goes wrong. Try to explain each part of the code to yourself of what it does exactly. 
-Formulate your problem in clear terms to google and search for solutions
-Ask people in your class/teacher or take a break and look back at your problem with fresh eyes. 
+* In case 1, make sure that you carefully read the error message, as it often gives you a good hint where the problem lies within your code. This should be the first thing to look for when something went wrong.
+* Check for syntax errors. Use JsLint for this (an extension for VSCode that helps you find syntax errors). Most of your mistakes will be simple spelling/syntax mistakes. 
+* Use the debugger to understand what steps the computer goes through when interpreting your code, and find where it goes wrong. Try to explain each part of the code to yourself of what it does exactly. 
+* Formulate your problem in clear terms to google and search for solutions
+* Ask people in your class/teacher or take a break and look back at your problem with fresh eyes. 
 
-6. Reflect
+## 6. Reflect
 After all this, it is time to reflect on what you have done. Are you happy about how you solved the problem? What went well and what did not?
 
 Most people tend to skip this step. “Why do I need to do this? I have already solved the problem!”. However, you will notice that if you do take some time to reflect on your code and problem-solving approach, you will improve your analytical mindset and become better at memorizing some parts of your code.
@@ -221,13 +219,12 @@ Reflection also includes refactoring. Refactoring is the process of rewriting yo
 
 In summary, reflection includes the following steps:
 
+* how could I rewrite this code for simplicity and better readability (refactoring)
+* what concepts in your code you don’t understand yet 100% (even though it works), and study them.
+* what you can learn from other solutions (by looking at other solutions of the same problem)?
+* what would you do differently next time?
 
-how could I rewrite this code for simplicity and better readability (refactoring)
-what concepts in your code you don’t understand yet 100% (even though it works), and study them.
-what you can learn from other solutions (by looking at other solutions of the same problem)?
-what would you do differently next time?
-
-Example 1: Fruit Vendor
+### Example 1: Fruit Vendor
 
 Let’s use an example to explain these 6 steps in more detail. Note that the example below is a bit advanced if you are just starting our course. 
 
