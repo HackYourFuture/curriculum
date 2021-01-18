@@ -1,24 +1,26 @@
 
 # Table of Contents
 * [Introduction](#introduction)
-* Chapter 1: Course Overview
-   * 1.1 Curriculum
-   * 1.2 Homework and Preparation
-   * 1.3 Tests
-   * 1.4 Teachers
-   * 1.5 Teaching Location
-   * 1.6 After Class
-   * 1.7 Start your career
-* Chapter 2: How to study programming (tips for non-programmers)
-* Chapter 3: Study Strategies
-   * 3.1 Planning	
-   * 3.2 Don’t just read, code it!
-   * 3.3 Go back to the basics
-   * 3.4 Sleep, Breaks & Exercise
-   * 3.5 Distractions
-* Chapter 4: How to ask Questions
-* Chapter 5: Core Values
-* Final thoughts	
+* [Chapter 1: Course Overview](#course)
+   * [1.1 Curriculum](#curriculum)
+   * [1.2 Weekly Program](#weekly)
+   * [1.3 Homework and Preparation](#homework)
+   * [1.4 Tests](#tests)
+   * [1.5 Teachers](#teachers)
+   * [1.6 Q&A sessions]((#sessions)
+   * [1.7 Teaching Location](#location)
+   * [1.8 After Class](#after)
+   * [1.9 Start your career](#career)
+* [Chapter 2: How to study programming (tips for non-programmers)](#study)
+* [Chapter 3: Study Strategies](#strategies)
+   * [3.1 Planning](#planning)	
+   * [3.2 Don’t just read, code it!](#code)
+   * [3.3 Go back to the basics](#basics)
+   * [3.4 Sleep, Breaks & Exercise](#sleep)
+   * [3.5 Distractions](#distractions)
+* [Chapter 4: How to ask Questions](#questions)
+* [Chapter 5: Core Values](#values)
+* [Final thoughts](#thoughts)	
 
 
 # Introduction <a name="introduction"></a>
@@ -38,7 +40,7 @@ The HackYourFuture team
 
 
 
-# Chapter 1: Course Overview <a name="introduction"></a>
+# Chapter 1: Course Overview <a name="course"></a>
 
 During the next half year, you will practice with a variety of technologies and ways of thinking. This will build a solid foundation for you to become a junior web developer. What does this mean? 
 
@@ -53,7 +55,7 @@ At the end of the 7 months you will leave HackYourFuture with:
 In order for this to be turned into reality, you will have to work very hard.
 In the following section you will find an overview of all the subjects you’ll be learning about throughout the course. 
 
-## 1.1 Curriculum
+## 1.1 Curriculum <a name="curriculum"></a>
 The 7 months are divided into different modules, each building on the one before. Here’s the overview:
 
 **HTML/CSS** 
@@ -82,7 +84,7 @@ If you do well enough during the Project and meet the deadlines, you will gradua
 
 However, there is no time to rest yet because the next challenge will be to find an internship (see also section 1.7). After you graduate it might take some time before you actually find an opportunity. That is why we have developed the [Post-Graduation Package](https://github.com/hackyourfuture/post-grad-ed). The PGP consists of additional technical projects that you will build to improve your skills and increase your chances of finding an internship.
 
-## 1.1 Weekly program
+## 1.2 Weekly program <a name="weekly"></a>
 It is important to plan your week ahead of time, in order to work and study effectively (see also chapter 3: Study Strategies). In summary your study week for HackYourFuture is as follows:
 
 |Day               | Activity                                                                         |
@@ -98,7 +100,7 @@ You are also asked to do the homework assignments and readings (see next section
 
 Currently, due to Corona all of our education is online. In the near future we hope to go back to face-to-face classes on Sunday.
 
-## 1.2 Homework and Preparation
+## 1.3 Homework and Preparation <a name="homework"></a>
 As mentioned, our complete curriculum can be found on Github. The modules are ordered sequentially.
 
 The homework can be found in the module repository. For example, if you click on [HTML-CSS](https://github.com/HackYourFuture/HTML-CSS) you’ll be taken to the document that has all the information about that particular module. If you scroll down you’ll see a table with a column Homework.
@@ -115,11 +117,21 @@ You are expected to always come prepared to the class on Sunday. Every week you 
 3. The functionality of the code is explained in the comment. 
 
 If we find out you copy code without taking the criteria above in mind, this will have consequences. We usually will ask you to do a technical interview. If you fail the interview, you have to leave our course.
-## 1.3 Tests
+### 1.4 Tests <a name="tests"></a>
 After most modules we will ask you to take a test. If there are any weaknesses in your understanding of the concepts we have taught you, the test will expose them. This is a good thing: you will get an opportunity to go over them again and master them. Make use of it, because in a company you will not always have such a luxury. Receiving a low score on one of the tests does not immediately lead to removal from our program but we will re-evaluate the best way forward.
-## 1.4 Teachers
+## 1.5 Teachers <a name="teachers"></a>
 HackYourFuture is only possible because of our amazing team of teachers. See for an overview here. Our teachers are medior and senior software developers working at small and big companies. They usually have very busy jobs and they sacrifice their limited free time to help you to become a developer. Some of them are graduates from our program! We ask you to respect and value their time by preparing yourself for class and ask plenty of questions! 
-## 1.5 Teaching Day (Sunday)
+## 1.6 Q&A sessions <a name="sessions"></a>
+The content of the Q&A sessions is decided by you. Based on your questions the mentor will explain the concepts that aren’t clear yet. In order to make the sessions as useful as possible we have implemented the following rules: 
+* Submit your question(s) in the thread on the message that will be posted in your class channel. This is part of the homework. If you can’t think of a question, search online for a small exercise to do together during the Q&A session. Message Tjebbe when you won’t be able to submit a question/exercise before the deadline.
+Examples of both good and bad questions:
+Good:		_"Do callbacks have to do with asynchronicity in our applications?"_
+Bad:		_"Can you explain again what a callback is?"_
+* Be on time, turn your camera on, and your microphone off. If you have a poor internet connection let Federico know so we can find a solution together.
+* Use the chat function to let the teacher know if you have questions. Wait for your turn and activate your microphone to explain your question.
+* Be ready to answer questions yourself. The teacher will be active in asking YOU to explain concepts. This is not to embarrass you but to help you practice the skills you will need when working at a real company.
+
+## 1.7 Teaching Location <a name="location"></a>
 > Note: Because of the Corona crisis, we are currently conducting all of our classes online. 
 > We will explain this in more detail during the introduction day. As a result some of the information in section 1.5 and 1.6 is more relevant for when we return to face-to-face classes.
 
@@ -143,10 +155,10 @@ Please clean up after yourself. After lunch you should clean the breadcrumbs and
 4. Windows
 During class windows may be opened. However, please check after class if windows have been closed.
 
-## 1.6 After Class
+## 1.8 After Class <a name="after"></a>
 We often go for drinks after class. We believe that HackYourFuture is not just about learning but also about building connections, friendships and socializing. Feel free to join, the first round is on us :) We usually go for drinks at Crea or Kriterion, two nearby cafes. 
 Note: Do make sure to take care of your belongings (backpack and coat). In the past we have had one case of theft.
-## 1.7 Start your career
+## 1.9 Start your career <a name="career"></a>
 After graduation, it is time to find an internship. This internship almost always leads to a paid job. HackYourFuture will do its best to find suitable companies for you, as we have an extensive network of partner companies. However, finding work will depend completely on your own efforts.
 
 Finding an internship consists of the following steps:
@@ -173,7 +185,7 @@ It is in our best interest to find you an internship since we ask companies for 
 
 If you do not contribute, and remain unemployed, this is your responsibility. If the municipality or your contact person contacts us about your progress we will be straightforward and transparent about your performance.
 
-# Chapter 2: How to study programming (tips for non-programmers) 
+# Chapter 2: How to study programming (tips for non-programmers) <a name="study"></a>
 
 Many people think programming is just about the code, 0’s and 1’s, about frameworks, technical stuff, or complicated words that just confuse us.
 
@@ -289,12 +301,12 @@ takeOutRottenFruit(fruits)
 
 **Yay! It seems to work! Can you think of a different / better solution?**   
 
-# Chapter 3: Study Strategies
+# Chapter 3: Study Strategies <a name="strategies"></a>
 
 Most people study inefficiently. This is mostly because they never really learned how to study the right way, even after years of university in some cases!  In this chapter we will show you some of the most important strategies to learn in a way that is much more time efficient. 
 
 As the HackYourFuture course is very demanding, this is critical to get through the program successfully. In fact, many successful experts that require focus and concentration for their craft (scientists, programmers, writers, artists, craftsmen, etc.) share one thing in common: they are very serious about how they learn. This chapter will give you a short introduction into how you can study most effectively.
-## 1. Planning
+## 1. Planning <a name="planning"></a>
 The first part of studying should be to make a study plan. 
 
 Your homework will consist of various components. You will need to:
@@ -324,17 +336,17 @@ The homework and reading material combined take at least 30 hours, however this 
 Now that you know how much time you have available and which are the activities you need to study per day, it’s time to make a weekly schedule. The key here is not to wait until Saturday, but to start Wednesday morning already. Learning programming concepts takes time, and if you try to do everything at the end of the week, your brain has very little time to process these concepts. Per day you schedule a number of small tasks, and once you are finished you can feel good about finishing the tasks of the day. 
 
 Note that planning is an art by itself! If you want to learn how to make better weekly and daily schedules, we recommend you to read the following two posts by Cal Newport (1 and 2). 
-## 2. Don’t just read, code it! 
+## 2. Don’t just read, code it! <a name="code"></a>
 As explained in the previous section, reading about code, or listening to your teacher about code, is not the same as actually coding! It is incredibly important that you try out the concepts that you have learned, and that you try to apply it in multiple ways in order to become comfortable with it. There is no way around this. 
 
 We recommend that when you study something, directly try it out in your code editor by making a simple coding example and see how it works in practice. Only this way you will truly understand it well, and gain the ability to turn ideas into code.
 
 One more tip: Write code with pen and paper. Try to write down the basic concepts including some simple examples. Yes, this can also be done on the computer, however [research shows](https://www.theguardian.com/science/2014/dec/16/cognitive-benefits-handwriting-decline-typing) that writing things down with good old-fashioned pen and paper provides cognitive benefits that you cannot achieve when typing on your keyboard. By the way, some companies will ask you to do the same during their interview process – good practice indeed!
-## 3. Go back to the basics
+## 3. Go back to the basics <a name="basics"></a>
 The basic concepts presented in the earlier modules are crucial to become a good programmer. Many students in JS2 and JS3 still struggle with arrays, string, objects, array of objects, properties and other basic concepts which are discussed in JavaScript. Many students in the React-module still struggle with callback functions and closures (discussed in JS2). In order to solve more complicated coding challenges, you need to know these concepts! 
 
 If you really want to master the basic concepts, the best way is to do more exercises with them. You can find a lot on the internet, but you can also easily create your own basic exercises (like the rotten fruit example in chapter 1). For instance, can you come up with some examples on how to use a basic function?
-## 4. Sleep, Breaks & Exercise
+## 4. Sleep, Breaks & Exercise <a name="sleep"></a>
 Sleep is incredibly important for your brain’s memory capability. If you study a lot, but don’t sleep enough, part of all the hours you put in are useless. On average the recommended time of sleep is ~8 hours. If you go much below this, it will most likely decrease your performance as a student. 
 
 We recommend that you do not look at any screen the hour before you go to bed, as this improves your [overall sleep quality](https://www.sciencenewsforstudents.org/article/evening-screen-time-can-sabotage-sleep). Your brain thinks that the light of your screen is natural light, and this will make you stay awake.
@@ -343,7 +355,7 @@ If you're still in fornt of a screen in the evening, you can use [this](https://
 Try to take 10-15 minutes breaks in between studying sessions of 90 minutes, as this re-energizes you and improves your focus. During these breaks, some form of physical exercise is highly recommended. Take a walk outside, stretch, dance...get moving!
 
 More generally, we recommend you eat healthy and do sports. There is a large body of evidence (for instance this and this) that shows exercise helps memory and thinking through both direct and indirect means. Directly through a reduction of insulin resistance, inflammation, and an increase of chemicals in the brain that affect the health of brain cells, the growth of blood vessels in the brain, as well as the survival of new brain cells. Indirectly, exercise improves mood and sleep, and reduces stress and anxiety. 
-## 5. Distractions
+## 5. Distractions <a name="distractions"></a>
 The goal whilst studying should be to reach a state of ‘flow’. Flow can be described as the complete immersion in an activity. By doing so, you lose your sense of space and time. There is quite some research about ‘flow’. This research shows that not only your learning curve increases significantly, also the level of joy increases. In other words, if you are fully concentrated whilst programming you feel way more satisfied as a result. 
 
 To reach this level of optimal concentration and create a state of flow, distractions should be shut out as much as possible. The two most common enemies are described below.
@@ -366,7 +378,7 @@ Many of us are not living by ourselves. You might have children, or family membe
 
 > An excellent read about the value of working without distractions (and how to achieve it) is the book Deep Work by Cal Newport [here](https://www.calnewport.com/books/deep-work/).
 
-# Chapter 4: How to ask Questions
+# Chapter 4: How to ask Questions <a name="questions"></a>
 
 Many students find it hard to ask questions during the classes and online (through Slack or otherwise). However, to become a good programmer means you dare to ask questions, lots of questions. In fact, some companies even have a rule on this: If you are stuck, you have one hour to solve the problem. If you cannot, you **have to** ask for help.
 
@@ -425,13 +437,13 @@ For instance, the teacher is explaining callback functions with a practical exam
 If this happens, it is probably a good idea to take some time apart with the teacher, a graduate student or someone else who is good at explaining the basics. We can always provide you with some help, for instance by organizing individual video calls or appointments with former students or teachers. Moreover, it is important to revisit the basic concepts that you struggle and practice, practice, practice until you dream of Javascript functions. After that, you can try to revisit the more advanced concepts (for instance by re-watching the lecture on YouTube). 
 
 If you feel reason 3 applies to you, it is crucial not to wait and hope things get better with time. As the speed of our curriculum is very high, you have to take initiative and reach out to us for HELP. Again, good programmers ask for help. Those that do not ask for help, will never become good programmers.
-# Chapter 5: Core Values and Code of Conduct
+# Chapter 5: Core Values and Code of Conduct <a name="values"></a>
 [This RePo](https://github.com/HackYourFuture/culture) lays out our core values. These core values are leading for all of us involved in HackYourFuture: staff, alumni, students and teachers. They are leading in how we learn and teach and interact with each other. Please read them carefully. 
 
 We believe HackYourFuture is more than an education program. HackYourFuture is a community of creative individuals who can do great things now, and in the future. Yet this is only possible if students, teachers and staff all feel they are part of something bigger than a mere training program. 
 That's why we send you a Code of Conduct that you've to sign before starting the program. 
 
-# Final thoughts
+# Final thoughts <a name="thoughts"></a>
 
 As of March 2020, over 150 students graduated from our program. Over 80% are working in the IT sector, within three months after graduation. In other words, HackYourFuture works. 
 
