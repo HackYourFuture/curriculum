@@ -308,19 +308,16 @@ Before you start doing anything, it’s good to plan your week ahead. Divide the
 
 We have a certain number of articles and videos that we share as part of the curriculum. It is important to read and watch them effectively. Again, try to follow the examples and code them yourself. Also, you are free to look for your own reading material and videos. There is a lot of good material on the internet, which you can make use of. Also, if you find a resource that you think is better than what we offer in the curriculum, please let us know (see textbox below!).
 
-```
-How to Improve the Curriculum!
+> How to Improve the Curriculum!
 
-1. Go to the Github page you want to add a suggestion to
-2. Click on Issues. 
+> 1. Go to the Github page you want to add a suggestion to
+> 2. Click on Issues. 
+> 3.  Click new issue and add your suggestions. This can be a URL to an article, a video, graphic or anything else that will improve the curriculum.
+> 4. We will review it and if we find it useful, add it to the curriculum.
+
+> We are looking forward to your ideas & suggestions!
 ![alt text](https://github.com/HackYourFuture/curriculum/blob/master/assets/issue.png)
 
-3.  Click new issue and add your suggestions. This can be a URL to an article, a video, graphic or anything else that will improve the curriculum.
-4. We will review it and if we find it useful, add it to the curriculum.
-
-We are looking forward to your ideas & suggestions!
-
-```
 
 The homework and reading material combined take at least 30 hours, however this does not account for getting stuck with exercises or doing more in-depth research and practice to really master the concepts. Therefore, you probably want to add another 5-10 hours per week at least. 
 
@@ -332,7 +329,7 @@ As explained in the previous section, reading about code, or listening to your t
 
 We recommend that when you study something, directly try it out in your code editor by making a simple coding example and see how it works in practice. Only this way you will truly understand it well, and gain the ability to turn ideas into code.
 
-One more tip: Write code with pen and paper. Try to write down the basic concepts including some simple examples. Yes, this can also be done on the computer, however research shows that writing things down with good old-fashioned pen and paper provides cognitive benefits that you cannot achieve when typing on your keyboard. By the way, some companies will ask you to do the same during their interview process – good practice indeed!
+One more tip: Write code with pen and paper. Try to write down the basic concepts including some simple examples. Yes, this can also be done on the computer, however [research shows](https://www.theguardian.com/science/2014/dec/16/cognitive-benefits-handwriting-decline-typing) that writing things down with good old-fashioned pen and paper provides cognitive benefits that you cannot achieve when typing on your keyboard. By the way, some companies will ask you to do the same during their interview process – good practice indeed!
 ## 3. Go back to the basics
 The basic concepts presented in the earlier modules are crucial to become a good programmer. Many students in JS2 and JS3 still struggle with arrays, string, objects, array of objects, properties and other basic concepts which are discussed in JavaScript. Many students in the React-module still struggle with callback functions and closures (discussed in JS2). In order to solve more complicated coding challenges, you need to know these concepts! 
 
@@ -340,8 +337,9 @@ If you really want to master the basic concepts, the best way is to do more exer
 ## 4. Sleep, Breaks & Exercise
 Sleep is incredibly important for your brain’s memory capability. If you study a lot, but don’t sleep enough, part of all the hours you put in are useless. On average the recommended time of sleep is ~8 hours. If you go much below this, it will most likely decrease your performance as a student. 
 
-We recommend that you do not look at any screen the hour before you go to bed, as this improves your overall sleep quality. Your brain thinks that the light of your screen is natural light, and this will make you stay awake.
+We recommend that you do not look at any screen the hour before you go to bed, as this improves your [overall sleep quality](https://www.sciencenewsforstudents.org/article/evening-screen-time-can-sabotage-sleep). Your brain thinks that the light of your screen is natural light, and this will make you stay awake.
 
+If you're still in fornt of a screen in the evening, you can use [this](https://justgetflux.com/) app to make it less harmfull (MacOS only). 
 Try to take 10-15 minutes breaks in between studying sessions of 90 minutes, as this re-energizes you and improves your focus. During these breaks, some form of physical exercise is highly recommended. Take a walk outside, stretch, dance...get moving!
 
 More generally, we recommend you eat healthy and do sports. There is a large body of evidence (for instance this and this) that shows exercise helps memory and thinking through both direct and indirect means. Directly through a reduction of insulin resistance, inflammation, and an increase of chemicals in the brain that affect the health of brain cells, the growth of blood vessels in the brain, as well as the survival of new brain cells. Indirectly, exercise improves mood and sleep, and reduces stress and anxiety. 
@@ -350,34 +348,32 @@ The goal whilst studying should be to reach a state of ‘flow’. Flow can be d
 
 To reach this level of optimal concentration and create a state of flow, distractions should be shut out as much as possible. The two most common enemies are described below.
 
-Challenge number 1: Social Media & Phone
+**Challenge number 1: Social Media & Phone**
 Social media is incredibly bad for your focus and therefore it decreases your ability to learn complex concepts. In order to understand programming concepts your brain needs full focus. Every time it is interrupted by a phone or a message online, your brain has to switch its attention. To go back to your code after that will cost a lot of energy. In fact, studies have shown that just having a phone in the same room, reduces your ability to study significantly. 
 
 We highly recommend you: when you are studying, put your phone away and use your study time for studying only.
+Another app that can help you out: [Selfcontrol.](https://selfcontrolapp.com/) A bit of a contradictio in terminis, but it blocks the websites that distract you for the period that you want be focussed.
 
-
-Challenge number 2: Children and family
+**Challenge number 2: Children and family**
 Many of us are not living by ourselves. You might have children, or family members asking for attention. The challenge here is to try and create a quiet space, where you will not be interrupted. Of course, this is not always possible if you are a parent. But perhaps you can ask your partner or a friend to keep an eye on your children at least for a few hours a day, while you go to a local library, or study in a quiet room at a friend’s house. 
 
+> How to become a pro at learning
 
+> Obviously, this chapter only provides you with a very basic introduction. 
 
-How to become a pro at learning
+> If you are interested in learning more about how to learn effectively we recommend you to read more about deliberate learning and deep work. 
+> Studying effectively – although NOT easy- is a superpower you can use for the rest of your life!!!
 
-Obviously, this chapter only provides you with a very basic introduction. 
+> An excellent read about the value of working without distractions (and how to achieve it) is the book Deep Work by Cal Newport [here](https://www.calnewport.com/books/deep-work/).
 
-If you are interested in learning more about how to learn effectively we recommend you to read more about deliberate learning and deep work. Studying effectively – although NOT easy- is a superpower you can use for the rest of your life!!!
+# Chapter 4: How to ask Questions
 
-An excellent read about the value of working without distractions (and how to achieve it) is the book Deep Work by Cal Newport (here).
-
-Chapter 4: How to ask Questions
-
-Many students find it hard to ask questions during the classes and online (through Slack or otherwise). However, to become a good programmer means you dare to ask questions, lots of questions. In fact, some companies even have a rule on this: If you are stuck, you have one hour to solve the problem. If you cannot, you have to ask for help.
+Many students find it hard to ask questions during the classes and online (through Slack or otherwise). However, to become a good programmer means you dare to ask questions, lots of questions. In fact, some companies even have a rule on this: If you are stuck, you have one hour to solve the problem. If you cannot, you **have to** ask for help.
 
 In HackYourFuture there are several ways to ask for help:
-Ask your classmate or a student from another class
-Ask in Slack (preferably in your classroom channel)
-Approach a teacher during breaks or through Slack in a group
-Ask HYF staff to connect you to a graduate or teacher for individual sessions
+* Ask in Slack (preferably in your classroom channel)
+* Approach a teacher during breaks or through Slack
+* Ask HYF staff to connect you to a graduate or teacher for individual sessions
 
 Nevertheless, we often notice students not asking for help is the prime reason for them dropping out of our program.
 
@@ -387,41 +383,41 @@ Let’s take a classic example we often encounter in HackYourFuture:
 During class the teacher explains a concept. At some point the students do not understand what the teacher is trying to explain. One or two students ask questions. However, these students already understand most of the concepts and are therefore comfortable to ask questions to improve their knowledge. Yet, most classmates remain silent and do not ask any questions, even though they can hardly keep up with the teacher. What are the reasons? Below we discuss 3 reasons and some suggestions on how to ask questions anyway.
 
 
-Reason 1:
+**Reason 1:**
 You do not want to take the risk of looking stupid in front of the class.
 
-Solution:
+**Solution:**
 
 Fun story: A woman, recounting a story about an old man who used to answer all her "stupid questions", explained: "If you ask a question it makes you look stupid for 5 minutes – but if you don't ask – you stay stupid for fifty years, so always ask questions in your life".
 
 If reason 1 is your reason for not asking, we say: you are wasting your own time. Instead of asking the teacher, you are telling yourself you will understand it by yourself later on. What often happens is that you will only understand 50% of it when you look it up yourself, and this will cost you much more time than just asking the teacher and getting a clear answer directly. Also, in your job you will need to be capable of asking questions in front of people: start practicing now! 
 
 
-Reason 2: 
+**Reason 2:**
 You know you are not completely understanding the concept/explanation but do not know how to transform this into a useful question.
 
-Solution
+**Solution**
 There are several ways to ask a question when you are not sure how to frame it:
 
 Recap what you understood, and share where you lost the teacher 
-Example: “I Understood how it worked until this point, but after that you lost me. Can you explain part X again?”
+Example: _“I Understood how it worked until this point, but after that you lost me. Can you explain part X again?”_
 
 How does X work:
-Example: “How does part x work? I still don’t really understand it.”
+Example: _“How does part x work? I still don’t really understand it.”_
 
 Why do we do X?
-Example: “Why do you use X to solve problem Y?”
+Example: _“Why do you use X to solve problem Y?”_
 
 Check your own understanding
-Example: “Do I understand correctly that X does Y and Z?”
+Example: _“Do I understand correctly that X does Y and Z?”_
 
 Ask for an example:
-Example: “Can you give an example of how X works?”
+Example: _“Can you give an example of how X works?”_
 
-Reason 3:
+**Reason 3:**
 You lack a fundamental understanding of a basic concept, which prevents you from understanding the new information. 
 
-Solution
+**Solution**
 This situation applies when you have not mastered the underlying basic concepts yet and therefore cannot understand the explanation of the teacher (or reading materials) when discussing more advanced concepts. 
 
 For instance, the teacher is explaining callback functions with a practical example. However, you do not grasp his/her explanation since you are still not completely comfortable with basic functions, which are explained and used in the JS1/JS2 modules.
@@ -429,8 +425,13 @@ For instance, the teacher is explaining callback functions with a practical exam
 If this happens, it is probably a good idea to take some time apart with the teacher, a graduate student or someone else who is good at explaining the basics. We can always provide you with some help, for instance by organizing individual video calls or appointments with former students or teachers. Moreover, it is important to revisit the basic concepts that you struggle and practice, practice, practice until you dream of Javascript functions. After that, you can try to revisit the more advanced concepts (for instance by re-watching the lecture on YouTube). 
 
 If you feel reason 3 applies to you, it is crucial not to wait and hope things get better with time. As the speed of our curriculum is very high, you have to take initiative and reach out to us for HELP. Again, good programmers ask for help. Those that do not ask for help, will never become good programmers.
+# Chapter 5: Core Values and Code of Conduct
+[This RePo](https://github.com/HackYourFuture/culture) lays out our core values. These core values are leading for all of us involved in HackYourFuture: staff, alumni, students and teachers. They are leading in how we learn and teach and interact with each other. Please read them carefully. 
 
-Final thoughts
+We believe HackYourFuture is more than an education program. HackYourFuture is a community of creative individuals who can do great things now, and in the future. Yet this is only possible if students, teachers and staff all feel they are part of something bigger than a mere training program. 
+That's why we send you a Code of Conduct that you've to sign before starting the program. 
+
+# Final thoughts
 
 As of March 2020, over 150 students graduated from our program. Over 80% are working in the IT sector, within three months after graduation. In other words, HackYourFuture works. 
 
