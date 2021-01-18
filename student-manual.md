@@ -226,7 +226,7 @@ In summary, reflection includes the following steps:
 
 ### Example 1: Fruit Vendor
 
-Let’s use an example to explain these 6 steps in more detail. Note that the example below is a bit advanced if you are just starting our course. 
+Let’s use an example to explain these 6 steps in more detail. **Note that the example below is a bit advanced if you are just starting our course.** 
 
 Imagine a fruit vendor on the market. The fruit vendor has a couple of different fruits he is selling. However, he also has some rotten fruits. His fruits are represented through an array of strings: ["apple","rottenBanana","mango"].
 
