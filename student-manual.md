@@ -7,7 +7,7 @@
    * [1.3 Homework and Preparation](#homework)
    * [1.4 Tests](#tests)
    * [1.5 Teachers](#teachers)
-   * [1.6 Q&A sessions]((#sessions)
+   * [1.6 Q&A sessions](#sessions)
    * [1.7 Teaching Location](#location)
    * [1.8 After Class](#after)
    * [1.9 Start your career](#career)
