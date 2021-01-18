@@ -1,6 +1,6 @@
 
 # Table of Contents
-* Introduction
+* [Introduction](#introduction)
 * Chapter 1: Course Overview
    * 1.1 Curriculum
    * 1.2 Homework and Preparation
@@ -21,7 +21,7 @@
 * Final thoughts	
 
 
-# Introduction
+# Introduction <a name="introduction"></a>
 
 Dear new student of HackYourFuture, 
 Welcome to our program!
@@ -38,7 +38,7 @@ The HackYourFuture team
 
 
 
-# Chapter 1: Course Overview
+# Chapter 1: Course Overview <a name="introduction"></a>
 
 During the next half year, you will practice with a variety of technologies and ways of thinking. This will build a solid foundation for you to become a junior web developer. What does this mean? 
 
