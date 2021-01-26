@@ -65,10 +65,10 @@ In this module you'll make a start into the wonderful world of programming. We w
 
 | Week | Topic                                                      | Reading Materials                                                                       | Homework                                                                                 |
 | ---- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 1.   | Variables, Variable Types, Operators, Objects, Arrays                  | [Reading W1](https://github.com/HackYourFuture/JavaScript/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/JavaScript/Week1/MAKEME.md) |
-| 2.   | Loops, Control Flow, If/Else, Incremental coding                       | [Reading W2](https://github.com/HackYourFuture/JavaScript/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/JavaScript/Week2/MAKEME.md) |
-| 3.   | Functions, Scope, DRY principle                                        | [Reading W3](https://github.com/HackYourFuture/JavaScript/Week3/README.md) | [Homework W3](https://github.com/HackYourFuture/JavaScript/Week3/MAKEME.md) |
-| 4.   | Higher Order Functions, Array functions, Closures                      | [Reading W4](https://github.com/HackYourFuture/JavaScript/Week4/README.md) | [Homework W4](https://github.com/HackYourFuture/JavaScript/Week4/MAKEME.md) |
+| 1.   | Variables, Variable Types, Operators, Objects, Arrays                  | [Reading W1](https://github.com/HackYourFuture/JavaScript/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/JavaScript/tree/master/Week1/MAKEME.md) |
+| 2.   | Loops, Control Flow, If/Else, Incremental coding                       | [Reading W2](https://github.com/HackYourFuture/JavaScript/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/JavaScript/tree/master/Week2/MAKEME.md) |
+| 3.   | Functions, Scope, DRY principle                                        | [Reading W3](https://github.com/HackYourFuture/JavaScript/tree/master/Week3/README.md) | [Homework W3](https://github.com/HackYourFuture/JavaScript/tree/master/Week3/MAKEME.md) |
+| 4.   | Higher Order Functions, Array functions, Closures                      | [Reading W4](https://github.com/HackYourFuture/JavaScript/tree/master/Week4/README.md) | [Homework W4](https://github.com/HackYourFuture/JavaScript/tree/master/Week4/MAKEME.md) |
 
 ### **Module goals**
 
@@ -88,9 +88,9 @@ In **Browsers** you'll learn all about how to use JavaScript within the browser.
 
 | Week | Topic | Reading Materials | Homework |
 | ---- | ----- | ----------------- | -------- |
-| 1.   | Document-Object Model (DOM), DOM manipulation, Presentation Module week 1  | [Reading W1](https://github.com/HackYourFuture/Browsers/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/Browsers/Week1/MAKEME.md) | 
-| 2.   | Presentation Module week 2, Group project week 1!                          | [Reading W2](https://github.com/HackYourFuture/Browsers/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/Browsers/Week2/MAKEME.md) |
-| 3.   | Group project week 2 + Tech interview                                      | [Reading W3](https://github.com/HackYourFuture/Browsers/Week3/README.md) | No individual homework |
+| 1.   | Document-Object Model (DOM), DOM manipulation, Presentation Module week 1  | [Reading W1](https://github.com/HackYourFuture/Browsers/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/Browsers/tree/master/Week1/MAKEME.md) | 
+| 2.   | Presentation Module week 2, Group project week 1!                          | [Reading W2](https://github.com/HackYourFuture/Browsers/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/Browsers/tree/master/Week2/MAKEME.md) |
+| 3.   | Group project week 2 + Tech interview                                      | [Reading W3](https://github.com/HackYourFuture/Browsers/tree/master/Week3/README.md) | No individual homework |
 
 ### **Module goals for Browsers**
 
@@ -108,9 +108,9 @@ A big part of being a programmer means moving data from one place to another. It
 
 | Week | Topic | Reading Materials | Homework |
 | ---- | ----- | ----------------- | -------- |
-| 1.   | Synchronous vs asynchronous, Callbacks, Promises, The Event Loop                | [Reading W1](/Week1/README.md) | [Homework W1](/Week1/MAKEME.md) |
-| 2.   | Application Programming Interface (API), Fetch, Async/await                     | [Reading W2](/Week2/README.md) | [Homework W2](/Week2/MAKEME.md) |
-| 3.   | Individual project + Tech interview                                             | [Project](/Week3/README.md)    |                                 |
+| 1.   | Synchronous vs asynchronous, Callbacks, Promises, The Event Loop                | [Reading W1](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week1/MAKEME.md) |
+| 2.   | Application Programming Interface (API), Fetch, Async/await                     | [Reading W2](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week2/MAKEME.md) |
+| 3.   | Individual project + Tech interview                                             | [Project](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week3/README.md)    |                                 |
 
 ### **Module goals for Using API's**
 
