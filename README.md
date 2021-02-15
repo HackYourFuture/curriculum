@@ -3,7 +3,7 @@
 > Here you can find an overview of the HackYourFuture program. It gives insight in how our program is structured, organized, what you can expect from the modules that we teach and last but not least where we teach and where you can find support during the week. Below you can find an outline of the contents and learning goals per module. The headers of the different modules link to the actual repositories that both student and teacher will use to go through the material.
 
 - Are you a new mentor? Take a look [here](https://github.com/HackYourFuture/mentors) for some practical tips on how to get started!
-- Are you a new student? Take a look at our [Student Manual](https://docs.google.com/document/d/1YzPC7m9vOCb0h4EFCqLChw1L096XcbJv3dK3k7VooQM/edit?usp=sharing) to see how to prepare for your first class and beyond!
+- Are you a new student? Take a look at our [Student Manual](https://github.com/HackYourFuture/curriculum/blob/master/student-manual.md) to see how to prepare for your first class and beyond!
 
 ## Overview
 
