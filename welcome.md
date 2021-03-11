@@ -1,6 +1,6 @@
 # Welcome to HackYourFuture!
 
-![IntroVideo](./assets/introvideo.gif)
+![IntroVideo](./assets/intovideo.gif)
 
 Congratulations for being accepted into our program! You should be proud of yourself. We are!
 
