@@ -11,7 +11,7 @@ HackYourFuture is completely aimed at making you into a professional web-develop
 - Take a quick look at our curriculum already. Get familiar with it's structure and content. You can find it [here](http://www.github.com/hackyourfuture/curriculum)
 - It is very likely that most of our activities will have to be conducted online due to the Corona crisis. However, since March 2020 we have been testing and fine tuning our online classes and we are quite confident we will provide you with a high quality education experience.
 - If you do not have a good working laptop, we can provide you with one that you can use as long as you are a student within our program. Please contact Tjebbe in case you need one.
-- Read and sign the code of conduct and and submit it digitally here. For signing documents online, we suggest you check [DocuSign](https://www.docusign.com/), a free, online application to sign documents. Is your responsibility to hand in this before the class start.
+- *Important!* Read and sign the code of conduct and and submit it digitally here. For signing documents online, we suggest you check [DocuSign](https://www.docusign.com/), a free, online application to sign documents. Is your responsibility to hand in this before the class start.
 
 Looking forward to meet you all (virtually and in person), and please let us know if you have any questions!
 
