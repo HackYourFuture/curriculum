@@ -1,7 +1,7 @@
 
 # Table of Contents
 * [Introduction](#introduction)
-* [Chapter 0: Course Overview](#HYF)
+* [Chapter 0: The Organization](#HYF)
 * [Chapter 1: Course Overview](#course)
    * [1.1 Curriculum](#curriculum)
    * [1.2 Weekly Program](#weekly)
@@ -12,7 +12,7 @@
    * [1.7 Teaching Location](#location)
    * [1.8 Three Strike Policy](#strike)
    * [1.9 Start your career](#career)
-   * [1.10 Paying it Forward] (#donations)
+   * [1.10 Paying it Forward](#donations)
 * [Chapter 2: How to study programming (tips for non-programmers)](#study)
 * [Chapter 3: Study Strategies](#strategies)
    * [3.1 Planning](#planning)	
@@ -44,7 +44,7 @@ Good luck on your journey!
 
 The HackYourFuture team
 
-# Chapter 0: HackYourFuture <a name="HYF"></a>
+# Chapter 0: The Organization <a name="HYF"></a>
 
 HackYourFuture was founded in 2016. We saw many talented people coming to the Netherlands as a refugee, but many had difficulty finding a job. At the same time the tech/IT sector is looking for talent to fill their open vacancies. That does not make any sense :) You can read more about the story of HYF on our website.
 
