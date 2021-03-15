@@ -26,7 +26,9 @@
 # Introduction <a name="introduction"></a>
 
 Dear new student of HackYourFuture, 
+
 Welcome to our program!
+
 On average, we receive 100-200 applications for every new class. Therefore, to be accepted into HackYourFuture is a big accomplishment. 
 You are now a member of a large community. Over a 100 students have graduated from HackYourFuture and more than 90% find a job as a professional web developer.
 However, our course will be challenging. For the next 7 months there will be moments in which you might want to give up. It is important to remember that you are not the first to go through this. Many of our students, who are now in professional jobs, have at some point thought about quitting our course. 
