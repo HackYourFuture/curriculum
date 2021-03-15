@@ -423,8 +423,7 @@ If you feel reason 3 applies to you, it is crucial not to wait and hope things g
 # Chapter 5: Core Values and Code of Conduct <a name="values"></a>
 [This RePo](https://github.com/HackYourFuture/culture) lays out our core values. These core values are leading for all of us involved in HackYourFuture: staff, alumni, students and teachers. They are leading in how we learn and teach and interact with each other. Please read them carefully. 
 
-We believe HackYourFuture is more than an education program. HackYourFuture is a community of creative individuals who can do great things now, and in the future. Yet this is only possible if students, teachers and staff all feel they are part of something bigger than a mere training program. 
-That's why we send you a Code of Conduct that you've to sign before starting the program. 
+Also make sure to read and sign our code of conduct, you can find it here (https://github.com/HackYourFuture/curriculum/blob/master/welcome.md).
 
 # Final thoughts <a name="thoughts"></a>
 
