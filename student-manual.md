@@ -34,7 +34,7 @@ You are now a member of a large community. 180+ students have graduated from Hac
 
 However, our course will be challenging. For the next 7 months there will be moments in which you might want to give up. It is important to remember that you are not the first to go through this. Many of our students, who are now in professional jobs, have at some point thought about quitting our course. Based on their experiences we compiled this guide to share the lessons learned: How do you make sure to be successful in HackYourFuture?
 
-This guide consists of five chapters. In the first chapter, we provide a short summary of our program. This will answer the question: What will I learn at HackYourFuture? The second chapter discusses the six steps of problem solving, the core skill of what programming is really all about. Chapter three talks about how to study programming most effectively. The fourth chapter details how you can become better at asking questions, which is vital to become a good programmer. Finally, chapter five lays out HackYourFuture’s core values.
+This guide consists of six chapters. In chapter 0 we lay out the foundation of the HYF organisation. In the first chapter, we provide a short summary of our program. The second chapter discusses the six steps of problem solving. Chapter three discusses how to study programming most effectively. The fourth chapter details how you can become better at asking questions, which is vital to become a good programmer. Finally, chapter five lays out HackYourFuture’s core values.
 
 Like you, this document is always improving. If you feel something is missing or might be improved, please let us know and we might add your suggestion.
 
