@@ -1,6 +1,7 @@
 
 # Table of Contents
 * [Introduction](#introduction)
+* [Chapter 0: Course Overview](#HYF)
 * [Chapter 1: Course Overview](#course)
    * [1.1 Curriculum](#curriculum)
    * [1.2 Weekly Program](#weekly)
@@ -9,8 +10,9 @@
    * [1.5 Teachers](#teachers)
    * [1.6 Q&A sessions](#sessions)
    * [1.7 Teaching Location](#location)
-   * [1.8 After Class](#after)
+   * [1.8 Three Strike Policy](#strike)
    * [1.9 Start your career](#career)
+   * [1.10 Paying it Forward] (#donations)
 * [Chapter 2: How to study programming (tips for non-programmers)](#study)
 * [Chapter 3: Study Strategies](#strategies)
    * [3.1 Planning](#planning)	
@@ -42,21 +44,17 @@ Good luck on your journey!
 
 The HackYourFuture team
 
-# Chapter 0: HackYourFuture <a name="course"></a>
+# Chapter 0: HackYourFuture <a name="HYF"></a>
 
-HackYourFuture was founded in 2016. We saw many talented people coming to the Netherlands as a refugee, but many had difficulty finding a job. At the same time the tech/IT sector is looking for talent to fill their open vacancies. That does not make any sense :)
+HackYourFuture was founded in 2016. We saw many talented people coming to the Netherlands as a refugee, but many had difficulty finding a job. At the same time the tech/IT sector is looking for talent to fill their open vacancies. That does not make any sense :) You can read more about the story of HYF on our website.
 
-HackYourFuture is a foundation, which means we do not make profits. Currently we receive most of our revenues from donations (70%) from large foundations like the ING Netherlands Fund, Stichting Doen and the Oranje Fonds. The rest of our revenues we receive through an education fee we ask to companies that hire our graduates.
+HYF is a foundation, which means we do not make a profit. However, we do make costs of course. Our program costs around EUR11.000 per graduate that finds a job, yet the education is free. How do we do this? Currently we receive most of our revenues from donations (70%) from large foundations like the ING Netherlands Fund, Stichting Doen and the Oranje Fonds. We also receive donations from companies and individuals (mostly former students). The rest of our revenues we receive through an education fee we ask to companies that hire our graduates.
 
-As a result, the education program, which costs around EUR11.000 per graduate that finds a job, is free of charge for our students (see also section 1.9).
-In the coming years we have to find a business model in which we are less reliant on foundations as their funding is temporary. We are currently exploring partnerships with companies for donations. We are also exploring an alumni donation scheme. Students who graduate and find a job can donate (voluntarily) a monthly amount to make sure the next generation of students is being trained.
-
-One of the main strengths of our organisation is that we rely heavily on the contribution of our volunteers, all professional software developers and testers, that help to corrrect homework, teach classes and guide you through the program. Currrently, we have 4 paid employees on the payroll, which together form the core team of HYF.
+One of the main strengths of our organisation is that we rely heavily on the contribution of our volunteers, all professional software developers and testers, that help to corrrect homework, teach classes and guide you through the program. Some of our graduates are now teaching at HackYourFuture! Currrently, we have 4 paid employees on the payroll, together they form the core team of HYF.
 
 # Chapter 1: Course Overview <a name="course"></a>
 
 During the next half year, you will practice with a variety of technologies and ways of thinking. This will build a solid foundation for you to become a junior web developer. What does this mean? 
-
 
 At the end of the 7 months you will leave HackYourFuture with:
 - The skills to build your own full-stack web applications.
@@ -106,10 +104,13 @@ You are expected to always come prepared to the class on Sunday. Every week you 
 3. The functionality of the code is explained in the comment. 
 
 If we find out you copy code without taking the criteria above in mind, this will have consequences. We usually will ask you to do a technical interview. If you fail the interview, you have to leave our course.
+
 ## 1.4 Tests <a name="tests"></a>
 After most modules we will ask you to take a test. If there are any weaknesses in your understanding of the concepts we have taught you, the test will expose them. This is a good thing: you will get an opportunity to go over them again and master them. Make use of it, because in a company you will not always have such a luxury. Receiving a low score on one of the tests does not immediately lead to removal from our program but we will re-evaluate the best way forward.
+
 ## 1.5 Teachers <a name="teachers"></a>
 HackYourFuture is only possible because of our amazing team of teachers. See for an overview here. Our teachers are medior and senior software developers working at small and big companies. They usually have very busy jobs and they sacrifice their limited free time to help you to become a developer. Some of them are graduates from our program! We ask you to respect and value their time by preparing yourself for class and ask plenty of questions! 
+
 ## 1.6 Q&A sessions <a name="sessions"></a>
 The content of the Q&A sessions is decided by you. Based on your questions the mentor will explain the concepts that aren’t clear yet. In order to make the sessions as useful as possible we have implemented the following rules: 
 * Submit your question(s) in the thread on the message that will be posted in your class channel. This is part of the homework. If you can’t think of a question, search online for a small exercise to do together during the Q&A session. Message Tjebbe when you won’t be able to submit a question/exercise before the deadline.
@@ -122,7 +123,7 @@ Bad:		_"Can you explain again what a callback is?"_
 
 ## 1.7 Teaching Location <a name="location"></a>
 > Note: Because of the Corona crisis, we are currently conducting all of our classes online. 
-> We will explain this in more detail during the introduction day. As a result some of the information in section 1.5 and 1.6 is more relevant for when we return to face-to-face classes.
+> We will explain this in more detail during the introduction day. As a result some of the information in this section is more relevant for when we return to face-to-face classes.
 
 For our main teaching day on Sunday, we make use of the office of Backbase, one of HackYourFuture’s most important partners. The office is located at Sarphatistraat 370. We are incredibly lucky as we can use this location for free.
 
@@ -144,7 +145,10 @@ Please clean up after yourself. After lunch you should clean the breadcrumbs and
 4. Windows
 During class windows may be opened. However, please check after class if windows have been closed.
 
-## 1.8 Three Strike Policy <a name="after"></a>
+5. After Class 
+We often go for drinks after class. We believe that HackYourFuture is not just about learning but also about building connections, friendships and socializing. Feel free to join, the first round is on us :) We usually go for drinks at Crea or Kriterion, two nearby cafes. Note: Do make sure to take care of your belongings (backpack and coat). In the past we have had one case of theft.
+
+## 1.8 Three Strike Policy <a name="strike"></a>
 We maintain a simple 3 strike policy. You get 1 strike in the following situations:
 - You are not present in the lecture without proper communication and valid reason 
 - You do not hand in the homework in time without proper communication and valid reason
@@ -179,7 +183,11 @@ It is in our best interest to find you an internship since we ask companies for 
 
 If you do not contribute, and remain unemployed, this is your responsibility. If the municipality or your contact person contacts us about your progress we will be straightforward and transparent about your performance.
 
-7. 
+## 1.10 Paying it forward <a name="donations"></a>
+
+As mentioned, HackYourFuture is a foundation. Our program costs around EUR11.000 per graduate that finds a job, yet is free of charge for our students.  Currently we receive most of our revenues from donations (70%) from large foundations like the ING Netherlands Fund, Stichting Doen and the Oranje Fonds. The rest of our revenues we receive through an education fee we ask to companies that hire our graduates.
+
+In the coming years we have to find a business model in which we are less reliant on foundations as their funding is temporary. We are currently exploring partnerships with companies for donations. We are also exploring an alumni donation scheme. Students who graduate and find a job can donate (voluntarily) a monthly amount to make sure the next generation of students is being trained. Please contact us if you are interested.
 
 # Chapter 2: How to study programming (tips for non-programmers) <a name="study"></a>
 
@@ -427,6 +435,7 @@ For instance, the teacher is explaining callback functions with a practical exam
 If this happens, it is probably a good idea to take some time apart with the teacher, a graduate student or someone else who is good at explaining the basics. We can always provide you with some help, for instance by organizing individual video calls or appointments with former students or teachers. Moreover, it is important to revisit the basic concepts that you struggle and practice, practice, practice until you dream of Javascript functions. After that, you can try to revisit the more advanced concepts (for instance by re-watching the lecture on YouTube). 
 
 If you feel reason 3 applies to you, it is crucial not to wait and hope things get better with time. As the speed of our curriculum is very high, you have to take initiative and reach out to us for HELP. Again, good programmers ask for help. Those that do not ask for help, will never become good programmers.
+
 # Chapter 5: Core Values and Code of Conduct <a name="values"></a>
 [This RePo](https://github.com/HackYourFuture/culture) lays out our core values. These core values are leading for all of us involved in HackYourFuture: staff, alumni, students and teachers. They are leading in how we learn and teach and interact with each other. Please read them carefully. 
 
