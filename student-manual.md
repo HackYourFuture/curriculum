@@ -42,7 +42,16 @@ Good luck on your journey!
 
 The HackYourFuture team
 
+# Chapter 0: HackYourFuture <a name="course"></a>
 
+HackYourFuture was founded in 2016. We saw many talented people coming to the Netherlands as a refugee, but many had difficulty finding a job. At the same time the tech/IT sector is looking for talent to fill their open vacancies. That does not make any sense :)
+
+HackYourFuture is a foundation, which means we do not make profits. Currently we receive most of our revenues from donations (70%) from large foundations like the ING Netherlands Fund, Stichting Doen and the Oranje Fonds. The rest of our revenues we receive through an education fee we ask to companies that hire our graduates.
+
+As a result, the education program, which costs around EUR11.000 per graduate that finds a job, is free of charge for our students (see also section 1.9).
+In the coming years we have to find a business model in which we are less reliant on foundations as their funding is temporary. We are currently exploring partnerships with companies for donations. We are also exploring an alumni donation scheme. Students who graduate and find a job can donate (voluntarily) a monthly amount to make sure the next generation of students is being trained.
+
+One of the main strengths of our organisation is that we rely heavily on the contribution of our volunteers, all professional software developers and testers, that help to corrrect homework, teach classes and guide you through the program. Currrently, we have 4 paid employees on the payroll, which together form the core team of HYF.
 
 # Chapter 1: Course Overview <a name="course"></a>
 
@@ -97,7 +106,7 @@ You are expected to always come prepared to the class on Sunday. Every week you 
 3. The functionality of the code is explained in the comment. 
 
 If we find out you copy code without taking the criteria above in mind, this will have consequences. We usually will ask you to do a technical interview. If you fail the interview, you have to leave our course.
-### 1.4 Tests <a name="tests"></a>
+## 1.4 Tests <a name="tests"></a>
 After most modules we will ask you to take a test. If there are any weaknesses in your understanding of the concepts we have taught you, the test will expose them. This is a good thing: you will get an opportunity to go over them again and master them. Make use of it, because in a company you will not always have such a luxury. Receiving a low score on one of the tests does not immediately lead to removal from our program but we will re-evaluate the best way forward.
 ## 1.5 Teachers <a name="teachers"></a>
 HackYourFuture is only possible because of our amazing team of teachers. See for an overview here. Our teachers are medior and senior software developers working at small and big companies. They usually have very busy jobs and they sacrifice their limited free time to help you to become a developer. Some of them are graduates from our program! We ask you to respect and value their time by preparing yourself for class and ask plenty of questions! 
@@ -169,6 +178,8 @@ It is in our best interest to find you an internship since we ask companies for 
 **IMPORTANT**: Finding an internship opportunity is a two-way street. While we reach out to many different companies, you need to contribute. You can control your chances of getting an internship by working on your technical and communication skills, and provide us with leads to companies.
 
 If you do not contribute, and remain unemployed, this is your responsibility. If the municipality or your contact person contacts us about your progress we will be straightforward and transparent about your performance.
+
+7. 
 
 # Chapter 2: How to study programming (tips for non-programmers) <a name="study"></a>
 
