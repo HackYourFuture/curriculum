@@ -30,10 +30,12 @@ Dear new student of HackYourFuture,
 Welcome to our program!
 
 On average, we receive 100-200 applications for every new class. Therefore, to be accepted into HackYourFuture is a big accomplishment. 
-You are now a member of a large community. Over a 100 students have graduated from HackYourFuture and more than 90% find a job as a professional web developer.
-However, our course will be challenging. For the next 7 months there will be moments in which you might want to give up. It is important to remember that you are not the first to go through this. Many of our students, who are now in professional jobs, have at some point thought about quitting our course. 
-Based on their experiences we compiled this guide to share the lessons learned: How do you make sure to be successful in HackYourFuture?
+You are now a member of a large community. 180+ students have graduated from HackYourFuture and more than 85% find a job as a professional web developer or software tester.
+
+However, our course will be challenging. For the next 7 months there will be moments in which you might want to give up. It is important to remember that you are not the first to go through this. Many of our students, who are now in professional jobs, have at some point thought about quitting our course. Based on their experiences we compiled this guide to share the lessons learned: How do you make sure to be successful in HackYourFuture?
+
 This guide consists of five chapters. In the first chapter, we provide a short summary of our program. This will answer the question: What will I learn at HackYourFuture? The second chapter discusses the six steps of problem solving, the core skill of what programming is really all about. Chapter three talks about how to study programming most effectively. The fourth chapter details how you can become better at asking questions, which is vital to become a good programmer. Finally, chapter five lays out HackYourFuture’s core values.
+
 Like you, this document is always improving. If you feel something is missing or might be improved, please let us know and we might add your suggestion.
 
 Good luck on your journey! 
@@ -58,7 +60,7 @@ In order for this to be turned into reality, you will have to work very hard.
 In the following section you will find an overview of all the subjects you’ll be learning about throughout the course. 
 
 ## 1.1 Curriculum <a name="curriculum"></a>
-The 7 months are divided into different modules, each building on the one before. Here’s the overview: https://github.com/HackYourFuture/curriculum
+The 7 months are divided into different modules, each building on the one before. Here’s the [overview](https://github.com/HackYourFuture/curriculum).
 
 However, there is no time to rest yet because the next challenge will be to find an internship (see also section 1.7). After you graduate it might take some time before you actually find an opportunity. That is why we have developed the [Post-Graduation Package](https://github.com/hackyourfuture/post-grad-ed). The PGP consists of additional technical projects that you will build to improve your skills and increase your chances of finding an internship.
 
@@ -292,11 +294,6 @@ As the HackYourFuture course is very demanding, this is critical to get through 
 ## 1. Planning <a name="planning"></a>
 The first part of studying should be to make a study plan. 
 
-Your homework will consist of various components. You will need to:
-* read/watch a certain amount of information (videos/articles), 
-* apply this knowledge in the homework exercises. 
-* prepare questions for the Q&A on Sunday
-
 Every week consists of five main activities: (1.) Read the reading material. (2.) Watch the online lectures. (2.) Make the homework for the current week. (3.) Participate in the Q&A session. (4.) Implement the feedback on your previous homework. 
 
 Before you start doing anything, it’s good to plan your week ahead. Divide the large amounts of tasks into small pieces, and think about how much time you expect to spend on each task by having a quick look at it. 
@@ -318,7 +315,7 @@ The homework and reading material combined take at least 30 hours, however this 
 
 Now that you know how much time you have available and which are the activities you need to study per day, it’s time to make a weekly schedule. The key here is not to wait until Saturday, but to start Wednesday morning already. Learning programming concepts takes time, and if you try to do everything at the end of the week, your brain has very little time to process these concepts. Per day you schedule a number of small tasks, and once you are finished you can feel good about finishing the tasks of the day. 
 
-Note that planning is an art by itself! If you want to learn how to make better weekly and daily schedules, we recommend you to read the following two posts by Cal Newport (1 and 2). 
+Note that planning is an art by itself! If you want to learn how to make better weekly and daily schedules, we recommend you to read the following two posts by Cal Newport ([1](http://calnewport.com/blog/2014/08/08/deep-habits-plan-your-week-in-advance/) and [2](http://calnewport.com/blog/2013/12/21/deep-habits-the-importance-of-planning-every-minute-o)). 
 ## 2. Don’t just read, code it! <a name="code"></a>
 As explained in the previous section, reading about code, or listening to your teacher about code, is not the same as actually coding! It is incredibly important that you try out the concepts that you have learned, and that you try to apply it in multiple ways in order to become comfortable with it. There is no way around this. 
 
@@ -337,14 +334,14 @@ We recommend that you do not look at any screen the hour before you go to bed, a
 If you're still in fornt of a screen in the evening, you can use [this](https://justgetflux.com/) app to make it less harmfull (MacOS only). 
 Try to take 10-15 minutes breaks in between studying sessions of 90 minutes, as this re-energizes you and improves your focus. During these breaks, some form of physical exercise is highly recommended. Take a walk outside, stretch, dance...get moving!
 
-More generally, we recommend you eat healthy and do sports. There is a large body of evidence (for instance this and this) that shows exercise helps memory and thinking through both direct and indirect means. Directly through a reduction of insulin resistance, inflammation, and an increase of chemicals in the brain that affect the health of brain cells, the growth of blood vessels in the brain, as well as the survival of new brain cells. Indirectly, exercise improves mood and sleep, and reduces stress and anxiety. 
+More generally, we recommend you eat healthy and do sports. There is a large body of evidence (for instance [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5934999/) and [this](https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110)) that shows exercise helps memory and thinking through both direct and indirect means. Directly through a reduction of insulin resistance, inflammation, and an increase of chemicals in the brain that affect the health of brain cells, the growth of blood vessels in the brain, as well as the survival of new brain cells. Indirectly, exercise improves mood and sleep, and reduces stress and anxiety. 
 ## 5. Distractions <a name="distractions"></a>
 The goal whilst studying should be to reach a state of ‘flow’. Flow can be described as the complete immersion in an activity. By doing so, you lose your sense of space and time. There is quite some research about ‘flow’. This research shows that not only your learning curve increases significantly, also the level of joy increases. In other words, if you are fully concentrated whilst programming you feel way more satisfied as a result. 
 
 To reach this level of optimal concentration and create a state of flow, distractions should be shut out as much as possible. The two most common enemies are described below.
 
 **Challenge number 1: Social Media & Phone**
-Social media is incredibly bad for your focus and therefore it decreases your ability to learn complex concepts. In order to understand programming concepts your brain needs full focus. Every time it is interrupted by a phone or a message online, your brain has to switch its attention. To go back to your code after that will cost a lot of energy. In fact, studies have shown that just having a phone in the same room, reduces your ability to study significantly. 
+Social media is incredibly bad for your focus and therefore it decreases your ability to learn complex concepts. In order to understand programming concepts your brain needs full focus. Every time it is interrupted by a phone or a message online, your brain has to switch its attention. To go back to your code after that will cost a lot of energy. In fact, [studies have shown that just having a phone in the same room](https://www.journals.uchicago.edu/doi/full/10.1086/691462), reduces your ability to study significantly. 
 
 We highly recommend you: when you are studying, put your phone away and use your study time for studying only.
 Another app that can help you out: [Selfcontrol.](https://selfcontrolapp.com/) A bit of a contradictio in terminis, but it blocks the websites that distract you for the period that you want be focussed.
@@ -371,7 +368,6 @@ In HackYourFuture there are several ways to ask for help:
 * Ask HYF staff to connect you to a graduate or teacher for individual sessions
 
 Nevertheless, we often notice students not asking for help is the prime reason for them dropping out of our program.
-
 
 Let’s take a classic example we often encounter in HackYourFuture:
 
@@ -423,15 +419,15 @@ If you feel reason 3 applies to you, it is crucial not to wait and hope things g
 # Chapter 5: Core Values and Code of Conduct <a name="values"></a>
 [This RePo](https://github.com/HackYourFuture/culture) lays out our core values. These core values are leading for all of us involved in HackYourFuture: staff, alumni, students and teachers. They are leading in how we learn and teach and interact with each other. Please read them carefully. 
 
-Also make sure to read and sign our code of conduct, you can find it here (https://github.com/HackYourFuture/curriculum/blob/master/welcome.md).
+Also make sure to read and sign our code of conduct, you can find it [here](https://github.com/HackYourFuture/curriculum/blob/master/welcome.md). If you have any questions, feel free to ask them during introduction day. 
 
 # Final thoughts <a name="thoughts"></a>
 
-As of March 2020, over 150 students graduated from our program. Over 80% are working in the IT sector, within three months after graduation. In other words, HackYourFuture works. 
+As of March 2021, over 180 students graduated from our program. Over 85% are working in the IT sector, within three months after graduation. In other words, HackYourFuture works. 
 
 However, throughout your HYF course and your career as a programmer, you will control your own fate. 
 
-30-40 hours of study is just the minimum we suggest. The more you know and the harder you work, the faster you will find yourself in a job you love. The more you participate and become part of the HYF community, the more people are going to be willing to help you out. The more friends you make.
+40 hours of study is just the minimum we suggest. The more you know and the harder you work, the faster you will find yourself in a job you love. The more you participate and become part of the HYF community, the more people are going to be willing to help you out. The more friends you make.
 
 We want to provide you with the knowledge, tools and support you need to build a career as a programmer. To support yourself and your loved ones. 
 
