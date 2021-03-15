@@ -52,37 +52,13 @@ At the end of the 7 months you will leave HackYourFuture with:
 - Experience working in a team
 - Access to the Alumni Network: a community of HackYourFuture graduates.
 - A decent CV and LinkedIn profile coupled with interview skills
-- Introductions to companies looking to hire programmers
+- Introductions to companies looking to hire programmers or software testers
 
 In order for this to be turned into reality, you will have to work very hard.
 In the following section you will find an overview of all the subjects you’ll be learning about throughout the course. 
 
 ## 1.1 Curriculum <a name="curriculum"></a>
-The 7 months are divided into different modules, each building on the one before. Here’s the overview:
-
-**HTML/CSS** 
-This is the foundation. Every website you know ultimately consists of these two technologies. You will learn how to create simple web pages (HTML) and how to make them look nice (CSS).
-
-**Command Line**
-This is the direct communication channel between you, the developer, and the computer. While most people use computers using nice icons and beautiful displays, here you will learn how to make things happen by directly executing commands. 
-Version control with GIT. Writing code is complex, especially if you’re working in multiple files. This is where version control comes in: how to save your workspace at any moment, in case you or someone from your team messes things up. You will learn how to always keep track of the code changes you’re making and undo your work whenever needed.
-
-**JavaScript** 
-The language of the web. You will learn the basics of programming, how to add interactivity to your web pages and how to make use of other services (GitHub, Google, etc.)
-
-**Node.js** 
-Software that allows us to use JavaScript outside the browser to create all kinds of applications. You will learn the basics of Node.js in order to understand and build web servers, which will allow us to create complex and dynamic web applications.
-
-**MySQL** 
-The world’s most popular open-source database. Every application needs a secure place to store sensitive data, so for that we use a database. You will learn the query language SQL in order to store and retrieve your data from your own database.
-
-**React.js** 
-Currently the most popular way to create fast and dynamic user interfaces. In this module you will learn how to build a more modern and dynamic frontend that changes depending on what the user does.
-
-**Project** 
-This is where all your knowledge and experience are put to the test. The goal is to build a fully functioning full-stack application while working in a team along Agile principles.
-
-If you do well enough during the Project and meet the deadlines, you will graduate. You will receive a diploma and you’ll become part of the Alumni Network. 
+The 7 months are divided into different modules, each building on the one before. Here’s the overview: https://github.com/HackYourFuture/curriculum
 
 However, there is no time to rest yet because the next challenge will be to find an internship (see also section 1.7). After you graduate it might take some time before you actually find an opportunity. That is why we have developed the [Post-Graduation Package](https://github.com/hackyourfuture/post-grad-ed). The PGP consists of additional technical projects that you will build to improve your skills and increase your chances of finding an internship.
 
