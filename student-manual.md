@@ -133,9 +133,14 @@ Please clean up after yourself. After lunch you should clean the breadcrumbs and
 4. Windows
 During class windows may be opened. However, please check after class if windows have been closed.
 
-## 1.8 After Class <a name="after"></a>
-We often go for drinks after class. We believe that HackYourFuture is not just about learning but also about building connections, friendships and socializing. Feel free to join, the first round is on us :) We usually go for drinks at Crea or Kriterion, two nearby cafes. 
-Note: Do make sure to take care of your belongings (backpack and coat). In the past we have had one case of theft.
+## 1.8 Three Strike Policy <a name="after"></a>
+We maintain a simple 3 strike policy. You get 1 strike in the following situations:
+- You are not present in the lecture without proper communication and valid reason 
+- You do not hand in the homework in time without proper communication and valid reason
+- You do not implement feedback on your homework without proper communication and valid reason
+- You do not submit a question in time for the Question & Answer session on Sunday
+- You do not follow any additional instructions we ask you to follow (e.g. showing up for a practice interview, update your CV/Linkedin, etc.). Once you have 3 strikes, we will re-evaluate your participation in HYF.
+
 ## 1.9 Start your career <a name="career"></a>
 After graduation, it is time to find an internship. This internship almost always leads to a paid job. HackYourFuture will do its best to find suitable companies for you, as we have an extensive network of partner companies. However, finding work will depend completely on your own efforts.
 
