@@ -7,7 +7,7 @@
 
 ## Overview
 
-The HackYourFuture curriculum consists of 8 modules, spread over 7 months. Each module has a duration of 3 weeks, with the exception of [React](https://www.github.com/hackyourfuture/react) (5 weeks) and [Project](https://www.github.com/hackyourfuture/project) (7 weeks).
+The HackYourFuture curriculum consists of 8 modules, spread over 7 months. Each module has a duration of 3 weeks, with the exception of [JavaScript](https://www.github.com/hackyourfuture/javascript) (4 weeks), [React](https://www.github.com/hackyourfuture/react) (5 weeks) and [Project](https://www.github.com/hackyourfuture/project) (7 weeks).
 
 In the following diagram you'll find the sequence of all the modules included:
 
@@ -66,7 +66,7 @@ In this module you'll make a start into the wonderful world of programming. We w
 | Week | Topic                                                      | Reading Materials                                                                       | Homework                                                                                 |
 | ---- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | 1.   | Variables, Variable Types, Operators, Objects, Arrays                  | [Reading W1](https://github.com/HackYourFuture/JavaScript/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/JavaScript/tree/master/Week1/MAKEME.md) |
-| 2.   | Loops, Control Flow, If/Else, Naming Conventions                       | [Reading W2](https://github.com/HackYourFuture/JavaScript/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/JavaScript/tree/master/Week2/MAKEME.md) |
+| 2.   | Loops, Control Flow, If/Else, Naming Conventions, Career Training I    | [Reading W2](https://github.com/HackYourFuture/JavaScript/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/JavaScript/tree/master/Week2/MAKEME.md) |
 | 3.   | Functions, Scope, ModernJS.                                            | [Reading W3](https://github.com/HackYourFuture/JavaScript/tree/master/Week3/README.md) | [Homework W3](https://github.com/HackYourFuture/JavaScript/tree/master/Week3/MAKEME.md) |
 | 4.   | Higher Order Functions, Array functions, Closures                      | [Reading W4](https://github.com/HackYourFuture/JavaScript/tree/master/Week4/README.md) | [Homework W4](https://github.com/HackYourFuture/JavaScript/tree/master/Week4/MAKEME.md) |
 
@@ -79,6 +79,7 @@ By the end of this module, students should have a familiarity with and basic und
 - Correctly write and use `variables`, `functions` and `loops`
 - Understand the `control flow`
 - Think like a programmer
+- Know what your `personal brand` is and how to make it professional
 
 ## Module #3 - [Browsers](https://github.com/HackYourFuture/Browsers)
 
@@ -88,9 +89,9 @@ In **Browsers** you'll learn all about how to use JavaScript within the browser.
 
 | Week | Topic | Reading Materials | Homework |
 | ---- | ----- | ----------------- | -------- |
-| 1.   | Document-Object Model (DOM), DOM manipulation, Presentation Module week 1  | [Reading W1](https://github.com/HackYourFuture/Browsers/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/Browsers/tree/master/Week1/MAKEME.md) | 
-| 2.   | Presentation Module week 2, Group project week 1!                          | [Reading W2](https://github.com/HackYourFuture/Browsers/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/Browsers/tree/master/Week2/MAKEME.md) |
-| 3.   | Group project week 2 + Tech interview                                      | [Reading W3](https://github.com/HackYourFuture/Browsers/tree/master/Week3/README.md) | No individual homework |
+| 1.   | Document-Object Model (DOM), DOM manipulation                              | [Reading W1](https://github.com/HackYourFuture/Browsers/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/Browsers/tree/master/Week1/MAKEME.md) | 
+| 2.   | Presentation Module week 1, Group project week 1!                          | [Reading W2](https://github.com/HackYourFuture/Browsers/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/Browsers/tree/master/Week2/MAKEME.md) |
+| 3.   | Presentation Module week 2, Group project week 2 + Tech interview          | [Reading W3](https://github.com/HackYourFuture/Browsers/tree/master/Week3/README.md) | No individual homework |
 
 ### **Module goals for Browsers**
 
@@ -99,6 +100,7 @@ In order to successfully complete this module you will need to master the follow
 - Understand what the `Document Object Model` (DOM) is
 - Use the basics of `DOM Manipulation`
 - Gain awareness of the inner workings of JavaScript
+- Be able to present your ideas in a professional setting
 
 ## Module #4 - [Using API's](https://github.com/HackYourFuture/UsingAPIs)
 
@@ -108,9 +110,9 @@ A big part of being a programmer means moving data from one place to another. It
 
 | Week | Topic | Reading Materials | Homework |
 | ---- | ----- | ----------------- | -------- |
-| 1.   | Synchronous vs asynchronous, Callbacks, Promises, The Event Loop                | [Reading W1](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week1/MAKEME.md) |
-| 2.   | Application Programming Interface (API), Fetch, Async/await                     | [Reading W2](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week2/MAKEME.md) |
-| 3.   | Individual project + Tech interview                                             | [Project](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week3/README.md)    |                                 |
+| 1.   | Synchronous vs asynchronous, Callbacks, Promises, The Event Loop                   | [Reading W1](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week1/MAKEME.md) |
+| 2.   | Application Programming Interface (API), Fetch, Async/await, Career Training II    | [Reading W2](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week2/MAKEME.md) |
+| 3.   | Individual project + Tech interview                                                | [Project](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week3/README.md)    |                                 |
 
 ### **Module goals for Using API's**
 
@@ -121,6 +123,7 @@ In order to successfully complete this module you will need to master the follow
 - Connect with different `public APIs`
 - Build a `Single Page Application` (SPA)
 - Work with pre-existing code
+- Be able to nail an interview
 
 ## Module #5 - [Node.js](https://github.com/HackYourFuture/Node.js)
 
