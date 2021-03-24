@@ -117,7 +117,7 @@ The content of the Q&A sessions is decided by you. Based on your questions the m
 Examples of both good and bad questions:
 Good:		_"Do callbacks have to do with asynchronicity in our applications?"_
 Bad:		_"Can you explain again what a callback is?"_
-* Be on time, turn your camera on, and your microphone off. If you have a poor internet connection let Federico know so we can find a solution together.
+* Be on time, turn your camera on, and your microphone off. If you have a poor internet connection let Tjebbe know so we can find a solution together.
 * Use the chat function to let the teacher know if you have questions. Wait for your turn and activate your microphone to explain your question.
 * Be ready to answer questions yourself. The teacher will be active in asking YOU to explain concepts. This is not to embarrass you but to help you practice the skills you will need when working at a real company.
 
