@@ -1,6 +1,6 @@
 # HackYourFuture Curriculum
 
-> Here you can find an overview of the HackYourFuture program. It gives insight in how our program is structured, organized, what you can expect from the modules that we teach and last but not least where we teach and where you can find support during the week. Below you can find an outline of the contents and learning goals per module. The headers of the different modules link to the actual repositories that both student and teacher will use to go through the material.
+> Here you can find an overview of the HackYourFuture program. It gives insight into how our program is structured, organized, what you can expect from the modules that we teach and last but not least where we teach and where you can find support during the week. Below you can find an outline of the contents and learning goals per module. The headers of the different modules link to the actual repositories that both student and teacher will use to go through the material.
 
 - Are you a new mentor? Take a look [here](https://github.com/HackYourFuture/mentors) for some practical tips on how to get started!
 - Are you a new student? Be sure to get started with our [Welcome Guide](https://github.com/HackYourFuture/curriculum/blob/master/welcome.md) to see how to prepare for your first class and beyond!
@@ -29,11 +29,11 @@ If you follow the program you'll learn the following skills:
 
 Welcome to the wonderful world of web development! In this module you will learn the basic building blocks of the web: HTML and CSS. HTML gives us the power to add text, images and videos to a page. CSS gives us the power to organize these parts and make it look nice.
 
-The products of HTML and CSS comprise a two-thirds of what is called `frontend` (the final third is client-side JavaScript, which you will learn about in later modules). What is frontend? It's another word for the presentational part of a piece of software. In terms of web development we're talking about "what you see" when you go to any website.
+The products of HTML and CSS comprise two-thirds of what is called `frontend` (the final third is client-side JavaScript, which you will learn about in later modules). What is frontend? It's another word for the presentational part of a piece of software. In terms of web development we're talking about "what you see" when you go to any website.
 
 Think of it like this: if a webpage were a person, the HTML would be the skeleton and CSS the skin and clothing!
 
-You'll also be learning [GIT](https//www.github.com/hackyourfuture/git), software that will allow you to save your folders and files in case they accidentally get deleted or end up corrupt. It can do much more and you'll learn all about that starting from week 2!
+You'll also be learning [GIT](https://www.github.com/hackyourfuture/git), software that will allow you to save your folders and files in case they accidentally get deleted or end up corrupt. It can do much more and you'll learn all about that starting from week 2!
 
 In the following table you can find the module material, week-by-week:
 
@@ -85,7 +85,7 @@ By the end of this module, students should have a familiarity with and basic und
 
 ![Browsers](./assets/browsers.png)
 
-In **Browsers** you'll learn all about how to use JavaScript within the browser. First, you'll learn about how HTML is structured within your browser: we call this the `Document Object Model` (DOM). Once you've gotten the hang of that we'll apply JavaScript to it, in order to manipulate the elements and make our pages more interactive. We call this `DOM manipulation` and it's one of the most interesting things about JavaScript! We will finish off with a group project to already combine everything you have learned into your first web application. Besides the technical part, you'll improve your 'softskills' as well in the [Presentation module](https://github.com/HackYourFuture/presentation-module). This is a two weeks program that will get you out of your comfort zone. Check the Read.me file for a more detailed explanation and overview. 
+In **Browsers** you'll learn all about how to use JavaScript within the browser. First, you'll learn about how HTML is structured within your browser: we call this the `Document Object Model` (DOM). Once you've gotten the hang of that we'll apply JavaScript to it, in order to manipulate the elements and make our pages more interactive. We call this `DOM manipulation` and it's one of the most interesting things about JavaScript! We will finish off with a group project to already combine everything you have learned into your first web application. Besides the technical part, you'll improve your 'soft skills' as well in the [Presentation module](https://github.com/HackYourFuture/presentation-module). This is a two weeks program that will get you out of your comfort zone. Check the Read.me file for a more detailed explanation and overview. 
 
 | Week | Topic | Reading Materials | Homework |
 | ---- | ----- | ----------------- | -------- |
@@ -93,7 +93,7 @@ In **Browsers** you'll learn all about how to use JavaScript within the browser.
 | 2.   | Presentation Module week 1, Group project week 1!                          | [Reading W2](https://github.com/HackYourFuture/Browsers/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/Browsers/tree/master/Week2/MAKEME.md) |
 | 3.   | Presentation Module week 2, Group project week 2 + Tech interview          | [Reading W3](https://github.com/HackYourFuture/Browsers/tree/master/Week3/README.md) | No individual homework |
 
-### **Module goals for Browsers**
+### **Module goals**
 
 In order to successfully complete this module you will need to master the following:
 
@@ -114,7 +114,7 @@ A big part of being a programmer means moving data from one place to another. It
 | 2.   | Application Programming Interface (API), Fetch, Async/await, Career Training II    | [Reading W2](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week2/MAKEME.md) |
 | 3.   | Individual project + Tech interview                                                | [Project](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week3/README.md)    |                                 |
 
-### **Module goals for Using API's**
+### **Module goals**
 
 In order to successfully complete this module you will need to master the following:
 
@@ -137,7 +137,7 @@ Any software application consists of at least 2 parts: a frontend, which is what
 |   2. | REST, CRUD & API                    | [Readings W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/README.md) | [Homework W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/MAKEME.md) | [Lesson Plan W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/LESSONPLAN.md) |
 |   3. | Templating engines, API calls       | [Readings W3](https://github.com/HackYourFuture/Node.js/tree/master/week3/README.md) | [Homework W3](https://github.com/HackYourFuture/Node.js/tree/master/week3/MAKEME.md) | [Lesson Plan W3](https://github.com/HackYourFuture/Node.js/tree/master/week3/LESSONPLAN.md) |
 
-### **Module goals for Node.js**
+### **Module goals**
 
 In this module you will get familiar with the world of backend development. By the end of it you have learned:
 
@@ -181,7 +181,7 @@ In these 5 weeks we will go back to the frontend and learn how to make faster, m
 
 It is mainly used to create dynamic user interfaces, changing the data a user sees depending on their input.
 
-In this module you'll learn about how to think about webpages in a radically different way: instead of making seperate pages, you'll be making components of pages. Instead of hardcoded content, you'll make structures that can hold different data.
+In this module you'll learn about how to think about web pages in a radically different way: instead of making separate pages, you'll be making components of pages. Instead of hardcoded content, you'll make structures that can hold different data.
 
 | Week | Topics                                          | Reading Materials                                                                  | Homework                                                                           | Lesson Plans                                                                              |
 | ---- | ----------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -209,7 +209,7 @@ By the end of this module, students should have a familiarity with and basic und
 
 In the upcoming 7 weeks you'll be immersed into the web developer life. By the end of it you will have created a full-stack web application and published it to the internet.
 
-Everything you have learned so far will be combined and put into practice. Added to that you'll learn some more cutting-edge technologies that will prepare you for a great start in a modern software company. We will start out with the basics and incrementally add more complexity. This way you'll learn how all the pieces of a RESTful API fit together, thereby gaining a deeper understanding of where the backend stops and frontend starts.
+Everything you have learned so far will be combined and put into practice. Added to that you'll learn some more cutting-edge technologies that will prepare you for a great start in a modern software company. We will start out with the basics and incrementally add more complexity. This way you'll learn how all the pieces of a RESTful API fit together, thereby gaining a deeper understanding of where the backend stops and the frontend starts.
 
 Along with practicing your programming skills you will also be working on your communication skills. This is just as important, because you need to be able to communicate your ideas and efforts in an easy-to-understand manner.
 
@@ -223,7 +223,7 @@ Along with practicing your programming skills you will also be working on your c
 | 6.     | Group: Working on features II          |
 | 7.     | Final Presentation                     |
 
-### **Module goals**:
+### **Module goals**
 
 By the end of this module, students should have a familiarity with and basic understanding of the following:
 
@@ -268,7 +268,7 @@ Learning how to write software is a challenging endeavour. However, with the rig
 
 This curriculum is our effort to make your ambition possible. You are free to use it for your own benefit.
 
-If there's anything inside that you might think could be better, don't hesitate to tell us and/or make pull request!
+If there's anything inside that you think could be better, don't hesitate to tell us and/or make a pull request!
 
 Good luck with your journey and happy coding!
 
