@@ -119,7 +119,32 @@ You are expected to always come prepared to the class on Sunday. Every week you 
 If we find out you copy code without taking the criteria above into consideration, this will have consequences. We usually will ask you to do a technical interview. If you fail the interview, you have to leave our course.
 
 ## 1.4 Tests <a name="tests"></a>
-After most modules we will ask you to take a test. If there are any weaknesses in your understanding of the concepts we have taught you, the test will expose them. This is a good thing: you will get an opportunity to go over them again and master them. Make use of it, because in a company you will not always have such a luxury. Receiving a low score on one of the tests does not immediately lead to removal from our program but we will re-evaluate the best way forward.
+At HackYourFuture the material is mostly self study and our lectures are taught by many different mentors. This means that we can’t follow the progress of every student during class. We use tests so: 
+1. You have the time to go over all the concepts again and make sure you understand them well.
+2. We indicate who needs a bit more guidance throughout the curricum and to make sure that the class is on the same page
+3. We can promise a cetain level of understanding of the concepts in our curriculum to our partners 
+
+**General rules for the tests:**
+- You can only enter the project once you have a 6 or higher for every test (except the Browsers test) and a pass on your HTML/CSS test. 
+- In any case of fraud or plagiarism, you’re out of HYF. 
+- Don’t share the questions and/or answers of your tests with students from other classes.
+
+**Grading system:** 
+- The lowest grade is a 1
+- The highest grade is a 10.
+- A 6 is sufficient
+- Every grade lower than a 6 is not sufficient.
+
+|Module (test description)       | Less than a 6        | 6 or higher   |
+|------------------|---------------------- |---------------|
+|Javascript (good old-fashioned test)|You receive extra support during Browsers & Using API’s from a mentor |Cool, you understand the core concepts of javascript!|
+|Browsers (Group project + individual interview)|You receive extra support during Using API’s from a mentor|You can handle yourself in a group and understand how to make basic JavaScript websites.|
+|Using API's (Individual project + individual interview)|Based on previous results, the HYF team will decide if it is best to take a break and rejoin the next class or if this is the end of the road at HackYourFuture.|You can handle vanilla JavaScript frontend applications for public API’s. Time to go onto the backend!|
+|Node.js (Video/presentation about a project)|Continue with your class, but redo the Node.js test before you start the project.|Your explanation of the project is according to our expectations!|
+|React (building a small React application)|Based on previous results, the HYF team will decide if it is best to take a break and rejoin the next class or if this is the end of the road at HackYourFuture.| Ready for the project!|
+|Final Project (Tech interview based on project)|Based on previous results, the HYF team will decide if it is best to do a fellowship or post graduation package exercise before applying to companies.|Ready for your first job!|
+
+We know that there is a life outside of HYF and that life sometimes gets in the way so whenever a decision is made we try to take these factors into consideration. That means that consequences listed in the table above are not set in stone as we try to find what is best for the student.
 
 ## 1.5 Teachers <a name="teachers"></a>
 HackYourFuture is only possible because of our amazing team of teachers. See for an overview here. Our teachers are medior and senior software developers working at small and big companies. They usually have very busy jobs and they sacrifice their limited free time to help you to become a developer. Some of them are graduates from our program! We ask you to respect and value their time by preparing yourself for class and ask plenty of questions! 
