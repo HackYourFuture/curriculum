@@ -21,7 +21,6 @@
    * [3.4 Sleep, Breaks & Exercise](#sleep)
    * [3.5 Distractions](#distractions)
 * [Chapter 4: How to ask Questions](#questions)
-* [Chapter 5: Core Values](#values)
 * [Final thoughts](#thoughts)	
 
 
@@ -52,6 +51,10 @@ HYF is a foundation, which means we do not make a profit. However, we do make co
 
 One of the main strengths of our organisation is that we rely heavily on the contribution of our volunteers, all professional software developers and testers, that help to correct homework, teach classes and guide you through the program. Some of our graduates are now teaching at HackYourFuture! Currently, we have 4 paid employees on the payroll, together they form the core team of HYF.
 
+[This RePo](https://github.com/HackYourFuture/culture) lays out our core values. These core values are leading for all of us involved in HackYourFuture: staff, alumni, students and teachers. They are leading in how we learn and teach and interact with each other. Please read them carefully. 
+
+Also make sure to read and sign our code of conduct, you can find it [here](https://github.com/HackYourFuture/curriculum/blob/master/welcome.md). If you have any questions, feel free to ask them during introduction day. 
+
 # Chapter 1: Course Overview <a name="course"></a>
 
 During the next half year, you will practice with a variety of technologies and ways of thinking. This will build a solid foundation for you to become a junior web developer. What does this mean? 
@@ -70,6 +73,16 @@ In the following section you will find an overview of all the subjects you’ll 
 The 7 months are divided into different modules, each building on the one before. Here’s the [overview](https://github.com/HackYourFuture/curriculum).
 
 However, there is no time to rest yet because the next challenge will be to find an internship (see also section 1.7). After you graduate it might take some time before you actually find an opportunity. That is why we have developed the [Post-Graduation Package](https://github.com/hackyourfuture/post-grad-ed). The PGP consists of additional technical projects that you will build to improve your skills and increase your chances of finding an internship.
+
+> How to Improve the Curriculum!
+>
+> 1. Go to the Github page you want to add a suggestion to.
+> 2. Click on Issues. 
+> 3. Click on New issue and add your suggestions. This can be a URL to an article, a video, graphic or anything else that will improve the curriculum.
+> 4. We will review it and if we find it useful, add it to the curriculum.
+>
+> We are looking forward to your ideas & suggestions!
+![alt text](https://github.com/HackYourFuture/curriculum/blob/master/assets/issue.png)
 
 ## 1.2 Weekly program <a name="weekly"></a>
 It is important to plan your week ahead of time, in order to work and study effectively (see also chapter 3: Study Strategies). In summary your study week for HackYourFuture is as follows:
@@ -321,16 +334,6 @@ Before you start doing anything, it’s good to plan your week ahead. Divide the
 
 We have a certain number of articles and videos that we share as part of the curriculum. It is important to read and watch them effectively. Again, try to follow the examples and code them yourself. Also, you are free to look for your own reading material and videos. There is a lot of good material on the internet, which you can make use of. Also, if you find a resource that you think is better than what we offer in the curriculum, please let us know (see textbox below!).
 
-> How to Improve the Curriculum!
->
-> 1. Go to the Github page you want to add a suggestion to.
-> 2. Click on Issues. 
-> 3. Click on New issue and add your suggestions. This can be a URL to an article, a video, graphic or anything else that will improve the curriculum.
-> 4. We will review it and if we find it useful, add it to the curriculum.
->
-> We are looking forward to your ideas & suggestions!
-![alt text](https://github.com/HackYourFuture/curriculum/blob/master/assets/issue.png)
-
 
 The homework and reading material combined take at least 30 hours, however this does not account for getting stuck with exercises or doing more in-depth research and practice to really master the concepts. Therefore, you probably want to add another 5-10 hours per week at least. 
 
@@ -442,11 +445,6 @@ If this happens, it is probably a good idea to take some time apart with the tea
 
 If you feel reason 3 applies to you, it is crucial not to wait and hope things get better with time. As the speed of our curriculum is very high, you have to take initiative and reach out to us for HELP. Again, good programmers ask for help. Those that do not ask for help, will never become good programmers.
 
-# Chapter 5: Core Values and Code of Conduct <a name="values"></a>
-
-[This RePo](https://github.com/HackYourFuture/culture) lays out our core values. These core values are leading for all of us involved in HackYourFuture: staff, alumni, students and teachers. They are leading in how we learn and teach and interact with each other. Please read them carefully. 
-
-Also make sure to read and sign our code of conduct, you can find it [here](https://github.com/HackYourFuture/curriculum/blob/master/welcome.md). If you have any questions, feel free to ask them during introduction day. 
 
 # Final thoughts <a name="thoughts"></a>
 
@@ -457,8 +455,6 @@ However, throughout your HYF course and your career as a programmer, you will co
 40 hours of study is just the minimum we suggest. The more you know and the harder you work, the faster you will find yourself in a job you love. The more you participate and become part of the HYF community, the more people are going to be willing to help you out. The more friends you make.
 
 We want to provide you with the knowledge, tools and support you need to build a career as a programmer. To support yourself and your loved ones. 
-
-This is not a race against the curriculum or a race against other students. This is a race against yourself, so be sure to come up first every time, every day.
 
 We are glad to have you on board!
 
