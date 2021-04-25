@@ -20,7 +20,6 @@
    * [3.3 Go back to the basics](#basics)
    * [3.4 Sleep, Breaks & Exercise](#sleep)
    * [3.5 Distractions](#distractions)
-* [Chapter 4: How to ask Questions](#questions)
 * [Final thoughts](#thoughts)	
 
 
@@ -152,12 +151,13 @@ HackYourFuture is only possible because of our amazing team of teachers. See for
 
 ## 1.6 Q&A sessions <a name="sessions"></a>
 The content of the Q&A sessions is decided by you. Based on your questions the mentor will explain the concepts that aren’t clear yet. In order to make the sessions as useful as possible we have implemented the following rules: 
-* Submit your question(s) in the thread on the message that will be posted in your class channel. This is part of the homework. If you can’t think of a question, search online for a small exercise to do together during the Q&A session. Message Tjebbe when you won’t be able to submit a question/exercise before the deadline.  
+* Submit your question(s) in the thread on the message that will be posted in your class channel. This is part of the homework. If you can’t think of a question, search online for a small exercise to do together during the Q&A session. Message your class mentor before the deadline if you are not able to submit a question/exercise.  
 Examples of both good and bad questions:
 Good:		_"Do callbacks have to do with asynchronicity in our applications?"_
 Bad:		_"Can you explain again what a callback is?"_
 * Be on time, turn your camera on, and your microphone off. If you have a poor internet connection let Tjebbe know so we can find a solution together.
-* Use the chat function to let the teacher know if you have questions. Wait for your turn and activate your microphone to explain your question.
+* Participate actively. Answer if a teacher has a yes/no question. These sessions are a dialoge so it's a shared responisbility to make it interactive.
+* Ask additional questions and speak up when it's not clear. (it is crucial not to wait and hope things get better with time. As the speed of our curriculum is very high, you have to take initiative and reach out to us for HELP. Again, good programmers ask for help. Those that do not ask for help, will never become good programmers.)
 * Be ready to answer questions yourself. The teacher will be active in asking YOU to explain concepts. This is not to embarrass you but to help you practice the skills you will need when working at a real company.
 
 ## 1.7 Teaching Location <a name="location"></a>
@@ -411,66 +411,6 @@ Many of us are not living by ourselves. You might have children, or family membe
 > Studying effectively – although NOT easy – is a superpower you can use for the rest of your life!!!
 >
 > An excellent read about the value of working without distractions (and how to achieve it) is the book Deep Work by Cal Newport [here](https://www.calnewport.com/books/deep-work/).
-
-# Chapter 4: How to ask Questions <a name="questions"></a>
-
-Many students find it hard to ask questions during the classes and online (through Slack or otherwise). However, to become a good programmer means you dare to ask questions, lots of questions. In fact, some companies even have a rule on this: If you are stuck, you have one hour to solve the problem. If you cannot, you **have to** ask for help.
-
-In HackYourFuture there are several ways to ask for help:
-* Ask in Slack (preferably in your classroom channel)
-* Approach a teacher during breaks or through Slack
-* Ask HYF staff to connect you to a graduate or teacher for individual sessions
-
-Nevertheless, we often notice students not asking for help is the prime reason for them dropping out of our program.
-
-Let’s take a classic example we often encounter in HackYourFuture:
-
-During class the teacher explains a concept. At some point the students do not understand what the teacher is trying to explain. One or two students ask questions. However, these students already understand most of the concepts and are therefore comfortable to ask questions to improve their knowledge. Yet, most classmates remain silent and do not ask any questions, even though they can hardly keep up with the teacher. What are the reasons? Below we discuss 3 reasons and some suggestions on how to ask questions anyway.
-
-**Reason 1:**
-You do not want to take the risk of looking stupid in front of the class.
-
-**Solution:**
-
-Fun story: A woman, recounting a story about an old man who used to answer all her "stupid questions", explained: "If you ask a question it makes you look stupid for 5 minutes – but if you don't ask – you stay stupid for fifty years, so always ask questions in your life".
-
-If reason 1 is your reason for not asking, we say: you are wasting your own time. Instead of asking the teacher, you are telling yourself you will understand it by yourself later on. What often happens is that you will only understand 50% of it when you look it up yourself, and this will cost you much more time than just asking the teacher and getting a clear answer directly. Also, in your job you will need to be capable of asking questions in front of people: start practicing now! 
-
-**Reason 2:**
-You know you are not completely understanding the concept/explanation but do not know how to transform this into a useful question.
-
-**Solution:**
-
-There are several ways to ask a question when you are not sure how to frame it:
-
-- Recap what you understood, and share where you lost the teacher   
-  Example: _“I Understood how it worked until this point, but after that you lost me. Can you explain part X again?”_
-
-- How does X work?  
-  Example: _“How does part x work? I still don’t really understand it.”_
-
-- Why do we do X?  
-  Example: _“Why do you use X to solve problem Y?”_
-
-- Check your own understanding  
-  Example: _“Do I understand correctly that X does Y and Z?”_
-
-- Ask for an example  
-  Example: _“Can you give an example of how X works?”_
-
-**Reason 3:**
-You lack a fundamental understanding of a basic concept, which prevents you from understanding the new information. 
-
-**Solution:**
-
-This situation applies when you have not mastered the underlying basic concepts yet and therefore cannot understand the explanation of the teacher (or reading materials) when discussing more advanced concepts. 
-
-For instance, the teacher is explaining callback functions with a practical example. However, you do not grasp his/her explanation since you are still not completely comfortable with basic functions, which are explained and used in the JS1/JS2 modules.
-
-If this happens, it is probably a good idea to take some time apart with the teacher, a graduate student or someone else who is good at explaining the basics. We can always provide you with some help, for instance by organizing individual video calls or appointments with former students or teachers. Moreover, it is important to revisit the basic concepts that you struggle and practice, practice, practice until you dream of Javascript functions. After that, you can try to revisit the more advanced concepts (for instance by re-watching the lecture on YouTube). 
-
-If you feel reason 3 applies to you, it is crucial not to wait and hope things get better with time. As the speed of our curriculum is very high, you have to take initiative and reach out to us for HELP. Again, good programmers ask for help. Those that do not ask for help, will never become good programmers.
-
 
 # Final thoughts <a name="thoughts"></a>
 
