@@ -119,30 +119,31 @@ You are expected to always come prepared to the class on Sunday. Every week you 
 If we find out you copy code without taking the criteria above into consideration, this will have consequences. We usually will ask you to do a technical interview. If you fail the interview, you have to leave our course.
 
 ## 1.4 Tests <a name="tests"></a>
-At HackYourFuture the material is mostly self study and our lectures are taught by many different mentors. This means that we can’t follow the progress of every student during class. We use tests so: 
-1. You have the time to go over all the concepts again and make sure you understand them well.
-2. We indicate who needs a bit more guidance throughout the curricum and to make sure that the class is on the same page
-3. We can promise a cetain level of understanding of the concepts in our curriculum to our partners 
+At HackYourFuture the material is mostly self study and our lectures are taught by many different mentors. This means that we can’t follow the progress of every student during class. But, (1.)we're interested in your progress and your level of understanding. So, We use tests. 
+Three other important reasons why we have integrated them in our curriculum:  
+2. You have the time to go over all the concepts again and make sure you understand them well.
+3. We can indicate who needs a bit more guidance throughout the curricum and to make sure that the class is on the same page
+4. We can promise a certain level of understanding of the concepts in our curriculum to our partners 
 
 **General rules for the tests:**
-- You can only enter the project once you have a 6 or higher for every test (except the Browsers test) and a pass on your HTML/CSS test. 
+- You can only enter the project once you have a 6 or higher for every test (except the Browsers test).
 - In any case of fraud or plagiarism, you’re out of HYF. 
-- Don’t share the questions and/or answers of your tests with students from other classes.
+- Don’t share the questions and/or answers of your tests with students from other classes. We see this as fraud. 
 
 **Grading system:** 
-- The lowest grade is a 1
+- The lowest grade is a 1.
 - The highest grade is a 10.
 - A 6 is sufficient
 - Every grade lower than a 6 is not sufficient.
 
-|Module (test description)       | Less than a 6        | 6 or higher   |
-|------------------|---------------------- |---------------|
-|Javascript (good old-fashioned test)|You receive extra support during Browsers & Using API’s from a mentor |Cool, you understand the core concepts of javascript!|
-|Browsers (Group project + individual interview)|You receive extra support during Using API’s from a mentor|You can handle yourself in a group and understand how to make basic JavaScript websites.|
-|Using API's (Individual project + individual interview)|Based on previous results, the HYF team will decide if it is best to take a break and rejoin the next class or if this is the end of the road at HackYourFuture.|You can handle vanilla JavaScript frontend applications for public API’s. Time to go onto the backend!|
-|Node.js (Video/presentation about a project)|Continue with your class, but redo the Node.js test before you start the project.|Your explanation of the project is according to our expectations!|
-|React (building a small React application)|Based on previous results, the HYF team will decide if it is best to take a break and rejoin the next class or if this is the end of the road at HackYourFuture.| Ready for the project!|
-|Final Project (Tech interview based on project)|Based on previous results, the HYF team will decide if it is best to do a fellowship or post graduation package exercise before applying to companies.|Ready for your first job!|
+|**Module** (test description)       | **Less than a 6**        | **6 or higher**   |
+|------------------|------------------ |------------------ |
+|**Javascript** (good old-fashioned test)|You receive extra support during Browsers & Using API’s from a mentor |Cool, you understand the core concepts of javascript!|
+|**Browsers** (Group project + individual interview)|You receive extra support during Using API’s from a mentor|You can handle yourself in a group and understand how to make basic JavaScript websites.|
+|**Using API's** (Individual project + individual interview)|Based on previous results, the HYF team will decide if it is best to take a break and rejoin the next class or if this is the end of the road at HackYourFuture.|You can handle vanilla JavaScript frontend applications for public API’s. Time to go onto the backend!|
+|**Node.js** (Video/presentation about a project)|Continue with your class, but redo the Node.js test before you start the project.|Your explanation of the project is according to our expectations!|
+|**React** (building a small React application)|Based on previous results, the HYF team will decide if it is best to take a break and rejoin the next class or if this is the end of the road at HackYourFuture.| Ready for the project!|
+|**Final Project** (Tech interview based on project)|Based on previous results, the HYF team will decide if it is best to do a fellowship or post graduation package exercise before applying to companies.|Ready for your first job!|
 
 We know that there is a life outside of HYF and that life sometimes gets in the way so whenever a decision is made we try to take these factors into consideration. That means that consequences listed in the table above are not set in stone as we try to find what is best for the student.
 
