@@ -99,23 +99,35 @@ You are also asked to do the homework assignments and readings (see next section
 
 Currently, due to Corona all of our education is online. In the near future we hope to go back to face-to-face classes on Sunday.
 
-## 1.3 Homework and Preparation <a name="homework"></a>
-As mentioned, our complete curriculum can be found on Github. The modules are ordered sequentially.
-
-The homework can be found in the module repository. For example, if you click on [HTML-CSS](https://github.com/HackYourFuture/HTML-CSS) you’ll be taken to the document that has all the information about that particular module. If you scroll down you’ll see a table with a column Homework.
+## 1.3 Homework <a name="homework"></a>
+As mentioned, our complete curriculum can be found on Github. The modules are ordered sequentially. The homework can be found in the module repository. For example, if you click on [HTML-CSS](https://github.com/HackYourFuture/HTML-CSS) you’ll be taken to the document that has all the information about that particular module. If you scroll down you’ll see a table with a column Homework.
 ![alt text](https://github.com/HackYourFuture/curriculum/blob/master/assets/html:css-table.png)
 
 After the first couple of weeks, Github will also be where you will publish your homework. In the beginning you might struggle to use Github. But there is a reason we use it: It is the number 1 platform for programmers! In order to become a good programmer, you will have to understand how Github works. You will notice that after a few weeks, finding the right homework assignments and reading, as well as publishing your homework on Github, will become automatic. 
 
-You are expected to always come prepared to the class on Sunday. Every week you will have homework assignments and we expect you to finish them before Wednesday. The sooner you hand them in, the more time your teacher has to check your homework and give you feedback. Not handing in homework without proper communication will not be tolerated (see also our values in chapter 5 and our 3 strike policy). 
+Most weeks you will have homework assignments and we expect you to finish them before Wednesday. Not handing in homework without proper communication will not be tolerated (see also our values and our 3 strike policy).
 
+### 1.3.1 Review process
+All of your homework will be reviewed by one of our mentors in a very similar way code reviews happen in any company you are going to work at. The homework pull requests you create every week will go through the following process:
 
-**You are not allowed to copy homework** from others. Please take yourself and HYF seriously. On some occasions copying code is necessary and allowed. In such a case, the following criteria apply:
-1. A reference is given (in a comment) 
-2. It must be clear which code is copied.
-3. The functionality of the code is explained in the comment. 
+1. Initially the `Needs review` label is set.
+2. When the mentor starts reviewing, the label `Review in progress` is added.
+3. Once they are done the mentor decides if the homework is good enough or some work is still needed. If the homework is good enough, the issue will receive the `Approved` label. If not, the label `Reviewed with feedback` will be set.
+4. The student looks at the feedback and corrects their homework. Once finished, the label `Needs review` is set again. We then go back to step 2.
 
-If we find out you copy code without taking the criteria above into consideration, this will have consequences. We usually will ask you to do a technical interview. If you fail the interview, you have to leave our course.
+So if an issue is assigned to a student with the `Reviewed with feedback` label, that means the student needs to work on it. If an issue has the label `Needs review` it means it is for the mentor to look at. In the end all issues should get the `Approved` label! 
+
+It is the student's responsibility to make sure the pull request gets to the `Approved` state and make fixing the feedback your top priority when you get it. It can happen that it takes a little while for our mentors to pick up the homework (they do have full time jobs after all), but if there is no review yet on the Q&A day then please contact your class mentor so they can see if someone else is available to pick it up.
+
+### 1.3.2 Note on copying
+You will probably hear at some point at HYF that programmers copy and paste code into their applications all the time. While this is true, during your studies we want you to really think about how to solve something before looking to google. The exercises are made to be doable, but solutions to them are probably easy to find online as we want to teach you practical things which you may need in the future. If you just copy code from google you will not learn as much and it will show in your test interviews or, even worse, during your internship.
+
+There are occasions where you will copy code from the internet. In such a case, the following criteria apply:
+1. A reference is given (in a comment)
+2. It must be clear which code is copied
+3. The functionality of the code is explained in the comment. This means you are sure you understand what the code does that you copied.
+
+The last one is most important there, do *not* ever put anything into your codebase that you do not understand.
 
 ## 1.4 Tests <a name="tests"></a>
 At HackYourFuture the material is mostly self study and our lectures are taught by many different mentors. This means that we can’t follow the progress of every student during class. But, (1.)we're interested in your progress and your level of understanding. So, We use tests. 
@@ -147,7 +159,9 @@ Three other important reasons why we have integrated them in our curriculum:
 We know that there is a life outside of HYF and that life sometimes gets in the way so whenever a decision is made we try to take these factors into consideration. That means that consequences listed in the table above are not set in stone as we try to find what is best for the student.
 
 ## 1.5 Teachers <a name="teachers"></a>
-HackYourFuture is only possible because of our amazing team of teachers. See for an overview here. Our teachers are medior and senior software developers working at small and big companies. They usually have very busy jobs and they sacrifice their limited free time to help you to become a developer. Some of them are graduates from our program! We ask you to respect and value their time by preparing yourself for class and ask plenty of questions! 
+HackYourFuture is only possible because of our amazing team of teachers. Our teachers are medior and senior software developers working at small and big companies. Some of them are even graduates from our program! They usually have very busy jobs and they sacrifice their limited free time to help you to become a developer, so  e ask you to respect and value their time by preparing yourself for class!
+
+That does not mean that you shouldn't ask extra questions. Make as much use of this valuable resource as you can. Our teachers are happiest when the classes are lively and the students get into discussions about code and concepts of programming. Having this weekly options to ask anything you are struggling with is what makes our program so much more successful than following a course on your own.
 
 ## 1.6 Q&A sessions <a name="sessions"></a>
 The content of the Q&A sessions is decided by you. Based on your questions the mentor will explain the concepts that aren’t clear yet. In order to make the sessions as useful as possible we have implemented the following rules: 
@@ -232,164 +246,73 @@ In the coming years we have to find a business model in which we are less relian
 
 # Chapter 2: How to study programming (tips for non-programmers) <a name="study"></a>
 
-Many people think programming is just about the code, 0’s and 1’s, about frameworks, technical stuff, or complicated words that just confuse us.
+Through our years of experience guiding non-programmers into the world of programming we have gathered some common roadblocks/issues/misconceptions that we would like to inform you about so you don't run into the same thing.
 
-However, to be a good programmer, **the most important thing is to be good at problem solving.**  We program computers because we have:
-1. A problem/need
-2. We want to use the computer to help us solve that problem/need
-
-This chapter discusses the six steps of problem solving. This gives you a step-by-step approach on how to analyze and write code. 
-
-## 1. Understand and define 
-The key to problem solving, is to really understand the problem. Write down the problem exactly or explain the problem to someone else, until you clearly understand what the problem is you are trying to solve. Many times, software developers start fixing problems without really knowing what the problem is (or what the client wants).  
-
-## 2. Divide 
-Big problems (or challenges) should be divided into smaller problems, so that the problems become easier to solve. What seemed like a big monster problem, now just is a lot of small monsters on top of each other. For instance, if you want to loop through an array and select certain data from it, these are already two steps (making a loop and selecting data). The more you are able to divide big problems into small ones, the better.
-
-## 3. Finding the right technique
-Now it is time to think about the techniques you know that could possibly help you to solve this problem (e.g. loops, if statements, filter, map etc.). If you do not know an appropriate technique you will have to find it. In both cases Google will probably be your best friend. Remember, most developers spend hours per day on Google trying to find solutions to their problems!
-
-## 4. Experiment
-Now try out some of the techniques you have found. Often it works well to first try out the technique on an easy example you have made yourself, before you try to solve the problem. Experiment with some examples so that you really understand what the technique is capable of. After that, put it all together and see if your code gives you the expected results.
-
-## 5. Debug
-Often your code does not do what you want it to do. There is only one reason why this is the case: Your logic is not sound. 
-
-In the end the computer only executes on instructions that are written in a way it understands. Generally, there can be 2 reasons for your code not doing what you want:
-1. The computer throws an error.
-2. Your code returns an incorrect value that doesn’t solve your problem.
-
-Whenever this happens, you can do the following:
-* In case 1, make sure that you carefully read the error message, as it often gives you a good hint where the problem lies within your code. This should be the first thing to look for when something went wrong.
-* Check for syntax errors. Use JsLint for this (an extension for VSCode that helps you find syntax errors). Most of your mistakes will be simple spelling/syntax mistakes. 
-* Use the debugger to understand what steps the computer goes through when interpreting your code, and find where it goes wrong. Try to explain each part of the code to yourself of what it does exactly. 
-* Formulate your problem in clear terms to google and search for solutions.
-* Ask people in your class/teacher or take a break and look back at your problem with fresh eyes. 
-
-## 6. Reflect
-After all this, it is time to reflect on what you have done. Are you happy about how you solved the problem? What went well and what did not?
-
-Most people tend to skip this step. “Why do I need to do this? I have already solved the problem!”. However, you will notice that if you do take some time to reflect on your code and problem-solving approach, you will improve your analytical mindset and become better at memorizing some parts of your code.
-
-Reflection also includes refactoring. Refactoring is the process of rewriting your existing solution into better looking, better functional, readable code. Often times you will find that you have solved a problem, but that doesn’t necessarily mean that you have solved it in the best possible way, or that you completely understand all the concepts you have used. 
-
-In summary, reflection includes the following steps:
-
-* how could I rewrite this code for simplicity and better readability (refactoring)
-* what concepts in my code I don’t understand yet 100% (even though it works), and study them
-* what can I learn from other solutions (by looking at other solutions to the same problem)
-* what would I do differently next time
-
-### Example 1: Fruit Vendor
-
-Let’s use an example to explain these 6 steps in more detail. **Note that the example below is a bit advanced if you are just starting our course.** 
-
-Imagine a fruit vendor on the market. The fruit vendor has a couple of different fruits he is selling. However, he also has some rotten fruits. His fruits are represented through an array of strings: ["apple","rottenBanana","mango"].
-
-The fruit vendor has hired you to write a program that takes out the rotten fruits and only tells you which fruits are not rotten.
-
-#### 1. Understand and define 
-In our example understanding and defining the problem seems pretty straightforward. Indeed, we need to write a program that takes out the rotten fruits and returns the fruits that are not rotten. 
-
-However, let’s try to make this a bit more specific. We have to write a program that first takes an array of strings containing fruit names as input. It then filters out the strings that do not contain the word “rotten” and gives them as output.
-
-
-#### 2. Divide 
-We now know what we want to do in a general sense, but can we divide our problems in a few different problems? Yes, we can:
-
-1. Declare a variable named fruits with the fruits mentioned in the example 
-2. Define an empty function named takeOutRottenFruit
-3. Inside the empty function write instructions that take out the strings containing the word “rotten”.
-
-#### 3. Finding the right technique
-After going over our notes and the curriculum we discover that the filter() function could be used to filter out elements in an array. 
-
-However, the documentation on [Mozilla Development Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) (MDN) also tells us that it will return “a new array with all elements that pass the test implemented by the provided function”. That means we still have to instruct our computer to select the string(s) which contain the word “rotten”. 
-
-After some more googling, we find out that includes() is a function that allows us to check the content of a string. Let us try to combine the two! 
-
-#### 4. Experiment
-This leads us to write the following code:
-```javascript
-const fruits = ["apple", "rottenBanana", "mango"]
-
-function takeOutRottenFruit(arrayOfFruits) {
-    const goodFruitsArray = arrayOfFruits.filter(fruit => fruit.include("rotten"));
-    return goodFruitsArray;
-}
-
-takeOutRottenFruit(fruits)
-```
-#### 5. Debug
-When we write the code under step 4 in the Google Chrome Console we get the following error: *Uncaught TypeError fruit.include is not a function* 
-
-Probably we have made a small typo. Let’s google the include function. When we do, we notice that we should use fruit.includes (with an -s at the end).
-
-When we run the following code, it does not give any errors anymore. 
-
-However, we do notice that only rottenBanana is selected and displayed. 
-
-Hmmm, what to do? Let’s go back to the basics. We remember that in JavaScript 1 Module we learned something about operators ([here](https://github.com/HackYourFuture/fundamentals/blob/master/fundamentals/operators.md)). Indeed, we find that we can use the ! operator to return what is not true (everything that does not contain the word rotten). Let us try to add the ! operator:
-```javascript
-
-const fruits = ["apple", "rottenBanana", "mango"]
-
-function takeOutRottenFruit(arrayOfFruits) {
-    const goodFruitsArray = arrayOfFruits.filter(fruit => !fruit.includes("rotten"));
-    return goodFruitsArray;
-}
-
-takeOutRottenFruit(fruits)
+## 2.1. Reading error messages
+When programming you will deal with a lot of errors and being able to find how to solve them is the core of what a programmer does. As a beginner these error messages can seem daunting, however, and we often see our students ignoring the information that would help them solve the problem. Let's look at the following error message from some JavaScript code:
 
 ```
+TypeError: res.status is not a function
+    at Server.<anonymous> (C:\Users\Rob\hyf\Node.js\week1\homework\exercises\3-web-server\server.js:26:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:874:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+```
 
-**Yay! It seems to work! Can you think of a different / better solution?**   
+There is a lot of information in there to try to help you identify what is going on, but much of it is probably not needed to solve this issue. Let's disect this information:
 
-# Chapter 3: Study Strategies <a name="strategies"></a>
+```
+TypeError: res.status is not a function
+```
 
-Most people study inefficiently. This is mostly because they never really learned how to study the right way, even after years of university in some cases!  In this chapter we will show you some of the most important strategies to learn in a way that is much more time efficient. 
+The first line is generally a good place to start. This one is short, but sometimes these can get quite large. The first part tells you the type of error (in this case a `TypeError`) which doesn't help us much here. After that it is the message a developer wants to tell you, in this case `res.status is not a function`. This is the part the developer fills in when you throw an error from your code. If the developer was nice this should give you all the information you need. In this case there is some code somewhere that tries to call the function `status` on a variable called `res` that does not seem to be a function.
 
-As the HackYourFuture course is very demanding, this is critical to get through the program successfully. In fact, many successful experts that require focus and concentration for their craft (scientists, programmers, writers, artists, craftsmen, etc.) share one thing in common: they are very serious about how they learn. This chapter will give you a short introduction into how you can study most effectively.
+The rest of the error message is what we call the call stack:
 
-## 1. Planning <a name="planning"></a>
-The first part of studying should be to make a study plan. 
+```
+  at Server.<anonymous> (C:\Users\Rob\hyf\Node.js\week1\homework\exercises\3-web-server\server.js:26:9)
+  at Server.emit (events.js:315:20)
+  at parserOnIncoming (_http_server.js:874:12)
+  at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+```
 
-Every week consists of five main activities: (1.) Read the reading material. (2.) Watch the online lectures. (2.) Make the homework for the current week. (3.) Participate in the Q&A session. (4.) Implement the feedback on your previous homework. 
+This should tell you where in the code it broke. We will go into more detail about this in the curriculum, but the rule here is to look for a filename / directory that you recognise. In this case the first line `at Server.<anonymous> (C:\Users\Rob\hyf\Node.js\week1\homework\exercises\3-web-server\server.js:26:9)` is a file on my computer that I recognize. The numbers at the end `26:9` tells you at what line (26) and character in that line (9) your code broke. So now you know where to start looking for a problem!
 
-Before you start doing anything, it’s good to plan your week ahead. Divide the large amounts of tasks into small pieces, and think about how much time you expect to spend on each task by having a quick look at it. 
+## 2.2 Finding solutions online
+If you can't figure out the error yourself then it is time to search online. When it comes to programming, the internet is filled with solutions that may or may not work. Some information will be out of date as well. This means that it may take multiple attempts to find the solution you need. When looking for a problem we have a couple of tips:
 
-We have a certain number of articles and videos that we share as part of the curriculum. It is important to read and watch them effectively. Again, try to follow the examples and code them yourself. Also, you are free to look for your own reading material and videos. There is a lot of good material on the internet, which you can make use of. Also, if you find a resource that you think is better than what we offer in the curriculum, please let us know (see textbox below!).
+- Include the language you are programming in / library where the error occured
+- Copy paste the error description (`res.status is not a function`) into your search engine
+- If there are too many results, add a time filter in your search engine
+- After a while you will find out which sites provide good information. For example:
+  - [MDN](https://developer.mozilla.org/en-US/). This is an up to date and clear resource of information!
+  - [StackOverflow](https://stackoverflow.com/). The place where many questions are asked and answered.
 
+## 2.3 Asking for help when stuck
+Let's say even the internet cannot help you, it is then time to ask your class for help. There is a right and wrong way to ask for help though. We regularly see students send a message that looks something like this:
 
-The homework and reading material combined take at least 30 hours, however this does not account for getting stuck with exercises or doing more in-depth research and practice to really master the concepts. Therefore, you probably want to add another 5-10 hours per week at least. 
+```
+Hi class, I get an error when running my server, anyone else ran into this problem too?
+```
 
-Now that you know how much time you have available and which are the activities you need to study per day, it’s time to make a weekly schedule. The key here is not to wait until Saturday, but to start Wednesday morning already. Learning programming concepts takes time, and if you try to do everything at the end of the week, your brain has very little time to process these concepts. Per day you schedule a number of small tasks, and once you are finished you can feel good about finishing the tasks of the day. 
+This is not very helpful and will probably not get a lot of response. The reason is that there is no information which means any other students will not be able to know if the error is indeed the same. The best thing to do is to take a screenshot of or copy the error message and post it there. That way your classmates will already know if it is something they recognize. For example:
 
-Note that planning is an art by itself! If you want to learn how to make better weekly and daily schedules, we recommend you to read the following two posts by Cal Newport ([1](http://calnewport.com/blog/2014/08/08/deep-habits-plan-your-week-in-advance/) and [2](http://calnewport.com/blog/2013/12/21/deep-habits-the-importance-of-planning-every-minute-o)). 
+```
+Hi class, I get the following error when running my server for Node week 3 exercise 3:
 
-## 2. Don’t just read, code it! <a name="code"></a>
-As explained in the previous section, reading about code, or listening to your teacher about code, is not the same as actually coding! It is incredibly important that you try out the concepts that you have learned, and that you try to apply it in multiple ways in order to become comfortable with it. There is no way around this. 
+TypeError: res.status is not a function
+    at Server.<anonymous> (C:\Users\Rob\hyf\Node.js\week1\homework\exercises\3-web-server\server.js:26:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:874:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+```
 
-We recommend that when you study something, directly try it out in your code editor by making a simple coding example and see how it works in practice. Only this way you will truly understand it well, and gain the ability to turn ideas into code.
+## 2.4 Code as much as possible
+We provide a lot of reading materials/videos in the curriculum, but you will learn the most when you are coding yourself. At the start of the week we introduce you to new concepts, this will give you new ideas and tools to work with. But no video will be able to explain something in such a short time for you to get it, that will only come through practice.
 
-One more tip: Write code with pen and paper. Try to write down the basic concepts including some simple examples. Yes, this can also be done on the computer, however [research shows](https://www.theguardian.com/science/2014/dec/16/cognitive-benefits-handwriting-decline-typing) that writing things down with good old-fashioned pen and paper provides cognitive benefits that you cannot achieve when typing on your keyboard. By the way, some companies will ask you to do the same during their interview process – good practice indeed!
+So treat the reading materials as a way of introducing you to new ideas, then apply those ideas to your code as much as possible. You can even copy the code the video uses and play around with it, it will make you understand it so much better than just watching others do it.
 
-## 3. Go back to the basics <a name="basics"></a>
-The basic concepts presented in the earlier modules are crucial to become a good programmer. Many students in JS2 and JS3 still struggle with arrays, string, objects, array of objects, properties and other basic concepts which are discussed in JavaScript. Many students in the React-module still struggle with callback functions and closures (discussed in JS2). In order to solve more complicated coding challenges, you need to know these concepts! 
-
-If you really want to master the basic concepts, the best way is to do more exercises with them. You can find a lot on the internet, but you can also easily create your own basic exercises (like the rotten fruit example in chapter 1). For instance, can you come up with some examples on how to use a basic function?
-
-## 4. Sleep, Breaks & Exercise <a name="sleep"></a>
-Sleep is incredibly important for your brain’s memory capability. If you study a lot, but don’t sleep enough, part of all the hours you put in are useless. On average the recommended time of sleep is ~8 hours. If you go much below this, it will most likely decrease your performance as a student. 
-
-We recommend that you do not look at any screen the hour before you go to bed, as this improves your [overall sleep quality](https://www.sciencenewsforstudents.org/article/evening-screen-time-can-sabotage-sleep). Your brain thinks that the light of your screen is natural light, and this will make you stay awake.
-
-If you're still in front of a screen in the evening, you can use [this](https://justgetflux.com/) app to make it less harmful (MacOS only). 
-Try to take 10-15 minutes breaks in between studying sessions of 90 minutes, as this re-energizes you and improves your focus. During these breaks, some form of physical exercise is highly recommended. Take a walk outside, stretch, dance...get moving!
-
-More generally, we recommend you eat healthy and do sports. There is a large body of evidence (for instance [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5934999/) and [this](https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110)) that shows exercise helps memory and thinking through both direct and indirect means. Directly through a reduction of insulin resistance, inflammation, and an increase of chemicals in the brain that affect the health of brain cells, the growth of blood vessels in the brain, as well as the survival of new brain cells. Indirectly, exercise improves mood and sleep, and reduces stress and anxiety. 
-
-## 5. Distractions <a name="distractions"></a>
+## 2.5 Minimize distractions
 The goal whilst studying should be to reach a state of ‘flow’. Flow can be described as the complete immersion in an activity. By doing so, you lose your sense of space and time. There is quite some research about ‘flow’. This research shows that not only your learning curve increases significantly, also the level of joy increases. In other words, if you are fully concentrated whilst programming you feel way more satisfied as a result. 
 
 To reach this level of optimal concentration and create a state of flow, distractions should be shut out as much as possible. The two most common enemies are described below.
@@ -398,19 +321,15 @@ To reach this level of optimal concentration and create a state of flow, distrac
 Social media is incredibly bad for your focus and therefore it decreases your ability to learn complex concepts. In order to understand programming concepts your brain needs full focus. Every time it is interrupted by a phone or a message online, your brain has to switch its attention. To go back to your code after that will cost a lot of energy. In fact, [studies have shown that just having a phone in the same room](https://www.journals.uchicago.edu/doi/full/10.1086/691462), reduces your ability to study significantly. 
 
 We highly recommend you: when you are studying, put your phone away and use your study time for studying only.
-Another app that can help you out: [Selfcontrol.](https://selfcontrolapp.com/) A bit of a contradictio in terminis, but it blocks the websites that distract you for the period that you want to be focussed.
+Another app that can help you out: [Selfcontrol.](https://selfcontrolapp.com/) A bit of a contradiction, but it blocks the websites that distract you for the period that you want to be focussed.
 
 **Challenge number 2: Children and family**  
 Many of us are not living by ourselves. You might have children, or family members asking for attention. The challenge here is to try and create a quiet space, where you will not be interrupted. Of course, this is not always possible if you are a parent. But perhaps you can ask your partner or a friend to keep an eye on your children at least for a few hours a day, while you go to a local library, or study in a quiet room at a friend’s house. 
 
-> **How to become a pro at learning**
->
-> Obviously, this chapter only provides you with a very basic introduction. 
->
-> If you are interested in learning more about how to learn effectively we recommend you to read more about deliberate learning and deep work. 
-> Studying effectively – although NOT easy – is a superpower you can use for the rest of your life!!!
->
-> An excellent read about the value of working without distractions (and how to achieve it) is the book Deep Work by Cal Newport [here](https://www.calnewport.com/books/deep-work/).
+## 2.6 Life happens
+At HackYourFuture we know we expect a lot. You are learning things that many of our teachers spent 5 years studying in a fraction of that time. You will need to devote a huge part of your life to the curriculum in a usually less than ideal learning environment. Sometimes life will get in the way of this and there is no shame in admitting that you need help.
+
+We are here to assist in any way we can, please let your class mentor know as soon as things get too much or something happens that will mean you won't be able to put in the time and/or effort that is needed. There are many ways we can help you out, either by providing some extra support from a mentor or from a life coach or by giving you a break. We want you to succeed and letting us know what is going on beforehand will always work out better for all of us. We are working towards the same goal!
 
 # Final thoughts <a name="thoughts"></a>
 
