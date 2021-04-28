@@ -212,35 +212,25 @@ We maintain a simple 3 strike policy. You get 1 strike in the following situatio
 Once you have 3 strikes, we will re-evaluate your participation in HYF.
 
 ## 1.9 Start your career <a name="career"></a>
-After graduation, it is time to find an internship. This internship almost always leads to a paid job. HackYourFuture will do its best to find suitable companies for you, as we have an extensive network of partner companies. However, finding work will depend completely on your own efforts.
+After graduation, it is time to find an internship. This internship almost always leads to a paid job. HackYourFuture will do its best to find suitable companies for you, as we have an extensive network of partner companies. However, finding work will depend also on your efforts:
 
-Finding an internship consists of the following steps:
+1. Is 'Your Personal Brand' ready?
+Is your CV, GitHub and LinkedIn profiles up to date and following the given guidelines? Have you asked for feedback from the Partnership Manager? Do you continue to update your CV with new projects and experiences? For more information on this, visit ['Your Personal Brand Repo'](https://github.com/HackYourFuture/yourpersonalbrand)
 
-1. CV and LinkedIn Support  
-During the project-phase we will contact you and work together to make sure you have a professional CV and LinkedIn profile ready in English.
+2. Are you ready for job interviews? 
+During the course you will have career training sessions where we will discuss the basics of finding an internship, how to prepare for interviews, what companies expect from HackYourFuture graduates, etc. Additionaly, you will have many mockup interviews (aka practice interviews), both technical and social. These interviews will be conducted by the HYF core-team and by recruiters from our partner company Adyen. After each interview, you will receive feedback about your performance and things you can improve upon. This will make you less nervous and prepare you for real interviews with companies! To learn more about this, please visit the ['Interview Preparation' Repo](https://github.com/HackYourFuture/interviewpreparation).
 
-2. Career Training (1 session)  
-Right after graduation, we have a one-day career training in which we discuss the basics of finding an internship, how to prepare for interviews, salary negotiations etc.
+3. Revise what you've learned and never stop learning new things!
+One of the biggest risks to starting your career is to stop coding after graduation. This will significantly decrease your chances of finding an internship. We highly recommend you continue to work on projects even right after graduation. These projects will help you learn even further and you can also add them to your CV to show companies you never stop learning! A good way to go about this is by working on the [Post Graduation Package](https://github.com/HackYourFuture/post-grad-ed). Also, be sure to revise all concepts studied throughout the course as this might come in handy when doing technical or social interviews. 
 
-3. Practice Interview (1 session)  
-Two interviewers will test your social and technical skills (60-90 minutes). After this, you receive feedback about your performance. This will make you less nervous and prepare you for real interviews with companies.
+4. Remember the Education Fee!
+When a company hires one of our gradyates, we ask for an education fee. This fee, helps us fund the next class of students. Once a company hires you, we ask them for 350 euros per month during the internship time, and 3000 euros minus the fees paid for the internship once thy hire you for a full-time job. This fee is never more than 3000 total and it does not come out of your pay. Think of this as a recruiting fee paid by the company + a way for having those companies supporting our mission of helping people like you start a career in tech. It might happen that you find a job by yourself at a company that is not partnering yet with HackYourFuture. If that is the case, we still ask you to Remember about the Education Fee and to connect with HYF's partnership manager as early as possible in the hiring process to best inform the company about that.
 
-4. Improve your technical skills  
-One of the biggest risks is to stop coding after graduation. This will significantly decrease your chances of finding an internship. Therefore, we have projects that you can build, with support from teachers, to develop your skills. You can also add these projects to your CV! 
-
-5. Finding internship possibilities  
-We will share a Google Doc list with you. We will train you to find leads for companies that are hiring developers. You will share these contacts with us and we will contact these companies (our experience has taught us this works better than if you contact companies yourself). In addition, we also have a network of partners of our own, which we will use to introduce you to companies.
-
-6. Education Fee  
-It is in our best interest to find you an internship since we ask companies for a small compensation (education fee). We need this education fee to train the next class of students since we are a not-for-profit organization. 
-
-**IMPORTANT**: Finding an internship opportunity is a two-way street. While we reach out to many different companies, you need to contribute. You can control your chances of getting an internship by working on your technical and communication skills, and provide us with leads to companies.
-
-If you do not contribute, and remain unemployed, this is your responsibility. If the municipality or your contact person contacts us about your progress we will be straightforward and transparent about your performance.
+IMPORTANT: Once you graduate, connect with HackYourFuture's partnership manager to have a personalised plan to get an internship as soon as possible!
 
 ## 1.10 Paying it forward <a name="donations"></a>
 
-As mentioned, HackYourFuture is a foundation. Our program costs around EUR11.000 per graduate that finds a job, yet is free of charge for our students.  Currently we receive most of our revenues from donations (70%) from large foundations like the ING Netherlands Fund, Stichting Doen and the Oranje Fonds. The rest of our revenues we receive through an education fee we ask to companies that hire our graduates.
+As mentioned, HackYourFuture is a not-for-profit organisation. Our program costs around EUR11.000 per graduate that finds a job, yet is free of charge for our students.  Currently we receive most of our revenues from donations (70%) from large foundations like the ING Netherlands Fund, Stichting Doen and the Oranje Fonds. The rest of our revenues we receive through an education fee we ask to companies that hire our graduates.
 
 In the coming years we have to find a business model in which we are less reliant on foundations as their funding is temporary. We are currently exploring partnerships with companies for donations. We are also exploring an alumni donation scheme. Students who graduate and find a job can donate (voluntarily) a monthly amount to make sure the next generation of students is being trained. Please contact us if you are interested.
 
