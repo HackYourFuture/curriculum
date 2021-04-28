@@ -14,12 +14,12 @@
    * [1.9 Start your career](#career)
    * [1.10 Paying it Forward](#donations)
 * [Chapter 2: How to study programming (tips for non-programmers)](#study)
-* [Chapter 3: Study Strategies](#strategies)
-   * [3.1 Planning](#planning)	
-   * [3.2 Don’t just read, code it!](#code)
-   * [3.3 Go back to the basics](#basics)
-   * [3.4 Sleep, Breaks & Exercise](#sleep)
-   * [3.5 Distractions](#distractions)
+   * [2.1 Reading error messages](#error)
+   * [2.2 Finding solutions online](#solution)
+   * [2.3 Asking for help when stuck](#stuck)
+   * [2.4 Code as much as possible](#code)
+   * [2.5 Minimize distractions](#distractions)
+   * [2.6 Life happens](#life)
 * [Final thoughts](#thoughts)	
 
 
@@ -238,7 +238,7 @@ In the coming years we have to find a business model in which we are less relian
 
 Through our years of experience guiding non-programmers into the world of programming we have gathered some common roadblocks/issues/misconceptions that we would like to inform you about so you don't run into the same thing.
 
-## 2.1. Reading error messages
+## 2.1. Reading error messages <a name="error"></a>
 When programming you will deal with a lot of errors and being able to find how to solve them is the core of what a programmer does. As a beginner these error messages can seem daunting, however, and we often see our students ignoring the information that would help them solve the problem. Let's look at the following error message from some JavaScript code:
 
 ```
@@ -268,7 +268,7 @@ The rest of the error message is what we call the call stack:
 
 This should tell you where in the code it broke. We will go into more detail about this in the curriculum, but the rule here is to look for a filename / directory that you recognise. In this case the first line `at Server.<anonymous> (C:\Users\Rob\hyf\Node.js\week1\homework\exercises\3-web-server\server.js:26:9)` is a file on my computer that I recognize. The numbers at the end `26:9` tells you at what line (26) and character in that line (9) your code broke. So now you know where to start looking for a problem!
 
-## 2.2 Finding solutions online
+## 2.2 Finding solutions online <a name="solution"></a>
 If you can't figure out the error yourself then it is time to search online. When it comes to programming, the internet is filled with solutions that may or may not work. Some information will be out of date as well. This means that it may take multiple attempts to find the solution you need. When looking for a problem we have a couple of tips:
 
 - Include the language you are programming in / library where the error occured
@@ -278,7 +278,7 @@ If you can't figure out the error yourself then it is time to search online. Whe
   - [MDN](https://developer.mozilla.org/en-US/). This is an up to date and clear resource of information!
   - [StackOverflow](https://stackoverflow.com/). The place where many questions are asked and answered.
 
-## 2.3 Asking for help when stuck
+## 2.3 Asking for help when stuck <a name="stuck"></a>
 Let's say even the internet cannot help you, it is then time to ask your class for help. There is a right and wrong way to ask for help though. We regularly see students send a message that looks something like this:
 
 ```
@@ -297,12 +297,12 @@ TypeError: res.status is not a function
     at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
 ```
 
-## 2.4 Code as much as possible
+## 2.4 Code as much as possible <a name="code"></a>
 We provide a lot of reading materials/videos in the curriculum, but you will learn the most when you are coding yourself. At the start of the week we introduce you to new concepts, this will give you new ideas and tools to work with. But no video will be able to explain something in such a short time for you to get it, that will only come through practice.
 
 So treat the reading materials as a way of introducing you to new ideas, then apply those ideas to your code as much as possible. You can even copy the code the video uses and play around with it, it will make you understand it so much better than just watching others do it.
 
-## 2.5 Minimize distractions
+## 2.5 Minimize distractions <a name="distractions"></a>
 The goal whilst studying should be to reach a state of ‘flow’. Flow can be described as the complete immersion in an activity. By doing so, you lose your sense of space and time. There is quite some research about ‘flow’. This research shows that not only your learning curve increases significantly, also the level of joy increases. In other words, if you are fully concentrated whilst programming you feel way more satisfied as a result. 
 
 To reach this level of optimal concentration and create a state of flow, distractions should be shut out as much as possible. The two most common enemies are described below.
@@ -316,7 +316,7 @@ Another app that can help you out: [Selfcontrol.](https://selfcontrolapp.com/) A
 **Challenge number 2: Children and family**  
 Many of us are not living by ourselves. You might have children, or family members asking for attention. The challenge here is to try and create a quiet space, where you will not be interrupted. Of course, this is not always possible if you are a parent. But perhaps you can ask your partner or a friend to keep an eye on your children at least for a few hours a day, while you go to a local library, or study in a quiet room at a friend’s house. 
 
-## 2.6 Life happens
+## 2.6 Life happens <a name="life"></a>
 At HackYourFuture we know we expect a lot. You are learning things that many of our teachers spent 5 years studying in a fraction of that time. You will need to devote a huge part of your life to the curriculum in a usually less than ideal learning environment. Sometimes life will get in the way of this and there is no shame in admitting that you need help.
 
 We are here to assist in any way we can, please let your class mentor know as soon as things get too much or something happens that will mean you won't be able to put in the time and/or effort that is needed. There are many ways we can help you out, either by providing some extra support from a mentor or from a life coach or by giving you a break. We want you to succeed and letting us know what is going on beforehand will always work out better for all of us. We are working towards the same goal!
