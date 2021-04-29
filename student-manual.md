@@ -163,7 +163,7 @@ Three other important reasons why we have integrated them in our curriculum:
 We know that there is a life outside of HYF and that life sometimes gets in the way so whenever a decision is made we try to take these factors into consideration. That means that consequences listed in the table above are not set in stone as we try to find what is best for the student.
 
 ## 1.5 Teachers <a name="teachers"></a>
-HackYourFuture is only possible because of our amazing team of teachers. Our teachers are medior and senior software developers working at small and big companies. Some of them are even graduates from our program! They usually have very busy jobs and they sacrifice their limited free time to help you to become a developer, so  e ask you to respect and value their time by preparing yourself for class!
+HackYourFuture is only possible because of our amazing team of teachers. Our teachers are medior and senior software developers working at small and big companies. Some of them are even graduates from our program! They usually have very busy jobs and they sacrifice their limited free time to help you to become a developer, so we ask you to respect and value their time by preparing yourself for class!
 
 That does not mean that you shouldn't ask extra questions. Make as much use of this valuable resource as you can. Our teachers are happiest when the classes are lively and the students get into discussions about code and concepts of programming. Having this weekly options to ask anything you are struggling with is what makes our program so much more successful than following a course on your own.
 
@@ -243,7 +243,7 @@ In the coming years we have to find a business model in which we are less relian
 Through our years of experience guiding non-programmers into the world of programming we have gathered some common roadblocks/issues/misconceptions that we would like to inform you about so you don't run into the same thing.
 
 ## 2.1. Reading error messages <a name="error"></a>
-When programming you will deal with a lot of errors and being able to find how to solve them is the core of what a programmer does. As a beginner these error messages can seem daunting, however, and we often see our students ignoring the information that would help them solve the problem. Let's look at the following error message from some JavaScript code:
+When programming you will deal with a lot of errors and being able to find how to solve them is the core of what a programmer do. As a beginner these error messages can seem daunting and we often see our students ignoring the information that would help them solve the problem. However, have a lot of information in them that can help you solve the actual error. Let's look at the following error message from some JavaScript code:
 
 ```
 TypeError: res.status is not a function
@@ -319,6 +319,8 @@ Another app that can help you out: [Selfcontrol.](https://selfcontrolapp.com/) A
 
 **Challenge number 2: Children and family**  
 Many of us are not living by ourselves. You might have children, or family members asking for attention. The challenge here is to try and create a quiet space, where you will not be interrupted. Of course, this is not always possible if you are a parent. But perhaps you can ask your partner or a friend to keep an eye on your children at least for a few hours a day, while you go to a local library, or study in a quiet room at a friend’s house. 
+
+If you're struggling to find that 'flow', please contact your classmentor for some extra help!
 
 ## 2.6 Life happens <a name="life"></a>
 At HackYourFuture we know we expect a lot. You are learning things that many of our teachers spent 5 years studying in a fraction of that time. You will need to devote a huge part of your life to the curriculum in a usually less than ideal learning environment. Sometimes life will get in the way of this and there is no shame in admitting that you need help.
