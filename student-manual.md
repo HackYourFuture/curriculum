@@ -34,7 +34,7 @@ You are now a member of a large community. 180+ students have graduated from Hac
 
 However, our course will be challenging. For the next 7 months there will be moments in which you might want to give up. It is important to remember that you are not the first to go through this. Many of our students, who are now in professional jobs, have at some point thought about quitting our course. Based on their experiences we compiled this guide to share the lessons learned: How do you make sure to be successful in HackYourFuture?
 
-This guide consists of six chapters. In chapter 0 we lay out the foundation of the HYF organisation. In the first chapter, we provide a short summary of our program. The second chapter discusses the six steps of problem solving. Chapter three discusses how to study programming most effectively. The fourth chapter details how you can become better at asking questions, which is vital to become a good programmer. Finally, chapter five lays out HackYourFuture’s core values.
+This guide consists of 3 chapters. In chapter 0 we lay out the foundation of the HYF organisation. In the second chapter, we provide a summary of our program. The final chapter focusses on what you can do to get through the course. 
 
 Like you, this document is always improving. If you feel something is missing or might be improved, please let us know and we might add your suggestion.
 
@@ -46,7 +46,7 @@ The HackYourFuture team
 
 HackYourFuture was founded in 2016. We saw many talented people coming to the Netherlands as a refugee, but many had difficulty finding a job. At the same time the tech/IT sector is looking for talent to fill their open vacancies. That does not make any sense :) You can read more about the story of HYF on our website.
 
-HYF is a foundation, which means we do not make a profit. However, we do make costs of course. Our program costs around EUR11.000 per graduate that finds a job, yet the education is free. How do we do this? Currently we receive most of our revenues from donations (70%) from large foundations like the ING Netherlands Fund, Stichting Doen and the Oranje Fonds. We also receive donations from companies and individuals (mostly former students). The rest of our revenues we receive through an education fee we ask to companies that hire our graduates.
+HYF is a foundation, which means we do not make a profit. However, we do make costs of course. Our program costs around EUR11.000 per graduate that finds a job, yet the education is free. How do we do this? Currently we receive most of our revenues from donations (60%) from large foundations like the ING Netherlands Fund, Stichting Doen and the Oranje Fonds. We also receive donations from companies and individuals (mostly former students). The rest of our revenues we receive through an education fee we ask to companies that hire our graduates.
 
 One of the main strengths of our organisation is that we rely heavily on the contribution of our volunteers, all professional software developers and testers, that help to correct homework, teach classes and guide you through the program. Some of our graduates are now teaching at HackYourFuture! Currently, we have 4 paid employees on the payroll, together they form the core team of HYF.
 
@@ -71,7 +71,7 @@ In the following section you will find an overview of all the subjects you’ll 
 ## 1.1 Curriculum <a name="curriculum"></a>
 The 7 months are divided into different modules, each building on the one before. Here’s the [overview](https://github.com/HackYourFuture/curriculum).
 
-However, there is no time to rest yet because the next challenge will be to find an internship (see also section 1.7). After you graduate it might take some time before you actually find an opportunity. That is why we have developed the [Post-Graduation Package](https://github.com/hackyourfuture/post-grad-ed). The PGP consists of additional technical projects that you will build to improve your skills and increase your chances of finding an internship.
+However, there is no time to rest after graduation because the next challenge will be to find an internship (see also section 1.7). After you graduate it might take some time before you actually find an opportunity. That is why we have developed the [Post-Graduation Package](https://github.com/hackyourfuture/post-grad-ed). The PGP consists of additional technical projects that you will build to improve your skills and increase your chances of finding an internship.
 
 > How to Improve the Curriculum!
 >
@@ -93,9 +93,9 @@ It is important to plan your week ahead of time, in order to work and study effe
 |Sunday            |Q&A Session 12-3pm (usually ends earlier)                                         |
 |Monday-Tuesday    |Finish homework (deadline Tuesday 23:59) + Implement feedback on previous homework|
 
-The video lectures will be made available to you through Slack (you can also find them on our [YouTube channel](https://www.youtube.com/channel/UCkK246iKcOAvsL0SI_6n3eA)). In these lectures, one of our teachers explains the core concepts of this week and provides you  examples and exercises.
+The video lectures are included in the curriculum on GutHub. (you can also find them on our [YouTube channel](https://www.youtube.com/channel/UCkK246iKcOAvsL0SI_6n3eA)). In these lectures, one of our teachers explains the core concepts of this week and provides you  examples and exercises.
 
-You are also asked to do the homework assignments and readings (see next section). On Tuesday we ask you to submit your homework and on Saturday at least one question before the Question and Answer (Q&A) session on Sunday. The Q&A session is basically an online meeting where the teacher will answer your questions, so please come prepared! He/she might also ask you questions. Submitting homework and Q&A’s are mandatory! 
+You are also asked to do the homework assignments and readings (see next section). On Tuesday you have to submit your homework and on Saturday at least one question before the Question and Answer (Q&A) session on Sunday. The Q&A session is an online meeting where the teacher will answer your questions, so please come prepared! He/she might also ask you questions. Submitting homework and Q&A’s are mandatory! 
 
 Currently, due to Corona all of our education is online. In the near future we hope to go back to face-to-face classes on Sunday.
 
@@ -120,26 +120,30 @@ So if an issue is assigned to a student with the `Reviewed with feedback` label,
 It is the student's responsibility to make sure the pull request gets to the `Approved` state and make fixing the feedback your top priority when you get it. It can happen that it takes a little while for our mentors to pick up the homework (they do have full time jobs after all), but if there is no review yet on the Q&A day then please contact your class mentor so they can see if someone else is available to pick it up.
 
 ### 1.3.2 Note on copying
-You will probably hear at some point at HYF that programmers copy and paste code into their applications all the time. While this is true, during your studies we want you to really think about how to solve something before looking to google. The exercises are made to be doable, but solutions to them are probably easy to find online as we want to teach you practical things which you may need in the future. If you just copy code from google you will not learn as much and it will show in your test interviews or, even worse, during your internship.
+You will probably hear at some point at HYF that programmers copy and paste code into their applications all the time. While this is true, during your studies we want you to really think about how to solve something before aking google to help out. The exercises are made to be doable, but solutions to them are probably easy to find online as we want to teach you practical things which you may need in the future. If you just copy code from google you will not learn as much and it will show in your test interviews or, even worse, during your internship.
 
 There are occasions where you will copy code from the internet. In such a case, the following criteria apply:
 1. A reference is given (in a comment)
-2. It must be clear which code is copied
-3. The functionality of the code is explained in the comment. This means you are sure you understand what the code does that you copied.
+2. Don't copy code from fellow students
+3. It must be clear which code is copied
+4. The functionality of the code is explained in the comment. This means you are sure you understand what the code does that you copied.
 
 The last one is most important there, do *not* ever put anything into your codebase that you do not understand.
 
+If we notice that you copied code without applying the rules above, we see that as plagiarism. In any case of fraud or plagiarism, you’re out of HYF. 
+
 ## 1.4 Tests <a name="tests"></a>
-At HackYourFuture the material is mostly self study and our lectures are taught by many different mentors. This means that we can’t follow the progress of every student during class. But, (1.)we're interested in your progress and your level of understanding. So, We use tests. 
+At HackYourFuture the material is mostly selfstudy and our lectures are taught by many different mentors. This means that we can’t follow the progress of every student during class. But, (1.)we're interested in your progress and your level of understanding. So, We use tests. 
 Three other important reasons why we have integrated them in our curriculum:  
 2. You have the time to go over all the concepts again and make sure you understand them well.
-3. We can indicate who needs a bit more guidance throughout the curricum and to make sure that the class is on the same page
-4. We can promise a certain level of understanding of the concepts in our curriculum to our partners 
+3. We can indicate who needs a bit more guidance throughout the curricum and to make sure that the class is on the same page.
+4. We can promise a certain level of understanding of the concepts in our curriculum to our partners. 
 
 **General rules for the tests:**
 - You can only enter the project once you have a 6 or higher for every test (except the Browsers test).
 - In any case of fraud or plagiarism, you’re out of HYF. 
-- Don’t share the questions and/or answers of your tests with students from other classes. We see this as fraud. 
+- Don’t share the questions and/or answers of your tests with students from other classes. We see this as fraud.
+- You are not allowed to have contact with other people during the test. 
 
 **Grading system:** 
 - The lowest grade is a 1.
