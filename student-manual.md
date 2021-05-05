@@ -103,7 +103,7 @@ As mentioned before, our complete curriculum can be found on Github. Each module
 
 After the first couple of weeks, Github will also be where you will publish your homework. GitHub can be challengin to use at first, but there is a reason we use it: It is the number 1 platform for programmers! In order to become a good programmer, you will have to understand how Github works and become a master at it. You will notice that after a few weeks, finding the right homework assignments and reading, as well as publishing your homework on Github will become automatic. 
 
-Homework assignments will be part of your study for practically every week and it is expected that you finish them on time. Again, think about HackYourFuture as a job and not a hobbie. Not handing in your assignents on time without proper reason and communication will not be accepted (see also our values and our 3 strike policy). During HYF we not only look at your technical skills, but we also want to see that you are a reliable person that works hard, delivers on time and communicates accordingly. While you might find a job without these skills, it will be hard to keep that job. And that is why we are strict with the way we work. Not less important, the homeworks and assignments are specifically designed to be sure you have the required skills at the end of each module! 
+Homework assignments will be part of the curriculum practically every week and it is expected that you finish it (and hand it in) on time. As you might have read in our culture page, you should think about HackYourFuture as a job and not a hobbie. Not handing in your assignents on time without proper reason and communication will not be accepted (see also our values and our 3 strike policy). During HYF we not only look at your technical skills, but we also want to see that you are a reliable person that works hard, delivers on time and communicates accordingly. While you might find a job without these skills, it will be hard to keep that job. And that is why we are strict with the way we work. Not less important, the homeworks and assignments are specifically designed to be sure you have the required skills at the end of each module! 
 
 ### 1.3.1 Review process
 All of your homework will be reviewed by one of our mentors in a very similar way code reviews happen in any company you are going to work at. The homework pull requests you create every week will go through the following process:
@@ -113,40 +113,48 @@ All of your homework will be reviewed by one of our mentors in a very similar wa
 3. Once they are done the mentor decides if the homework is good enough or some work is still needed. If the homework is good enough, the issue will receive the `Approved` label. If not, the label `Reviewed with feedback` will be set.
 4. The student looks at the feedback and corrects their homework. Once finished, the label `Needs review` is set again. We then go back to step 2.
 
-So if an issue is assigned to a student with the `Reviewed with feedback` label, that means the student needs to work on it. If an issue has the label `Needs review` it means it is for the mentor to look at. In the end all issues should get the `Approved` label! 
+So if an issue is assigned to a student with the `Reviewed with feedback` label, that means you still needs to work on it. If an issue has the label `Needs review` it means it is for the mentor to look at. In the end all issues should get the `Approved` label! 
 
-It is the student's responsibility to make sure the pull request gets to the `Approved` state and make fixing the feedback your top priority when you get it. It can happen that it takes a little while for our mentors to pick up the homework (they do have full time jobs after all), but if there is no review yet on the Q&A day then please contact your class mentor so they can see if someone else is available to pick it up.
+It is the student's responsibility to make sure the pull request gets to the `Approved` state so make fixing the feedback given by the mentor your top priority when you get it! Submitting your homework, getting feedback and implementing that feedback in a timely manner is a similar process to the on you will encounter when working. It is important that you answer to your mentor messages on your homework just like if you would with an actual colleague. Keep in mind that the mentor puts a ton of effort to help you out, so be sure to thank them and react on time! Small things like that go a long way!
 
-### 1.3.2 Note on copying
-You will probably hear at some point at HYF that programmers copy and paste code into their applications all the time. While this is true, during your studies we want you to really think about how to solve something before aking google to help out. The exercises are made to be doable, but solutions to them are probably easy to find online as we want to teach you practical things which you may need in the future. If you just copy code from google you will not learn as much and it will show in your test interviews or, even worse, during your internship.
+It could happen  at times that it takes a little longer than ideal for our mentors to pick up the homework and give you feedback (they do have full time jobs after all), but if there is no review yet on the Q&A day then please contact your class mentor so they can see if someone else is available to review it. Again, feedback is crucial for you to learn the right way.
 
-There are occasions where you will copy code from the internet. In such a case, the following criteria apply:
-1. A reference is given (in a comment)
-2. Don't copy code from fellow students
-3. It must be clear which code is copied
-4. The functionality of the code is explained in the comment. This means you are sure you understand what the code does that you copied.
+**INTERESTING FACT:** When you apply to internships/jobs further down the line companies expect to see a link to your GitHub there to see your projects, your code, etc. Keeping an organised GitHub (and collaborating with other well in the platform by answering to feedback, thanking for contributions, etc) will always create a good impression about the way you work.
 
-The last one is most important there, do *not* ever put anything into your codebase that you do not understand.
+### 1.3.2 A note on copying code
+You will probably hear at some point at HYF that programmers copy and paste code into their applications all the time. While this is true, during your studies we want you to really think about how to solve something before aking google to help out. The exercises are made to be doable, but solutions to them are probably easy to find online as we want to teach you practical things which you may need in the future. If you just copy code from google you will not learn whats needed and that will become visible in your tests, interviews or, even worse, during your internship.
 
-If we notice that you copied code without applying the rules above, we see that as plagiarism. In any case of fraud or plagiarism, you’re out of HYF. 
+There are occasions where you will copy code from the internet. In such a case, the following criteria applies:
+1. A reference should be given of were the code is coming from (in a comment)
+2. Don't copy code from fellow students!
+3. It must be clear which part of the code you copied
+4. The functionality of the code should be explained in the comment. This should ensure you fully understand what the code that you copied does.
+
+The last one is most important there, do *not* ever put anything into your codebase that you do not understand!
+
+If we (or your teacher) notices that you copied code without applying the rules above, we will see that as plagiarism. In any case of fraud or plagiarism, you will be taken out of the program.
+
+Last but not least, when you copy code you dont understand, you might feel things are going great when in fact they are not. Is a lot better to accept you are struggling or having a hard time with the task at hand and ask for help. A great programmer is not that one that knows every solution. Sometimes the best programmer is that one that knows how to look for solutions by himself and if after some time he doesnt find the solution, he asks for support. Your mentor, teachers, colleagues and the core-team is here to help you. Use that to your advantage.
 
 ## 1.4 Tests <a name="tests"></a>
-At HackYourFuture the material is mostly selfstudy and our lectures are taught by many different mentors. This means that we can’t follow the progress of every student during class. But, (1.)we're interested in your progress and your level of understanding. So, We use tests. 
-Three other important reasons why we have integrated them in our curriculum:  
+At HackYourFuture the material is mostly self-study and our lectures are taught by many different mentors. This means that we can’t follow the progress of every student during class. But, (1.)we're interested in your progress and your level of understanding. So, We use tests. 
+
+Three other important reasons why we have integrated them in our curriculum are:  
 2. You have the time to go over all the concepts again and make sure you understand them well.
-3. We can indicate who needs a bit more guidance throughout the curricum and to make sure that the class is on the same page.
-4. We can promise a certain level of understanding of the concepts in our curriculum to our partners. 
+3. We can indicate who needs a bit more guidance throughout the curricum and to make sure that the class is somehow at the same level.
+4. We can assure a certain level of understanding of the concepts in our curriculum to the companies we send your CVs to. 
+
+If we see one of the students does not do well in one of the modules we can pair them up with an experienced mentor for one-on-one support, offer you more time to catch up, etc. It all depends on the particular case at hand and why you are falling behind.
 
 **General rules for the tests:**
 - You can only enter the project once you have a 6 or higher for every test (except the Browsers test).
-- In any case of fraud or plagiarism, you’re out of HYF. 
-- Don’t share the questions and/or answers of your tests with students from other classes. We see this as fraud.
-- You are not allowed to have contact with other people during the test. 
+- Don’t share the questions and/or answers of your tests with students from your same or other classes. We also see this as fraud.
+- You are not allowed to have contact with other people during tests unless indicated otherwise. 
 
 **Grading system:** 
 - The lowest grade is a 1.
 - The highest grade is a 10.
-- A 6 is sufficient
+- A 6 is sufficient (but not the best...)
 - Every grade lower than a 6 is not sufficient.
 
 |**Module** (test description)       | **Less than a 6**        | **6 or higher**   |
