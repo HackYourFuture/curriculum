@@ -39,19 +39,19 @@ The HackYourFuture team
 
 # Chapter 0: The Organization <a name="HYF"></a>
 
-HackYourFuture was founded in 2016. We saw many talented people coming to the Netherlands as a refugee, but many had difficulty finding a job. At the same time the tech/IT sector is looking for talent to fill their open vacancies. That does not make any sense :) You can read more about the story of HYF on our website.
+HackYourFuture was founded in 2016. We saw many talented people coming to the Netherlands as a refugee, but many had difficulty finding a job. At the same time the tech/IT sector is looking for talent to fill their open vacancies. That does not make any sense :) You can read more about the story of HYF on [our website](https://www.hackyourfuture.net/about/).
 
-HYF is a foundation, which means we do not make a profit. However, we do make costs of course. Our program costs around EUR11.000 per graduate that finds a job, yet the education is free. How do we do this? Currently we receive most of our revenues from donations (60%) from large foundations like the ING Netherlands Fund, Stichting Doen and the Oranje Fonds. We also receive donations from companies and individuals (mostly former students). The rest of our revenues we receive through an education fee we ask to companies that hire our graduates.
+HYF is a foundation, which means we do not make profits. However, we do make costs of course. Our program costs around EUR10000 per graduate that finds a job, yet the education is free. How do we do this? Currently, we receive most of our revenues from donations (60%) from large foundations like the ING Netherlands Fund, Stichting Doen and the Oranje Fonds. We also receive donations from companies and individuals (mostly former students). The rest of our revenues we receive through an education fee we ask to companies that hire our graduates.
 
-One of the main strengths of our organisation is that we rely heavily on the contribution of our volunteers, all professional software developers and testers, that help to correct homework, teach classes and guide you through the program. Some of our graduates are now teaching at HackYourFuture! Currently, we have 4 paid employees on the payroll, together they form the core team of HYF.
+One of the main strengths of our organisation is that we rely heavily on the contribution of our volunteers, all professional software developers and testers, that help to correct homework, teach classes and guide you through the program. Some of our graduates are now teaching at HackYourFuture! Currently, we have 4 paid employees on the payroll and together they form the 'core-team' of HYF. They keep the program running, update the curriculum, promote the organisation to find jobs and funding and are there to support you at every step of the way.
 
 [This RePo](https://github.com/HackYourFuture/culture) lays out our core values. These core values are leading for all of us involved in HackYourFuture: staff, alumni, students and teachers. They are leading in how we learn and teach and interact with each other. Please read them carefully. 
 
-Also make sure to read and sign our code of conduct, you can find it [here](https://github.com/HackYourFuture/curriculum/blob/master/welcome.md). If you have any questions, feel free to ask them during introduction day. 
+Also make sure to read and sign our code of conduct, which you can find [here](https://github.com/HackYourFuture/curriculum/blob/master/welcome.md). If you have any questions, feel free to ask them during introduction day or by approaching one of the core-team members on Slack (our internal communication platform - More on that later).
 
 # Chapter 1: Course Overview <a name="course"></a>
 
-During the next half year, you will practice with a variety of technologies and ways of thinking. This will build a solid foundation for you to become a junior web developer. What does this mean? 
+During the next half year, you will study a variety of technologies and ways of thinking. This will build a solid foundation for you to become a web developer. What does this mean? 
 
 At the end of the 7 months you will leave HackYourFuture with:
 - The skills to build your own full-stack web applications
@@ -60,13 +60,14 @@ At the end of the 7 months you will leave HackYourFuture with:
 - A decent CV and LinkedIn profile coupled with interview skills
 - Introductions to companies looking to hire programmers or software testers
 
-In order for this to be turned into reality, you will have to work very hard.
-In the following section you will find an overview of all the subjects you’ll be learning about throughout the course. 
+In order for this to be turned into reality, you will have to work very hard. In the following section you will find an overview of all the subjects you’ll be learning about throughout the course. 
 
 ## 1.1 Curriculum <a name="curriculum"></a>
 The 7 months are divided into different modules, each building on the one before. Here’s the [overview](https://github.com/HackYourFuture/curriculum).
 
-However, there is no time to rest after graduation because the next challenge will be to find an internship (see also section 1.7). After you graduate it might take some time before you actually find an opportunity. That is why we have developed the [Post-Graduation Package](https://github.com/hackyourfuture/post-grad-ed). The PGP consists of additional technical projects that you will build to improve your skills and increase your chances of finding an internship.
+However, there is no time to rest after graduation because the next challenge will be to find an internship (see also section 1.7). After you graduate it might take some time before you actually find an opportunity, around 0 - 3 months (depending on different factors which youll hear more about on your first career training). That is why we have developed the [Post-Graduation Package](https://github.com/hackyourfuture/post-grad-ed), a set of additional resources and technical projects that will help you improve your skills, enrich your portfolio and thus increase your chances of finding an internship.
+
+In short, as long as you have drive and work hard, we will be there next to you to help you gain the skills you need to start your tech career!
 
 > How to Improve the Curriculum!
 >
