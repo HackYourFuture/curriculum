@@ -166,16 +166,18 @@ If we see one of the students does not do well in one of the modules we can pair
 |**React** (building a small React application)|Based on previous results, the HYF team will decide if it is best to take a break and rejoin the next class or if this is the end of the road at HackYourFuture.| Ready for the project!|
 |**Final Project** (Tech interview based on project)|Based on previous results, the HYF team will decide if it is best to do a fellowship or post graduation package exercise before applying to companies.|Ready for your first job!|
 
-We know that there is a life outside of HYF and that life sometimes gets in the way so whenever a decision is made we try to take these factors into consideration. That means that consequences listed in the table above are not set in stone as we try to find what is best for the student.
+We know that there is a life outside of HYF and that life sometimes needs extra attention so whenever a decision is made we try to take these factors into consideration. That means that consequences listed in the table above are not set in stone as we try to find what is best for the student and case at hand.
 
 ## 1.5 Teachers <a name="teachers"></a>
 HackYourFuture is only possible because of our amazing team of teachers. Our teachers are medior and senior software developers working at small and big companies. Some of them are even graduates from our program! They usually have very busy jobs and they sacrifice their limited free time to help you to become a developer, so we ask you to respect and value their time by preparing yourself for class!
 
-That does not mean that you shouldn't ask extra questions. Make as much use of this valuable resource as you can. Our teachers are happiest when the classes are lively and the students get into discussions about code and concepts of programming. Having this weekly options to ask anything you are struggling with is what makes our program so much more successful than following a course on your own.
+That does not mean that you shouldn't ask questions. Make as much use of this valuable resource as you can! Our teachers are the happiest when the classes are lively, interactive and the students get into discussions about code and programming concepts. Having these weekly chances to ask anything you are struggling with (or that you simply want to know more about) and the chance to have different teachers from different walks of life and with different approaches and expertise are some of the things that make our program (in our opinion) so much richer and unique than following a course just by yourself.
 
 ## 1.6 Q&A sessions <a name="sessions"></a>
-The content of the Q&A sessions is decided by you. Based on your questions the mentor will explain the concepts that aren’t clear yet. In order to make the sessions as useful as possible we have implemented the following rules: 
-* Submit your question(s) in the thread on the message that will be posted in your class channel. This is part of the homework. If you can’t think of a question, search online for a small exercise to do together during the Q&A session. Message your class mentor before the deadline if you are not able to submit a question/exercise.  
+The content of the Q&A sessions is decided by you and your class. Based on your questions, the mentor will explain the concepts that aren’t clear yet. In order to make these sessions as useful as possible we have implemented the following rules: 
+
+* Submit your question(s) in the thread on the message that will be posted in your class channel every friday. This is part of your homework and you have to participate on this weekly, no exceptions. If you can’t think of a question, search online for a small exercise to do together during the Q&A session. If for any reason you can's submit a question or exercise, message your class mentor well in time before the deadline to discuss what's happening!  
+* 
 Examples of both good and bad questions:
 Good:		_"Do callbacks have to do with asynchronicity in our applications?"_
 Bad:		_"Can you explain again what a callback is?"_
