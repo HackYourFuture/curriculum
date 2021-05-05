@@ -174,20 +174,23 @@ HackYourFuture is only possible because of our amazing team of teachers. Our tea
 That does not mean that you shouldn't ask questions. Make as much use of this valuable resource as you can! Our teachers are the happiest when the classes are lively, interactive and the students get into discussions about code and programming concepts. Having these weekly chances to ask anything you are struggling with (or that you simply want to know more about) and the chance to have different teachers from different walks of life and with different approaches and expertise are some of the things that make our program (in our opinion) so much richer and unique than following a course just by yourself.
 
 ## 1.6 Q&A sessions <a name="sessions"></a>
-The content of the Q&A sessions is decided by you and your class. Based on your questions, the mentor will explain the concepts that aren’t clear yet. In order to make these sessions as useful as possible we have implemented the following rules: 
+The content of the Q&A sessions is decided by you and your class. Based on your questions, the mentor will plan his session and explain the concepts that aren’t clear yet for the class. In order to make these sessions as useful as possible we have implemented the following guidelines: 
 
-* Submit your question(s) in the thread on the message that will be posted in your class channel every friday. This is part of your homework and you have to participate on this weekly, no exceptions. If you can’t think of a question, search online for a small exercise to do together during the Q&A session. If for any reason you can's submit a question or exercise, message your class mentor well in time before the deadline to discuss what's happening!  
-* 
+* Submit your question(s) in the thread on the message that will be posted in your class channel every friday. This is part of your homework and you have to participate on this weekly, no exceptions. If you can’t think of a question, search online for a small exercise to do together during the Q&A session.
+ 
 Examples of both good and bad questions:
 Good:		_"Do callbacks have to do with asynchronicity in our applications?"_
 Bad:		_"Can you explain again what a callback is?"_
+
+Before submitting your question, try to answer it yourself by researching online for the answer using google, [MDN](https://developer.mozilla.org/en-US/), [StackOverflow](https://stackoverflow.com/), etc. If youve spent a good half hour - 1 hours researching and looking for the answer and still cannot find the result yourself...you've found yourself a great question to ask for the Q&A session. Again, if you can’t think of a question search online for a small exercise. And if you cant find an exercise, try to come up with one yourself. If you can't fix it (or simply find it very challenging), that's a good exercise to submit to your class.
+
 * Be on time, turn your camera on, and your microphone off. If you have a poor internet connection let Tjebbe know so we can find a solution together.
-* Participate actively. Answer if a teacher has a yes/no question. These sessions are a dialoge so it's a shared responisbility to make it interactive.
-* Ask additional questions and speak up when it's not clear. (it is crucial not to wait and hope things get better with time. As the speed of our curriculum is very high, you have to take initiative and reach out to us for HELP. Again, good programmers ask for help. Those that do not ask for help, will never become good programmers.)
-* Be ready to answer questions yourself. The teacher will be active in asking YOU to explain concepts. This is not to embarrass you but to help you practice the skills you will need when working at a real company.
+* Participate actively: Answer if a teacher has a yes/no question. These sessions are a dialoge so it's a shared task to make it interactive, educational and fun.
+* Ask additional questions and speak up when something is not clear. IMPORTANT: Do not to wait with questions and hope things will get better with time. The speed of our program is very fast, so you have to take initiative and reach out to us for HELP. Again, good programmers ask for help. Those that do not ask for help, will hardly ever become good programmers.
+* Be ready to answer questions yourself. The teacher will be active in asking YOU to explain concepts. This is not to embarrass you but to help you practice the skills you will need when applying and/or working at a real company.
 
 ## 1.7 Teaching Location <a name="location"></a>
-> Note: Because of the Corona crisis, we are currently conducting all of our classes online. 
+> Note: Because of Corona, we are currently conducting all of our classes online. 
 > We will explain this in more detail during the introduction day. As a result some of the information in this section is more relevant for when we return to face-to-face classes.
 
 For our main teaching day on Sunday, we make use of the office of Backbase, one of HackYourFuture’s most important partners. The office is located at Sarphatistraat 370. We are incredibly lucky as we can use this location for free.
@@ -214,14 +217,23 @@ During class windows may be opened. However, please check after class if windows
 We often go for drinks after class. We believe that HackYourFuture is not just about learning but also about building connections, friendships and socializing. Feel free to join, the first round is on us :) We usually go for drinks at Crea or Kriterion, two nearby cafes. Note: do make sure to take care of your belongings (backpack and coat). In the past we have had one case of theft.
 
 ## 1.8 Three Strike Policy <a name="strike"></a>
-We maintain a simple 3 strike policy. You get 1 strike in the following situations:
+At HackYourFuture we have a 3-strike policy. This means that you get 1 strike in the following situations:
+
 - You are not present in the lecture without proper communication and valid reason 
 - You do not hand in the homework in time without proper communication and valid reason
 - You do not implement feedback on your homework without proper communication and valid reason
-- You do not submit a question in time for the Question & Answer session on Sunday
-- You do not follow any additional instructions we ask you to follow (e.g. showing up for a practice interview, update your CV/Linkedin, etc.)
+- You do not submit a question in time for the Q&A session on Sunday
+- You do not take part on additional activities which were planned and communicated in advance without proper communication and valid reason
 
-Once you have 3 strikes, we will re-evaluate your participation in HYF.
+This automated 3-strike policy helps us keep track of what's happening with the 40-60 students we have in the program at all times. They have proven to be a good indication of students commitment, communication style and overall approach to the program. They represent an indication of when we need to have a conversation to make clear that changes in the way we work together need to happen. Once you have 3 strikes, we will re-evaluate your participation in HYF.
+
+While this might sound 'rough' in a way, we suggest you think about it this way:
+
+- If you agree to participate in a meeting at work and do not show up, it won't be appreciated.
+- If you do not stick to deadlines, your company and colleagues might get in trouble, and that won't be appreciated.
+- If you do not communicate well with your colleagues, mentors, managers, bosses or team-leaders, that also won't be appreciated.
+
+In short: Treat HackYourFuture as a job (and not a hobby) and you won't have to worry about the 3-strike policy. Last but not least, when you graduate from our program with no strikes (or at least less than 3) we have some indication of you being a reliable person and that your team (or company) can count on. Simple :)
 
 ## 1.9 Start your career <a name="career"></a>
 After graduation, it is time to find an internship. This internship almost always leads to a paid job. HackYourFuture will do its best to find suitable companies for you, as we have an extensive network of partner companies. However, finding work will depend also on your efforts:
@@ -238,17 +250,17 @@ One of the biggest risks to starting your career is to stop coding after graduat
 4. Remember the Education Fee!
 When a company hires one of our gradyates, we ask for an education fee. This fee, helps us fund the next class of students. Once a company hires you, we ask them for 350 euros per month during the internship time, and 3000 euros minus the fees paid for the internship once thy hire you for a full-time job. This fee is never more than 3000 total and it does not come out of your pay. Think of this as a recruiting fee paid by the company + a way for having those companies supporting our mission of helping people like you start a career in tech. It might happen that you find a job by yourself at a company that is not partnering yet with HackYourFuture. If that is the case, we still ask you to Remember about the Education Fee and to connect with HYF's partnership manager as early as possible in the hiring process to best inform the company about that.
 
-IMPORTANT: Once you graduate, connect with HackYourFuture's partnership manager to have a personalised plan to get an internship as soon as possible!
+IMPORTANT: HackYourFuture's partnership manager will make a personalised plan to help you find an internship as soon as possible! If you are close to graduation and havent heard from him/her yet, reach out to them on slack!
 
 ## 1.10 Paying it forward <a name="donations"></a>
 
-As mentioned, HackYourFuture is a not-for-profit organisation. Our program costs around EUR11.000 per graduate that finds a job, yet is free of charge for our students.  Currently we receive most of our revenues from donations (70%) from large foundations like the ING Netherlands Fund, Stichting Doen and the Oranje Fonds. The rest of our revenues we receive through an education fee we ask to companies that hire our graduates.
+Being a not-for-profit organisation, we currently receive most of our revenues from donations (70%) from large foundations like the ING Netherlands Fund, Stichting Doen and the Oranje Fonds. The rest of our budget is covered through an education fee we ask to companies that hire our graduates.
 
-In the coming years we have to find a business model in which we are less reliant on foundations as their funding is temporary. We are currently exploring partnerships with companies for donations. We are also exploring an alumni donation scheme. Students who graduate and find a job can donate (voluntarily) a monthly amount to make sure the next generation of students is being trained. Please contact us if you are interested.
+In the coming years we have to find a business model in which we are less reliant on foundations as their funding is temporary. We are currently exploring partnerships with companies for donations. We are also exploring an alumni donation scheme. Students who graduate and find a job can donate (voluntarily) a monthly amount to make sure the next generation of students is being trained. Please contact us if and when you want to know more about this.
 
 # Chapter 2: How to study programming (tips for non-programmers) <a name="study"></a>
 
-Through our years of experience guiding non-programmers into the world of programming we have gathered some common roadblocks/issues/misconceptions that we would like to inform you about so you don't run into the same thing.
+Through our years of experience guiding non-programmers into the world of coding we have gathered some common roadblocks/issues/misconceptions that we would like to inform you about so you don't run into the same thing:
 
 ## 2.1. Reading error messages <a name="error"></a>
 When programming you will deal with a lot of errors and being able to find how to solve them is the core of what a programmer do. As a beginner these error messages can seem daunting and we often see our students ignoring the information that would help them solve the problem. However, have a lot of information in them that can help you solve the actual error. Let's look at the following error message from some JavaScript code:
@@ -294,10 +306,10 @@ If you can't figure out the error yourself then it is time to search online. Whe
 Let's say even the internet cannot help you, it is then time to ask your class for help. There is a right and wrong way to ask for help though. We regularly see students send a message that looks something like this:
 
 ```
-Hi class, I get an error when running my server, anyone else ran into this problem too?
+Hi class, I get an error when running my server, anyone else ran into this problem also?
 ```
 
-This is not very helpful and will probably not get a lot of response. The reason is that there is no information which means any other students will not be able to know if the error is indeed the same. The best thing to do is to take a screenshot of or copy the error message and post it there. That way your classmates will already know if it is something they recognize. For example:
+This is not very helpful and will probably not get a lot of response. The reason is that there is no information which means any other students/mentors/teachers will not be able to know if the error is indeed the same. The best thing to do is to take a screenshot of or copy the error message and post it there. That way your classmates will already know if it is something they recognize. For example:
 
 ```
 Hi class, I get the following error when running my server for Node week 3 exercise 3:
@@ -312,7 +324,7 @@ TypeError: res.status is not a function
 ## 2.4 Code as much as possible <a name="code"></a>
 We provide a lot of reading materials/videos in the curriculum, but you will learn the most when you are coding yourself. At the start of the week we introduce you to new concepts, this will give you new ideas and tools to work with. But no video will be able to explain something in such a short time for you to get it, that will only come through practice.
 
-So treat the reading materials as a way of introducing you to new ideas, then apply those ideas to your code as much as possible. You can even copy the code the video uses and play around with it, it will make you understand it so much better than just watching others do it.
+So treat the reading materials as a way of introducing you to new concepts, then apply those concepts to your code as much as possible. You can even copy the code the video uses and play around with it. This will make you understand the concepts a lot better than simply watching others do it.
 
 ## 2.5 Minimize distractions <a name="distractions"></a>
 The goal whilst studying should be to reach a state of ‘flow’. Flow can be described as the complete immersion in an activity. By doing so, you lose your sense of space and time. There is quite some research about ‘flow’. This research shows that not only your learning curve increases significantly, also the level of joy increases. In other words, if you are fully concentrated whilst programming you feel way more satisfied as a result. 
@@ -325,19 +337,19 @@ Social media is incredibly bad for your focus and therefore it decreases your ab
 We highly recommend you: when you are studying, put your phone away and use your study time for studying only.
 Another app that can help you out: [Selfcontrol.](https://selfcontrolapp.com/) A bit of a contradiction, but it blocks the websites that distract you for the period that you want to be focussed.
 
-**Challenge number 2: Children and family**  
-Many of us are not living by ourselves. You might have children, or family members asking for attention. The challenge here is to try and create a quiet space, where you will not be interrupted. Of course, this is not always possible if you are a parent. But perhaps you can ask your partner or a friend to keep an eye on your children at least for a few hours a day, while you go to a local library, or study in a quiet room at a friend’s house. 
+**Challenge number 2: Family, friends, kids, adults, etc**  
+Many of us are not living by ourselves. You might have children, or family members asking for attention. The challenge here is to try and create a quiet space, where you will not be interrupted. Of course, this is not always possible if you are a parent. But perhaps you can ask your partner or a friend to keep an eye on your children at least for a few hours a day, while you go to a local library, or study in a quiet room at a friend’s house. Finding time to concentrate and to reach a study flow is crucial to your development as a professional. Same happens with being a good friend, a good husband/wife or father/mother. The best way to reach a balance there is to plan your time properly.
 
-If you're struggling to find that 'flow', please contact your classmentor for some extra help!
+If you're struggling to find that 'flow', please contact your classmentor for some extra help! You can also look for resources online or ask colleagues how they do it. Having a well structured week is a challenge to most, but it really helps!
 
 ## 2.6 Life happens <a name="life"></a>
-At HackYourFuture we know we expect a lot. You are learning things that many of our teachers spent 5 years studying in a fraction of that time. You will need to devote a huge part of your life to the curriculum in a usually less than ideal learning environment. Sometimes life will get in the way of this and there is no shame in admitting that you need help.
+HackYourFuture is VERY demanding. You will be learning years of content in just a fraction of that time. You will need to devote a huge part of your year to the curriculum in a (usually) less than ideal learning environment. Sometimes life will 'get in the way' of this and when that happens remember: There is no shame in admitting that you need help!
 
-We are here to assist in any way we can, please let your class mentor know as soon as things get too much or something happens that will mean you won't be able to put in the time and/or effort that is needed. There are many ways we can help you out, either by providing some extra support from a mentor or from a life coach or by giving you a break. We want you to succeed and letting us know what is going on beforehand will always work out better for all of us. We are working towards the same goal!
+We are here to support you in any way we can. Please let your class mentor know as soon as things get too challenging for you or something happens that will mean you won't be able to put in the time and/or effort that is required for you to keep up. There are many ways we can help you out, either by providing some extra support from a one-on-one mentor or from a life coach or by giving you a break. WE WANT YOU TO SUCCEED and letting us know what is going on beforehand will always work out better for all of us. Do not forget that we are in this together!
 
 # Final thoughts <a name="thoughts"></a>
 
-As of March 2021, over 180 students graduated from our program. Over 85% are working in the IT sector, within three months after graduation. In other words, HackYourFuture works. 
+As of May 2021, over 180 students graduated from our program. Over 85% are working in the IT sector, within three months after graduation. In other words, HackYourFuture works. 
 
 However, throughout your HYF course and your career as a programmer, you will control your own fate. 
 
