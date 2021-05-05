@@ -1,6 +1,20 @@
 
+# Welcome to our program!
+
+On average, we receive 100-200 applications for every new class. Therefore, to be accepted into HackYourFuture is a big accomplishment. So congratulations!
+
+You are now a member of a large community. 180+ students have graduated from HackYourFuture and more than 85% find a job as a professional web developer or software tester. However, our course will be challenging. For the next 7 months there will be moments in which you might want to give up...If that happens, it is important to remember that you are not the first to go through this! Many of our students, who are now in professional jobs, found the program difficult and have at some point thought about quitting the course but they pushed through! Based on their experiences, we compiled this guide to share with you the lessons learned throughout the more than 30 classes that went through the program before you.
+
+This guide consists of 3 chapters. In chapter 0 we lay out the foundation of the HYF organisation. In the second chapter, we provide a summary of our program. The final chapter focusses on what you can do to get through the course. 
+
+Like you, this document is always improving. If you feel something is missing or might be improved, please let us know and we might add your suggestion.
+
+Good luck on your journey! 
+
+The HackYourFuture team
+
+
 # Table of Contents
-* [Introduction](#introduction)
 * [Chapter 0: The Organization](#HYF)
 * [Chapter 1: Course Overview](#course)
    * [1.1 Curriculum](#curriculum)
@@ -22,25 +36,6 @@
    * [2.6 Life happens](#life)
 * [Final thoughts](#thoughts)	
 
-
-# Introduction <a name="introduction"></a>
-
-Dear new student of HackYourFuture, 
-
-Welcome to our program!
-
-On average, we receive 100-200 applications for every new class. Therefore, to be accepted into HackYourFuture is a big accomplishment. 
-You are now a member of a large community. 180+ students have graduated from HackYourFuture and more than 85% find a job as a professional web developer or software tester.
-
-However, our course will be challenging. For the next 7 months there will be moments in which you might want to give up. It is important to remember that you are not the first to go through this. Many of our students, who are now in professional jobs, have at some point thought about quitting our course. Based on their experiences we compiled this guide to share the lessons learned: How do you make sure to be successful in HackYourFuture?
-
-This guide consists of 3 chapters. In chapter 0 we lay out the foundation of the HYF organisation. In the second chapter, we provide a summary of our program. The final chapter focusses on what you can do to get through the course. 
-
-Like you, this document is always improving. If you feel something is missing or might be improved, please let us know and we might add your suggestion.
-
-Good luck on your journey! 
-
-The HackYourFuture team
 
 # Chapter 0: The Organization <a name="HYF"></a>
 
