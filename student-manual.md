@@ -80,7 +80,7 @@ In short, as long as you have drive and work hard, we will be there next to you 
 ![alt text](https://github.com/HackYourFuture/curriculum/blob/master/assets/issue.png)
 
 ## 1.2 Weekly program <a name="weekly"></a>
-It is important to plan your week ahead of time, in order to work and study effectively (see also chapter 3: Study Strategies). In summary your study week for HackYourFuture is as follows:
+To succesfully follow the program, you will have to stick to a schedule and manage your time well. During the week you will have lectures, materials to read, homework, and even sometimes additional sessions (like career trainings), tests and interviews. It is important to plan your week ahead of time in order to work and study effectively (see also chapter 3: Study Strategies). In summary your study week for HackYourFuture is as follows:
 
 |Day               | Activity                                                                         |
 |------------------|----------------------------------------------------------------------------------|
@@ -89,19 +89,21 @@ It is important to plan your week ahead of time, in order to work and study effe
 |Sunday            |Q&A Session 12-3pm (usually ends earlier)                                         |
 |Monday-Tuesday    |Finish homework (deadline Tuesday 23:59) + Implement feedback on previous homework|
 
-The video lectures are included in the curriculum on GutHub. (you can also find them on our [YouTube channel](https://www.youtube.com/channel/UCkK246iKcOAvsL0SI_6n3eA)). In these lectures, one of our teachers explains the core concepts of this week and provides you  examples and exercises.
+The additional sessions, tests and interviews will be planned with enough time in advance so you can fit them in your schedule.
 
-You are also asked to do the homework assignments and readings (see next section). On Tuesday you have to submit your homework and on Saturday at least one question before the Question and Answer (Q&A) session on Sunday. The Q&A session is an online meeting where the teacher will answer your questions, so please come prepared! He/she might also ask you questions. Submitting homework and Q&A’s are mandatory! 
+The video lectures are included in the curriculum on GitHub. (you can also find them on our [YouTube channel](https://www.youtube.com/channel/UCkK246iKcOAvsL0SI_6n3eA)). In these lectures, one of our teachers explains the core concepts of this week and provides you  examples and exercises.
 
-Currently, due to Corona all of our education is online. In the near future we hope to go back to face-to-face classes on Sunday.
+You are also asked to do the homework assignments and readings practically every week (see next section). On Tuesday you will have to submit your homework and on Saturdays at least one question before the Question and Answer (Q&A) session on Sunday. The Q&A session is an online meeting where the teacher will answer your questions, so please come prepared! He/she might also ask YOU questions. Submitting homework and Q&A’s are mandatory! 
+
+Currently, due to Corona all of our education is online. In the near future we hope to go back to face-to-face classes, but is not clear yet when that will happen.
 
 ## 1.3 Homework <a name="homework"></a>
-As mentioned, our complete curriculum can be found on Github. The modules are ordered sequentially. The homework can be found in the module repository. For example, if you click on [HTML-CSS](https://github.com/HackYourFuture/HTML-CSS) you’ll be taken to the document that has all the information about that particular module. If you scroll down you’ll see a table with a column Homework.
+As mentioned before, our complete curriculum can be found on Github. Each modules is ordered sequentially. The homework can be found in the module repository. For example, if you click on [HTML-CSS](https://github.com/HackYourFuture/HTML-CSS) you’ll be taken to the document that has all the information about that particular module. If you scroll down you’ll see a table with a column Homework.
 ![alt text](https://github.com/HackYourFuture/curriculum/blob/master/assets/html:css-table.png)
 
-After the first couple of weeks, Github will also be where you will publish your homework. In the beginning you might struggle to use Github. But there is a reason we use it: It is the number 1 platform for programmers! In order to become a good programmer, you will have to understand how Github works. You will notice that after a few weeks, finding the right homework assignments and reading, as well as publishing your homework on Github, will become automatic. 
+After the first couple of weeks, Github will also be where you will publish your homework. GitHub can be challengin to use at first, but there is a reason we use it: It is the number 1 platform for programmers! In order to become a good programmer, you will have to understand how Github works and become a master at it. You will notice that after a few weeks, finding the right homework assignments and reading, as well as publishing your homework on Github will become automatic. 
 
-Most weeks you will have homework assignments and we expect you to finish them before Wednesday. Not handing in homework without proper communication will not be tolerated (see also our values and our 3 strike policy).
+Homework assignments will be part of your study for practically every week and it is expected that you finish them on time. Again, think about HackYourFuture as a job and not a hobbie. Not handing in your assignents on time without proper reason and communication will not be accepted (see also our values and our 3 strike policy). During HYF we not only look at your technical skills, but we also want to see that you are a reliable person that works hard, delivers on time and communicates accordingly. While you might find a job without these skills, it will be hard to keep that job. And that is why we are strict with the way we work. Not less important, the homeworks and assignments are specifically designed to be sure you have the required skills at the end of each module! 
 
 ### 1.3.1 Review process
 All of your homework will be reviewed by one of our mentors in a very similar way code reviews happen in any company you are going to work at. The homework pull requests you create every week will go through the following process:
