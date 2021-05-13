@@ -7,7 +7,7 @@
 
 ## Overview
 
-The HackYourFuture curriculum consists of 8 modules, spread over 7 months. Each module has a duration of 3 weeks, with the exception of [JavaScript](https://www.github.com/hackyourfuture/javascript) (4 weeks), [React](https://www.github.com/hackyourfuture/react) (5 weeks) and [Project](https://www.github.com/hackyourfuture/project) (7 weeks).
+The HackYourFuture curriculum consists of 8 modules, spread over 7 months. Each module has a duration of 3 weeks, with the exception of [JavaScript](https://www.github.com/hackyourfuture/javascript) (4 weeks), [React](https://www.github.com/hackyourfuture/react) (4 weeks) and [Project](https://www.github.com/hackyourfuture/project) (7 weeks).
 
 In the following diagram you'll find the sequence of all the modules included:
 
@@ -177,19 +177,18 @@ In this module you will get familiar with the complexity of storing data. By the
 
 ![React.js](./assets/react.png)
 
-In these 5 weeks we will go back to the frontend and learn how to make faster, more modern user interfaces. You'll become more familiar with a frontend technology called [React.js](https://reactjs.org/), a JavaScript library written and maintained by Facebook.
+In these 4 weeks we will go back to the frontend and learn how to make faster, more modern user interfaces. You'll become more familiar with a frontend technology called [React.js](https://reactjs.org/), a JavaScript library written and maintained by Facebook.
 
 It is mainly used to create dynamic user interfaces, changing the data a user sees depending on their input.
 
 In this module you'll learn about how to think about web pages in a radically different way: instead of making separate pages, you'll be making components of pages. Instead of hardcoded content, you'll make structures that can hold different data.
-
-| Week | Topics                                          | Reading Materials                                                                  | Homework                                                                           | Lesson Plans                                                                              |
-| ---- | ----------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| 1.   | What is React, JSX, Props, Deploy a static site | [Readings W1](https://github.com/HackYourFuture/React/blob/master/week1/README.md) | [Homework W1](https://github.com/HackYourFuture/React/blob/master/week1/MAKEME.md) | [Lesson Plan W1](https://github.com/HackYourFuture/React/blob/master/week1/LESSONPLAN.md) |
-| 2.   | State I, Hooks I, API calls, Forms              | [Readings W2](https://github.com/HackYourFuture/React/blob/master/week2/README.md) | [Homework W2](https://github.com/HackYourFuture/React/blob/master/week2/MAKEME.md) | [Lesson Plan W2](https://github.com/HackYourFuture/React/blob/master/week2/LESSONPLAN.md) |
-| 3.   | State II, Hooks II, Third party components      | [Readings W3](https://github.com/HackYourFuture/React/blob/master/week3/README.md) | [Homework W3](https://github.com/HackYourFuture/React/blob/master/week3/MAKEME.md) | [Lesson Plan W3](https://github.com/HackYourFuture/React/blob/master/week3/LESSONPLAN.md) |
-| 4.   | Context, Client-side routing                    | [Readings W4](https://github.com/HackYourFuture/React/blob/master/week4/README.md) | [Homework W4](https://github.com/HackYourFuture/React/blob/master/week4/MAKEME.md) | [Lesson Plan W4](https://github.com/HackYourFuture/React/blob/master/week4/LESSONPLAN.md) |
-| 5.   | Test                                            | [Details](https://github.com/HackYourFuture/React/blob/master/week5/test.md)       | -                                                                                  | -                                                                                         |
+                                                               | -                                                                                         |
+| Week | Topics                                          | Reading Materials                | Homework                         |
+| ---- | ----------------------------------------------- | -------------------------------- | -------------------------------- | 
+| 1.   | What is React, JSX, State & Props, Deploy a static site | [Readings W1](https://github.com/HackYourFuture/React/blob/master/week1/README.md) | [Homework W1](https://github.com/HackYourFuture/React/blob/master/week1/MAKEME.md) | 
+| 2.   | API calls, Context            | [Readings W2](https://github.com/HackYourFuture/React/blob/master/week2/README.md) | [Homework W2](https://github.com/HackYourFuture/React/blob/master/week2/MAKEME.md) |
+| 3.   | Client-side routing, Custom hooks      | [Readings W3](https://github.com/HackYourFuture/React/blob/master/week3/README.md) | [Homework W3](https://github.com/HackYourFuture/React/blob/master/week3/MAKEME.md) | 
+| 4.   | Project!                   | [Readings W4](https://github.com/HackYourFuture/React/blob/master/week4/README.md) |  |  
 
 ### **Module goals**
 
