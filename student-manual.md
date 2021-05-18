@@ -23,10 +23,9 @@ The HackYourFuture team
    * [1.4 Tests](#tests)
    * [1.5 Teachers](#teachers)
    * [1.6 Q&A sessions](#sessions)
-   * [1.7 Teaching Location](#location)
-   * [1.8 Three Strike Policy](#strike)
-   * [1.9 Start your career](#career)
-   * [1.10 Paying it Forward](#donations)
+   * [1.7 Three Strike Policy](#strike)
+   * [1.8 Start your career](#career)
+   * [1.9 Paying it Forward](#donations)
 * [Chapter 2: How to study programming (tips for non-programmers)](#study)
    * [2.1 Reading error messages](#error)
    * [2.2 Finding solutions online](#solution)
@@ -43,7 +42,7 @@ HackYourFuture was founded in 2016. We saw many talented people coming to the Ne
 
 HYF is a foundation, which means we do not make profits. However, we do make costs of course. Our program costs around EUR10000 per graduate that finds a job, yet the education is free. How do we do this? Currently, we receive most of our revenues from donations (60%) from large foundations like the ING Netherlands Fund, Stichting Doen and the Oranje Fonds. We also receive donations from companies and individuals (mostly former students). The rest of our revenues we receive through an education fee we ask to companies that hire our graduates.
 
-One of the main strengths of our organisation is that we rely heavily on the contribution of our volunteers, all professional software developers and testers, that help to correct homework, teach classes and guide you through the program. Some of our graduates are now teaching at HackYourFuture! Currently, we have 4 paid employees on the payroll and together they form the 'core-team' of HYF. They keep the program running, update the curriculum, promote the organisation to find jobs and funding and are there to support you at every step of the way.
+One of the main strengths of our organisation is that we rely heavily on the contribution of our teachers, all professional software developers and testers, that help to correct homework, teach classes and guide you through the program. Some of our graduates are now teaching at HackYourFuture! Currently, we have 4 paid employees on the payroll and together they form the 'core-team' of HYF. They keep the program running, update the curriculum, promote the organisation to find jobs and funding and are there to support you at every step of the way.
 
 [This RePo](https://github.com/HackYourFuture/culture) lays out our core values. These core values are leading for all of us involved in HackYourFuture: staff, alumni, students and teachers. They are leading in how we learn and teach and interact with each other. Please read them carefully. 
 
@@ -65,7 +64,7 @@ In order for this to be turned into reality, you will have to work very hard. In
 ## 1.1 Curriculum <a name="curriculum"></a>
 The 7 months are divided into different modules, each building on the one before. Here’s the [overview](https://github.com/HackYourFuture/curriculum).
 
-However, there is no time to rest after graduation because the next challenge will be to find an internship (see also section 1.7). After you graduate it might take some time before you actually find an opportunity, around 0 - 3 months (depending on different factors which youll hear more about on your first career training). That is why we have developed the [Post-Graduation Package](https://github.com/hackyourfuture/post-grad-ed), a set of additional resources and technical projects that will help you improve your skills, enrich your portfolio and thus increase your chances of finding an internship.
+However, there is no time to rest after graduation because the next challenge will be to find an internship (see also section 1.8). After you graduate it might take some time before you actually find an opportunity, around 0 - 3 months (depending on different factors which youll hear more about on your first career training). That is why we have developed the [Post-Graduation Package](https://github.com/hackyourfuture/post-grad-ed), a set of additional resources and technical projects that will help you improve your skills, enrich your portfolio and thus increase your chances of finding an internship.
 
 In short, as long as you have drive and work hard, we will be there next to you to help you gain the skills you need to start your tech career!
 
@@ -106,18 +105,18 @@ After the first couple of weeks, Github will also be where you will publish your
 Homework assignments will be part of the curriculum practically every week and it is expected that you finish it (and hand it in) on time. As you might have read in our culture page, you should think about HackYourFuture as a job and not a hobbie. Not handing in your assignents on time without proper reason and communication will not be accepted (see also our values and our 3 strike policy). During HYF we not only look at your technical skills, but we also want to see that you are a reliable person that works hard, delivers on time and communicates accordingly. While you might find a job without these skills, it will be hard to keep that job. And that is why we are strict with the way we work. Not less important, the homeworks and assignments are specifically designed to be sure you have the required skills at the end of each module! 
 
 ### 1.3.1 Review process
-All of your homework will be reviewed by one of our mentors in a very similar way code reviews happen in any company you are going to work at. The homework pull requests you create every week will go through the following process:
+All of your homework will be reviewed by one of our teachers in a very similar way code reviews happen in any company you are going to work at. The homework pull requests you create every week will go through the following process:
 
 1. Initially the `Needs review` label is set.
-2. When the mentor starts reviewing, the label `Review in progress` is added.
-3. Once they are done the mentor decides if the homework is good enough or some work is still needed. If the homework is good enough, the issue will receive the `Approved` label. If not, the label `Reviewed with feedback` will be set.
+2. When the teacher starts reviewing, the label `Review in progress` is added.
+3. Once they are done the teacher decides if the homework is good enough or some work is still needed. If the homework is good enough, the issue will receive the `Approved` label. If not, the label `Reviewed with feedback` will be set.
 4. The student looks at the feedback and corrects their homework. Once finished, the label `Needs review` is set again. We then go back to step 2.
 
-So if an issue is assigned to a student with the `Reviewed with feedback` label, that means you still needs to work on it. If an issue has the label `Needs review` it means it is for the mentor to look at. In the end all issues should get the `Approved` label! 
+So if an issue is assigned to a student with the `Reviewed with feedback` label, that means you still needs to work on it. If an issue has the label `Needs review` it means it is for the teacher to look at. In the end all issues should get the `Approved` label! 
 
-It is the student's responsibility to make sure the pull request gets to the `Approved` state so make fixing the feedback given by the mentor your top priority when you get it! Submitting your homework, getting feedback and implementing that feedback in a timely manner is a similar process to the on you will encounter when working. It is important that you answer to your mentor messages on your homework just like if you would with an actual colleague. Keep in mind that the mentor puts a ton of effort to help you out, so be sure to thank them and react on time! Small things like that go a long way!
+It is the student's responsibility to make sure the pull request gets to the `Approved` state so make fixing the feedback given by the teacher your top priority when you get it! Submitting your homework, getting feedback and implementing that feedback in a timely manner is a similar process to the on you will encounter when working. It is important that you answer to your teacher messages on your homework just like if you would with an actual colleague. Keep in mind that the teacher puts a ton of effort to help you out, so be sure to thank them and react on time! Small things like that go a long way!
 
-It could happen  at times that it takes a little longer than ideal for our mentors to pick up the homework and give you feedback (they do have full time jobs after all), but if there is no review yet on the Q&A day then please contact your class mentor so they can see if someone else is available to review it. Again, feedback is crucial for you to learn the right way.
+It could happen  at times that it takes a little longer than ideal for our teachers to pick up the homework and give you feedback (they do have full time jobs after all), but if there is no review yet on the Q&A day then please contact your class mentor so they can see if someone else is available to review it. Again, feedback is crucial for you to learn the right way.
 
 **INTERESTING FACT:** When you apply to internships/jobs further down the line companies expect to see a link to your GitHub there to see your projects, your code, etc. Keeping an organised GitHub (and collaborating with other well in the platform by answering to feedback, thanking for contributions, etc) will always create a good impression about the way you work.
 
@@ -137,14 +136,14 @@ If we (or your teacher) notices that you copied code without applying the rules 
 Last but not least, when you copy code you dont understand, you might feel things are going great when in fact they are not. Is a lot better to accept you are struggling or having a hard time with the task at hand and ask for help. A great programmer is not that one that knows every solution. Sometimes the best programmer is that one that knows how to look for solutions by himself and if after some time he doesnt find the solution, he asks for support. Your mentor, teachers, colleagues and the core-team is here to help you. Use that to your advantage.
 
 ## 1.4 Tests <a name="tests"></a>
-At HackYourFuture the material is mostly self-study and our lectures are taught by many different mentors. This means that we can’t follow the progress of every student during class. But, (1.)we're interested in your progress and your level of understanding. So, We use tests. 
+At HackYourFuture the material is mostly self-study and our lectures are taught by many different teachers. This means that we can’t follow the progress of every student during class. But, (1.)we're interested in your progress and your level of understanding. So, We use tests. 
 
 Three other important reasons why we have integrated them in our curriculum are:  
 2. You have the time to go over all the concepts again and make sure you understand them well.
 3. We can indicate who needs a bit more guidance throughout the curricum and to make sure that the class is somehow at the same level.
 4. We can assure a certain level of understanding of the concepts in our curriculum to the companies we send your CVs to. 
 
-If we see one of the students does not do well in one of the modules we can pair them up with an experienced mentor for one-on-one support, offer you more time to catch up, etc. It all depends on the particular case at hand and why you are falling behind.
+If we see one of the students does not do well in one of the modules we can pair them up with an experienced teacher for one-on-one support, offer you more time to catch up, etc. It all depends on the particular case at hand and why you are falling behind.
 
 **General rules for the tests:**
 - You can only enter the project once you have a 6 or higher for every test (except the Browsers test).
@@ -174,7 +173,7 @@ HackYourFuture is only possible because of our amazing team of teachers. Our tea
 That does not mean that you shouldn't ask questions. Make as much use of this valuable resource as you can! Our teachers are the happiest when the classes are lively, interactive and the students get into discussions about code and programming concepts. Having these weekly chances to ask anything you are struggling with (or that you simply want to know more about) and the chance to have different teachers from different walks of life and with different approaches and expertise are some of the things that make our program (in our opinion) so much richer and unique than following a course just by yourself.
 
 ## 1.6 Q&A sessions <a name="sessions"></a>
-The content of the Q&A sessions is decided by you and your class. Based on your questions, the mentor will plan his session and explain the concepts that aren’t clear yet for the class. In order to make these sessions as useful as possible we have implemented the following guidelines: 
+The content of the Q&A sessions is decided by you and your class. Based on your questions, the teacher will plan his session and explain the concepts that aren’t clear yet for the class. In order to make these sessions as useful as possible we have implemented the following guidelines: 
 
 * Submit your question(s) in the thread on the message that will be posted in your class channel every friday. This is part of your homework and you have to participate on this weekly, no exceptions. If you can’t think of a question, search online for a small exercise to do together during the Q&A session.
  
@@ -189,34 +188,8 @@ Before submitting your question, try to answer it yourself by researching online
 * Ask additional questions and speak up when something is not clear. IMPORTANT: Do not to wait with questions and hope things will get better with time. The speed of our program is very fast, so you have to take initiative and reach out to us for HELP. Again, good programmers ask for help. Those that do not ask for help, will hardly ever become good programmers.
 * Be ready to answer questions yourself. The teacher will be active in asking YOU to explain concepts. This is not to embarrass you but to help you practice the skills you will need when applying and/or working at a real company.
 
-## 1.7 Teaching Location <a name="location"></a>
-> Note: Because of Corona, we are currently conducting all of our classes online. 
-> We will explain this in more detail during the introduction day. As a result some of the information in this section is more relevant for when we return to face-to-face classes.
 
-For our main teaching day on Sunday, we make use of the office of Backbase, one of HackYourFuture’s most important partners. The office is located at Sarphatistraat 370. We are incredibly lucky as we can use this location for free.
-
-However there are few rules and regulations that are very important to take into consideration. _Failure to comply with them could lead to your dismissal from the HYF program._ 
-
-1. Door policy  
-The doors downstairs (main entrance), should be closed at **all times**. We will make sure to have someone open the door at the beginning of the day (usually from 11:30 until 12 when class starts). If you arrive later, please ask for someone to open door using the #door channel in Slack.
-
-> Slack is a communication tool we use within HackYourFuture. After the introduction day we will send you an invitation link to download the software.
-
-If you want to go outside during the break for some fresh air or to smoke, please use the door at the back of the building. You are only allowed to smoke in the designated areas. Also this door should be closed at all times! If not, the private security company will be automatically alerted and we have a lot of explaining to do.
-
-2. Chairs and tables  
-If you are borrowing chairs from outside the meeting rooms during the day, you should put them exactly where taken from. Some Backbase-employees have the height of their chairs customised and find it very difficult to find them back if they were returned somewhere else. If you are using any desk space, please make sure that any chargers or monitors used/removed are put back as they were before. Please do not use any chargers that do not belong to you unless given permission by staff members.
-
-3. Cleaning  
-Please clean up after yourself. After lunch you should clean the breadcrumbs and coffee stains. Also, clean up the floor in the bathroom. If you need to wash yourself before and/or after praying, bring a towel.
-
-4. Windows  
-During class windows may be opened. However, please check after class if windows have been closed.
-
-5. After class   
-We often go for drinks after class. We believe that HackYourFuture is not just about learning but also about building connections, friendships and socializing. Feel free to join, the first round is on us :) We usually go for drinks at Crea or Kriterion, two nearby cafes. Note: do make sure to take care of your belongings (backpack and coat). In the past we have had one case of theft.
-
-## 1.8 Three Strike Policy <a name="strike"></a>
+## 1.7 Three Strike Policy <a name="strike"></a>
 At HackYourFuture we have a 3-strike policy. This means that you get 1 strike in the following situations:
 
 - You are not present in the lecture without proper communication and valid reason 
@@ -231,11 +204,11 @@ While this might sound 'rough' in a way, we suggest you think about it this way:
 
 - If you agree to participate in a meeting at work and do not show up, it won't be appreciated.
 - If you do not stick to deadlines, your company and colleagues might get in trouble, and that won't be appreciated.
-- If you do not communicate well with your colleagues, mentors, managers, bosses or team-leaders, that also won't be appreciated.
+- If you do not communicate well with your colleagues, teachers, managers, bosses or team-leaders, that also won't be appreciated.
 
 In short: Treat HackYourFuture as a job (and not a hobby) and you won't have to worry about the 3-strike policy. Last but not least, when you graduate from our program with no strikes (or at least less than 3) we have some indication of you being a reliable person and that your team (or company) can count on. Simple :)
 
-## 1.9 Start your career <a name="career"></a>
+## 1.8 Start your career <a name="career"></a>
 After graduation, it is time to find an internship. This internship almost always leads to a paid job. HackYourFuture will do its best to find suitable companies for you, as we have an extensive network of partner companies. However, finding work will depend also on your efforts:
 
 1. Is 'Your Personal Brand' ready?
@@ -252,7 +225,7 @@ When a company hires one of our gradyates, we ask for an education fee. This fee
 
 IMPORTANT: HackYourFuture's partnership manager will make a personalised plan to help you find an internship as soon as possible! If you are close to graduation and havent heard from him/her yet, reach out to them on slack!
 
-## 1.10 Paying it forward <a name="donations"></a>
+## 1.9 Paying it forward <a name="donations"></a>
 
 Being a not-for-profit organisation, we currently receive most of our revenues from donations (70%) from large foundations like the ING Netherlands Fund, Stichting Doen and the Oranje Fonds. The rest of our budget is covered through an education fee we ask to companies that hire our graduates.
 
