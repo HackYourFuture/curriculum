@@ -146,7 +146,7 @@ Three other important reasons why we have integrated them in our curriculum are:
 If we see one of the students does not do well in one of the modules we can pair them up with an experienced teacher for one-on-one support, offer you more time to catch up, etc. It all depends on the particular case at hand and why you are falling behind.
 
 **General rules for the tests:**
-- You can only enter the project once you have a 6 or higher for every test (except the Browsers test).
+- You can only enter the project once you pass the React test.
 - Don’t share the questions and/or answers of your tests with students from your same or other classes. We also see this as fraud.
 - You are not allowed to have contact with other people during tests unless indicated otherwise. 
 
@@ -162,7 +162,7 @@ If we see one of the students does not do well in one of the modules we can pair
 |**Browsers** (Group project + individual interview)|You receive extra support during Using API’s from a mentor|You can handle yourself in a group and understand how to make basic JavaScript websites.|
 |**Using API's** (Individual project + individual interview)|Based on previous results, the HYF team will decide if it is best to take a break and rejoin the next class or if this is the end of the road at HackYourFuture.|You can handle vanilla JavaScript frontend applications for public API’s. Time to go onto the backend!|
 |**Node.js** (Video/presentation about a project)|Continue with your class, but redo the Node.js test before you start the project.|Your explanation of the project is according to our expectations!|
-|**React** (building a small React application)|Based on previous results, the HYF team will decide if it is best to take a break and rejoin the next class or if this is the end of the road at HackYourFuture.| Ready for the project!|
+|**React** (Individual project + individual interview)|Based on previous results, the HYF team will decide if it is best to take a break and rejoin the next class or if this is the end of the road at HackYourFuture.| Ready for the project!|
 |**Final Project** (Tech interview based on project)|Based on previous results, the HYF team will decide if it is best to do a fellowship or post graduation package exercise before applying to companies.|Ready for your first job!|
 
 We know that there is a life outside of HYF and that life sometimes needs extra attention so whenever a decision is made we try to take these factors into consideration. That means that consequences listed in the table above are not set in stone as we try to find what is best for the student and case at hand.
