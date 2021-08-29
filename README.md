@@ -214,12 +214,12 @@ Along with practicing your programming skills you will also be working on your c
 
 | Week # | Topic                                  |
 | ------ | -------------------------------------- |
-| 1.     | Introducing Project, Build the backend |
-| 2.     | Build the frontend                     |
-| 3.     | Bring everything together              |
-| 4.     | Presentation, Discuss Features         |
-| 5.     | Group: Working on features I           |
-| 6.     | Group: Working on features II          |
+| 1.     | Introducing Project, Create wireframes |
+| 2.     | Build features I                       |
+| 3.     | Build features II, Finalize MVP        |
+| 4.     | Build features III, Introduce SCRUM    |
+| 5.     | Build features IV, Retrospective       |
+| 6.     | Finalize application                   |
 | 7.     | Final Presentation                     |
 
 ### **Module goals**
