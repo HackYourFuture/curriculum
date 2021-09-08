@@ -175,10 +175,12 @@ That does not mean that you shouldn't ask questions. Make as much use of this va
 ## 1.6 Q&A sessions <a name="sessions"></a>
 The content of the Q&A sessions is decided by you and your class. Based on your questions, the teacher will plan his session and explain the concepts that aren’t clear yet for the class. In order to make these sessions as useful as possible we have implemented the following guidelines: 
 
-* Submit your question(s) in the thread on the message that will be posted in your class channel every friday. This is part of your homework and you have to participate on this weekly, no exceptions. If you can’t think of a question, search online for a small exercise to do together during the Q&A session.
+* Submit your question(s) in the thread on the message that will be posted in your class channel every friday. This is part of your homework and you have to participate on this weekly, no exceptions. If you can’t think of a question, search online for a small exercise to do together during the Q&A session. It is not allowed to ask a question about the homework, if the homework is unclear then that is a question for the education director.
  
 Examples of both good and bad questions:
+
 Good:		_"Do callbacks have to do with asynchronicity in our applications?"_
+
 Bad:		_"Can you explain again what a callback is?"_
 
 Before submitting your question, try to answer it yourself by researching online for the answer using google, [MDN](https://developer.mozilla.org/en-US/), [StackOverflow](https://stackoverflow.com/), etc. If youve spent a good half hour - 1 hours researching and looking for the answer and still cannot find the result yourself...you've found yourself a great question to ask for the Q&A session. Again, if you can’t think of a question search online for a small exercise. And if you cant find an exercise, try to come up with one yourself. If you can't fix it (or simply find it very challenging), that's a good exercise to submit to your class.
