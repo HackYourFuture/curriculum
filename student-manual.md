@@ -136,12 +136,12 @@ If we (or your teacher) notices that you copied code without applying the rules 
 Last but not least, when you copy code you dont understand, you might feel things are going great when in fact they are not. Is a lot better to accept you are struggling or having a hard time with the task at hand and ask for help. A great programmer is not that one that knows every solution. Sometimes the best programmer is that one that knows how to look for solutions by himself and if after some time he doesnt find the solution, he asks for support. Your mentor, teachers, colleagues and the core-team is here to help you. Use that to your advantage.
 
 ## 1.4 Tests <a name="tests"></a>
-At HackYourFuture the material is mostly self-study and our lectures are taught by many different teachers. This means that we can’t follow the progress of every student during class. But, (1.)we're interested in your progress and your level of understanding. So, We use tests. 
+At HackYourFuture the material is mostly self-study and our lectures are taught by many different teachers. This means that we can’t follow the progress of every student during class. But, we're interested in your progress and your level of understanding.
 
-Three other important reasons why we have integrated them in our curriculum are:  
-2. You have the time to go over all the concepts again and make sure you understand them well.
-3. We can indicate who needs a bit more guidance throughout the curricum and to make sure that the class is somehow at the same level.
-4. We can assure a certain level of understanding of the concepts in our curriculum to the companies we send your CVs to. 
+Three other important reasons why we have integrated them in our curriculum are: 
+1. You have the time to go over all the concepts again and make sure you understand them well.
+2. We can indicate who needs a bit more guidance throughout the curricum.
+3. We can assure a certain level of understanding of the concepts in our curriculum to the companies we send your CVs to. 
 
 If we see one of the students does not do well in one of the modules we can pair them up with an experienced teacher for one-on-one support, offer you more time to catch up, etc. It all depends on the particular case at hand and why you are falling behind.
 
@@ -154,7 +154,7 @@ If we see one of the students does not do well in one of the modules we can pair
 - The lowest grade is a 1.
 - The highest grade is a 10.
 - A 6 is sufficient (but not the best...)
-- Every grade lower than a 6 is not sufficient.
+- Every grade lower than a 6 is insufficient.
 
 |**Module** (test description)       | **Less than a 6**        | **6 or higher**   |
 |------------------|------------------ |------------------ |
@@ -163,7 +163,7 @@ If we see one of the students does not do well in one of the modules we can pair
 |**Using API's** (Individual project + individual interview)|Based on previous results, the HYF team will decide if it is best to take a break and rejoin the next class or if this is the end of the road at HackYourFuture.|You can handle vanilla JavaScript frontend applications for public API’s. Time to go onto the backend!|
 |**Node.js** (Video/presentation about a project)|Continue with your class, but redo the Node.js test before you start the project.|Your explanation of the project is according to our expectations!|
 |**React** (Individual project + individual interview)|Based on previous results, the HYF team will decide if it is best to take a break and rejoin the next class or if this is the end of the road at HackYourFuture.| Ready for the project!|
-|**Final Project** (Tech interview based on project)|Based on previous results, the HYF team will decide if it is best to do a fellowship or post graduation package exercise before applying to companies.|Ready for your first job!|
+|**Final Project** (Tech interview based on the final project as well as your [personal project](https://github.com/HackYourFuture/hyf_projects))|Based on previous results, the HYF team will decide if it is best to do a fellowship or post graduation package exercise before applying to companies.|Ready for your first job!|
 
 We know that there is a life outside of HYF and that life sometimes needs extra attention so whenever a decision is made we try to take these factors into consideration. That means that consequences listed in the table above are not set in stone as we try to find what is best for the student and case at hand.
 
