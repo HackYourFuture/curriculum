@@ -128,7 +128,7 @@ The mentor will place comments on your pull request. You have to adjust your wor
 | --- | --- |
 |Tuesday (week 1)  | Deadline for you to hand in your first version   |
 |Wednesday (week 1) - Tuesday (week 2)  | Mentor provides feedback  |
-| Wednesday (week 2) - Tuesday (week 3)  | you improve homework based on the feedback and mentor evaluates improvements   |
+| Wednesday (week 2) - Tuesday (week 3)  | You improve homework based on the feedback and mentor evaluates improvements   |
 | Wednesday (week 3) | Core-team member Homework Approval Check. At this point every PR needs to be approved. |
 
 It can happen that your mentor doesn't reply on your questions or your updated homework. Please send a reminder via slack. If that doesn't work and you're afraid you can't make the deadline, contact your class-mentor. 
