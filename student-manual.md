@@ -105,18 +105,51 @@ After the first couple of weeks, Github will also be where you will publish your
 Homework assignments will be part of the curriculum practically every week and it is expected that you finish it (and hand it in) on time. As you might have read in our culture page, you should think about HackYourFuture as a job and not a hobbie. Not handing in your assignents on time without proper reason and communication will not be accepted (see also our values and our 3 strike policy). During HYF we not only look at your technical skills, but we also want to see that you are a reliable person that works hard, delivers on time and communicates accordingly. While you might find a job without these skills, it will be hard to keep that job. And that is why we are strict with the way we work. Not less important, the homeworks and assignments are specifically designed to be sure you have the required skills at the end of each module! 
 
 ### 1.3.1 Review process
-All of your homework will be reviewed by one of our teachers in a very similar way code reviews happen in any company you are going to work at. The homework pull requests you create every week will go through the following process:
+#### before you start
+1. You get assigned a mentor at the start of the module in the slack group chat. (S)He is responsible for reviewing your work for the duration of the module.
+3. Please don't hesitate to contact Tjebbe or the class mentor if you are facing any issues. We are here to help you out!  
 
-1. Initially the `Needs review` label is set.
-2. When the teacher starts reviewing, the label `Review in progress` is added.
-3. Once they are done the teacher decides if the homework is good enough or some work is still needed. If the homework is good enough, the issue will receive the `Approved` label. If not, the label `Reviewed with feedback` will be set.
-4. The student looks at the feedback and corrects their homework. Once finished, the label `Needs review` is set again. We then go back to step 2.
+#### Review process
+Together with the mentor and other students in your group you have the freedom to decide on the way of communication. You can do video calls or get feedback via comments to the PR.
 
-So if an issue is assigned to a student with the `Reviewed with feedback` label, that means you still needs to work on it. If an issue has the label `Needs review` it means it is for the teacher to look at. In the end all issues should get the `Approved` label! 
+The mentor will start a group message on Slack and agree together on the way of communication. There, the mentor can keep the whole group informed of his/her availability and updates.
 
-It is the student's responsibility to make sure the pull request gets to the `Approved` state so make fixing the feedback given by the teacher your top priority when you get it! Submitting your homework, getting feedback and implementing that feedback in a timely manner is a similar process to the on you will encounter when working. It is important that you answer to your teacher messages on your homework just like if you would with an actual colleague. Keep in mind that the teacher puts a ton of effort to help you out, so be sure to thank them and react on time! Small things like that go a long way!
+
+##### Video calls
+If your group chooses to do video calls, there're 2 options. Individual calls or a group call. 
+
+Please write down some questions before te start of the call. During the call it is important to make notes of the feedback from the mentor, so you know what has to be adjusted afterwards. 
+
+##### Comments to the PR
+The mentor will place comments on your pull request. You have to adjust your work accordingly and reply on the feedback.
+
+##### Timeline feedback
+| Days | Activities |
+| --- | --- |
+|Tuesday (week 1)  | Deadline for you to hand in your first version   |
+|Wednesday (week 1) - Tuesday (week 2)  | Mentor provides feedback  |
+| Wednesday (week 2) - Tuesday (week 3)  | you improve homework based on the feedback and mentor evaluates improvements   |
+| Wednesday (week 3) | Core-team member Homework Approval Check. At this point every PR needs to be approved. |
+
+It can happen that your mentor doesn't reply on your questions or your updated homework. Please send a reminder via slack. If that doesn't work and you're afraid you can't make the deadline, contact your class-mentor. 
+
+##### Labels 
+It is important for the you and the core-team to have up to date info about the status of the homework. This is why the mentors use two labels on your PR.
+
+| Label | Description |
+| --- | --- |
+|no label  |not reviewed yet   |
+|Needs work   |reviewed, but you need to implement feedback  |
+|Approved   |reviewed, and your homework has been approved   |
+
+Here is an example of this in action.
+
+![labels](https://github.com/HackYourFuture/mentors/blob/main/assets/labels.png)
+
+It is your responsibility to make sure the pull request gets to the `Approved` state so make fixing the feedback given by the teacher your top priority when you get it! Submitting your homework, getting feedback and implementing that feedback in a timely manner is a similar process to the on you will encounter when working. It is important that you answer to your teacher messages on your homework just like if you would with an actual colleague. Keep in mind that the teacher puts a ton of effort to help you out, so be sure to thank them and react on time! Small things like that go a long way!
 
 It could happen  at times that it takes a little longer than ideal for our teachers to pick up the homework and give you feedback (they do have full time jobs after all), but if there is no review yet on the Q&A day then please contact your class mentor so they can see if someone else is available to review it. Again, feedback is crucial for you to learn the right way.
+
 
 **INTERESTING FACT:** When you apply to internships/jobs further down the line companies expect to see a link to your GitHub there to see your projects, your code, etc. Keeping an organised GitHub (and collaborating with other well in the platform by answering to feedback, thanking for contributions, etc) will always create a good impression about the way you work.
 
