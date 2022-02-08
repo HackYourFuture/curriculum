@@ -97,41 +97,34 @@ You are also asked to do the homework assignments and readings practically every
 Currently, due to Corona all of our education is online. In the near future we hope to go back to face-to-face classes, but is not clear yet when that will happen.
 
 ## 1.3 Homework <a name="homework"></a>
-As mentioned before, our complete curriculum can be found on Github. Each modules is ordered sequentially. The homework can be found in the module repository. For example, if you click on [HTML-CSS](https://github.com/HackYourFuture/HTML-CSS) you’ll be taken to the document that has all the information about that particular module. If you scroll down you’ll see a table with a column Homework.
+As mentioned before, our complete curriculum can be found on Github. Each modules is ordered sequentially and the homework can be found in the module repository. For example, if you click on [HTML-CSS](https://github.com/HackYourFuture/HTML-CSS) you’ll be taken to the document that has all the information about that particular module. If you scroll down you’ll see a table with a column Homework.
 ![alt text](https://github.com/HackYourFuture/curriculum/blob/master/assets/html:css-table.png)
 
 After the first couple of weeks, Github will also be where you will publish your homework. GitHub can be challengin to use at first, but there is a reason we use it: It is the number 1 platform for programmers! In order to become a good programmer, you will have to understand how Github works and become a master at it. You will notice that after a few weeks, finding the right homework assignments and reading, as well as publishing your homework on Github will become automatic. 
 
-Homework assignments will be part of the curriculum practically every week and it is expected that you finish it (and hand it in) on time. As you might have read in our culture page, you should think about HackYourFuture as a job and not a hobbie. Not handing in your assignents on time without proper reason and communication will not be accepted (see also our values and our 3 strike policy). During HYF we not only look at your technical skills, but we also want to see that you are a reliable person that works hard, delivers on time and communicates accordingly. While you might find a job without these skills, it will be hard to keep that job. And that is why we are strict with the way we work. Not less important, the homeworks and assignments are specifically designed to be sure you have the required skills at the end of each module! 
+Homework assignments will be part of the curriculum practically every week and it is expected that you finish it (and hand it in) on time. As you might have read in our culture page, you should think about HackYourFuture as a job and not a hobby. Not handing in your assignents on time without proper reason and communication will not be accepted (see also our values and our 3 strike policy). During HYF we not only look at your technical skills, but we also want to see that you are a reliable person that works hard, delivers on time and communicates accordingly. While you might find a job without these skills, it will be hard to keep that job and that is why we are strict with the way we work. Not less important, the homeworks and assignments are specifically designed to be sure you have the required skills at the end of each module!
 
 ### 1.3.1 Review process
-#### before you start
-1. You get assigned a mentor at the start of the module in the slack group chat. (S)He is responsible for reviewing your work for the duration of the module.
-3. Please don't hesitate to contact Tjebbe or the class mentor if you are facing any issues. We are here to help you out!  
+#### Quick overview
+1. You get assigned a mentor at the start of the module in the slack group chat. They are responsible for reviewing your work for the duration of the module.
+2. You are responsible for getting your code approved by your homework mentor by communicating with them.
+3. The homework needs to be approved within two weeks of the final deadline.
+4. Please don't hesitate to contact Tjebbe or the class mentor if you are facing any issues. We are here to help you out!  
 
 #### Review process
-Together with the mentor and other students in your group you have the freedom to decide on the way of communication. You can do video calls or get feedback via comments to the PR.
+Together with the homework mentor and other students in your group you have the freedom to decide on the way of communication. You can do video calls or get feedback via comments to the PR.
 
-The mentor will start a group message on Slack and agree together on the way of communication. There, the mentor can keep the whole group informed of his/her availability and updates.
-
-
-##### Video calls
-If your group chooses to do video calls, there're 2 options. Individual calls or a group call. 
-
-Please write down some questions before te start of the call. During the call it is important to make notes of the feedback from the mentor, so you know what has to be adjusted afterwards. 
-
-##### Comments to the PR
-The mentor will place comments on your pull request. You have to adjust your work accordingly and reply on the feedback.
+Please make use of your homework mentor's time by asking questions until the material is clear and the code is pristine. This is an invaluable part of being at HYF that will allow you to get the feedback you need to improve. Also be sure to thank your homework mentor for spending their free time helping you!
 
 ##### Timeline feedback
 | Days | Activities |
 | --- | --- |
 |Tuesday (week 1)  | Deadline for you to hand in your first version   |
 |Wednesday (week 1) - Tuesday (week 2)  | Mentor provides feedback  |
-| Wednesday (week 2) - Tuesday (week 3)  | You improve homework based on the feedback and mentor evaluates improvements   |
+| Wednesday (week 2) - Tuesday (week 3)  | You improve homework based on the feedback and homework mentor evaluates improvements   |
 | Wednesday (week 3) | Core-team member Homework Approval Check. At this point every PR needs to be approved. |
 
-It can happen that your mentor doesn't reply on your questions or your updated homework. Please send a reminder via slack. If that doesn't work and you're afraid you can't make the deadline, contact your class-mentor. 
+It can happen that your mentor doesn't reply on your questions or your updated homework. Give them a day or two, but if you are still stuck then please send a reminder to your homework mentor via slack. If that doesn't work and you're afraid you can't make the deadline, contact your class-mentor.
 
 ##### Labels 
 It is important for the you and the core-team to have up to date info about the status of the homework. This is why the mentors use two labels on your PR.
@@ -146,6 +139,7 @@ Here is an example of this in action.
 
 ![labels](https://github.com/HackYourFuture/mentors/blob/main/assets/labels.png)
 
+##### Responsibility
 It is your responsibility to make sure the pull request gets to the `Approved` state so make fixing the feedback given by the teacher your top priority when you get it! Submitting your homework, getting feedback and implementing that feedback in a timely manner is a similar process to the on you will encounter when working. It is important that you answer to your teacher messages on your homework just like if you would with an actual colleague. Keep in mind that the teacher puts a ton of effort to help you out, so be sure to thank them and react on time! Small things like that go a long way!
 
 It could happen  at times that it takes a little longer than ideal for our teachers to pick up the homework and give you feedback (they do have full time jobs after all), but if there is no review yet on the Q&A day then please contact your class mentor so they can see if someone else is available to review it. Again, feedback is crucial for you to learn the right way.
