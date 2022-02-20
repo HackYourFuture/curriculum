@@ -7,9 +7,7 @@
 
 ## Overview
 
-The HackYourFuture curriculum consists of 8 modules, spread over 7 months. Each module has a duration of 3 weeks, with the exception of [JavaScript](https://www.github.com/hackyourfuture/javascript) (4 weeks), [React](https://www.github.com/hackyourfuture/react) (4 weeks) and [Project](https://www.github.com/hackyourfuture/project) (7 weeks).
-
-In the following diagram you'll find the sequence of all the modules included:
+The HackYourFuture curriculum consists of 8 modules, spread over 7 months. In the following diagram you'll find the sequence of all the modules included:
 
 ![Curriculum](./assets/curriculum.png)
 
@@ -135,7 +133,6 @@ Any software application consists of at least 2 parts: a frontend, which is what
 | ---: | ----------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
 |   1. | Client-server model, HTTP & Express | [Readings W1](https://github.com/HackYourFuture/Node.js/tree/master/week1/README.md) | [Homework W1](https://github.com/HackYourFuture/Node.js/tree/master/week1/MAKEME.md) | [Lesson Plan W1](https://github.com/HackYourFuture/Node.js/tree/master/week1/LESSONPLAN.md) |
 |   2. | REST, CRUD & API                    | [Readings W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/README.md) | [Homework W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/MAKEME.md) | [Lesson Plan W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/LESSONPLAN.md) |
-|   3. | Templating engines, API calls       | [Readings W3](https://github.com/HackYourFuture/Node.js/tree/master/week3/README.md) | [Homework W3](https://github.com/HackYourFuture/Node.js/tree/master/week3/MAKEME.md) | [Lesson Plan W3](https://github.com/HackYourFuture/Node.js/tree/master/week3/LESSONPLAN.md) |
 
 ### **Module goals**
 
