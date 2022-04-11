@@ -328,6 +328,16 @@ We provide a lot of reading materials/videos in the curriculum, but you will lea
 
 So treat the reading materials as a way of introducing you to new concepts, then apply those concepts to your code as much as possible. You can even copy the code the video uses and play around with it. This will make you understand the concepts a lot better than simply watching others do it.
 
+### 2.4.1 Coding tutorials
+A very common type of video you find online about programming are coding tutorials. This is where someone spends quite a bit of time creating a full website or web application in a certain stack. These are very variable and we do encourage you to try those out, but we also want to warn you of a couple of pitfalls that come when focusing on following these coding tutorials.
+
+When coding along and getting to the end product it is easy to convince yourself that you can do the same thing easily. After all, it works and whenever the code got explained it made a lot of sense. But this is not true, what you have done is copied over code from someone else that already has taken away all of the thinking and debugging away from you. This doesn't mean that coding tutorials are useless, they give you a great way to see the big picture plus provides a nice codebase for experimenting. Which brings us to this [article](https://www.freecodecamp.org/news/how-to-learn-from-coding-tutorials-and-avoid-tutorial-hell/) which explains this phenomenon and tells you how to use coding tutorials to your advantage. The most important things:
+
+- Try to solve things yourself before watching the solution! For example, when the video says that they will now 'add a class to center the image on the page', pause the video and try to do it yourself first. Once you have either given up or got a solution, unpause the video and see how the tutorial does it.
+- Once everything is done, break the project! Change lines of code and see what the effect is, this will give you an idea of why certain choices were made and allow you to start recognising errors faster.
+
+Remember, your time is valuable so make good use of it!
+
 ## 2.5 Minimize distractions <a name="distractions"></a>
 The goal whilst studying should be to reach a state of ‘flow’. Flow can be described as the complete immersion in an activity. By doing so, you lose your sense of space and time. There is quite some research about ‘flow’. This research shows that not only your learning curve increases significantly, also the level of joy increases. In other words, if you are fully concentrated whilst programming you feel way more satisfied as a result. 
 
