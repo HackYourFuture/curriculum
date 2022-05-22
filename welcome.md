@@ -1,23 +1,23 @@
-# Welcome to HackYourFuture!
+# Bem-vindo ao HackYourFuture!
 
 ![IntroVideo](./assets/intovideo.gif)
 
-Congratulations for being accepted into our program! You should be proud of yourself. We are!
+Parabéns por ser aceito em nosso programa! Você deve estar orgulhoso de si mesmo. Nós somos!
 
-HackYourFuture is completely aimed at making you into a professional web-developer. With a team of more than 60 professional mentors, who are all web-developers, we will teach you everything you need to know about web-development. During our course you will be building your own website, learn how to work in a team, and you will get additional support from other professionals to prepare you for the Dutch labor market. Around 30 classes have already graduated, and over 150 people have already found work or internships at great companies like Ebay, Accenture and KLM.
+HackYourFuture é totalmente destinado a torná-lo um desenvolvedor web profissional. Com uma equipe de mais de 60 mentores profissionais, todos desenvolvedores web, ensinaremos tudo o que você precisa saber sobre desenvolvimento web. Durante nosso curso, você construirá seu próprio site, aprenderá a trabalhar em equipe e receberá suporte adicional de outros profissionais para prepará-lo para o mercado de trabalho holandês. Cerca de 30 turmas já se formaram e mais de 150 pessoas já encontraram trabalho ou estágios em grandes empresas como Ebay, Accenture e KLM.
 
-## A few important things:
+## Algumas coisas importantes:
 
-- Be sure to check your email for the date, time and important details for the introduction session and your starting day.
-- Please read our (complete) student manual to be better prepared. You can find the manual [here](https://github.com/HackYourFuture/curriculum/blob/master/student-manual.md).
-- Take a quick look at our curriculum already. Get familiar with it's structure and content. You can find it [here](http://www.github.com/hackyourfuture/curriculum).
-- Read about HackYourFuture's culture [here](https://github.com/HackYourFuture/culture).
-- It is very likely that most of our activities will have to be conducted online due to the Corona crisis. However, since March 2020 we have been testing and fine tuning our online classes and we are quite confident we will provide you with a high quality education experience.
-- If you do not have a good working laptop, we can provide you with one that you can use as long as you are a student within our program. Please contact Tjebbe in case you need one (you can find his e-mail in the cc of the e-mail you received).
-- ***Important!*** Read and sign the [code of conduct](https://drive.google.com/file/d/1sg2IYE34NWqEG8VN6vLXwcIMLUZ94Fke/view?usp=sharing) and and submit it digitally [here](https://hackyourfuture.typeform.com/to/bFTU8xv2). To do so, you will have to download [this PDF document](https://drive.google.com/file/d/1sg2IYE34NWqEG8VN6vLXwcIMLUZ94Fke/view?usp=sharing), add your details and signature on the bottom of the document and upload the file [here](https://hackyourfuture.typeform.com/to/bFTU8xv2). For signing PDF documents online, we suggest you use [DocuSign](https://www.docusign.com/), a free, online application to sign documents. It is your responsibility to hand in this (through the [typeform provided](https://hackyourfuture.typeform.com/to/bFTU8xv2)) before the first class.
+- Certifique-se de verificar seu e-mail para a data, hora e detalhes importantes para a sessão de apresentação e seu dia de início.
+- Por favor, leia nosso manual do aluno (completo) para estar melhor preparado. Você pode encontrar o manual [aqui](https://github.com/HackYourFuture/curriculum/blob/master/student-manual.md).
+- Dê uma olhada rápida em nosso currículo já. Familiarize-se com sua estrutura e conteúdo. Você pode encontrá-lo [aqui](http://www.github.com/hackyourfuture/curriculum).
+- Leia sobre a cultura do HackYourFuture [aqui](https://github.com/HackYourFuture/culture).
+- É muito provável que a maioria de nossas atividades tenha que ser realizada online devido à crise do Corona. No entanto, desde março de 2020, estamos testando e aprimorando nossas aulas on-line e estamos bastante confiantes de que forneceremos uma experiência educacional de alta qualidade.
+- Se você não tiver um laptop que funcione bem, podemos fornecer um que você pode usar enquanto for estudante do nosso programa. Entre em contato com Tjebbe caso precise de um (você pode encontrar o e-mail dele no cc do e-mail que você recebeu).
+- ***Importante!*** Leia e assine o [código de conduta](https://drive.google.com/file/d/1sg2IYE34NWqEG8VN6vLXwcIMLUZ94Fke/view?usp=sharing) e envie-o digitalmente [aqui]( https://hackyourfuture.typeform.com/to/bFTU8xv2). Para isso, você terá que baixar [este documento PDF](https://drive.google.com/file/d/1sg2IYE34NWqEG8VN6vLXwcIMLUZ94Fke/view?usp=sharing), adicionar seus dados e assinatura na parte inferior do documento e carregue o arquivo [aqui](https://hackyourfuture.typeform.com/to/bFTU8xv2). Para assinar documentos PDF online, sugerimos que você use o [DocuSign](https://www.docusign.com/), um aplicativo online gratuito para assinar documentos. É sua responsabilidade entregar isso (através do [typeform fornecido](https://hackyourfuture.typeform.com/to/bFTU8xv2)) antes da primeira aula.
 
-Looking forward to meet you all (virtually and in person), and please let us know if you have any questions!
+Ansioso para conhecer todos vocês (virtualmente e pessoalmente), e por favor, deixe-nos saber se você tiver alguma dúvida!
 
-Warm regards,
+Atenciosamente,
 
-The HYF team
+A equipe HIF
