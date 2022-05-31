@@ -36,9 +36,8 @@ You'll also be learning [GIT](https://www.github.com/hackyourfuture/git), softwa
 In the following table you can find the module material, week-by-week:
 
 | Week | Topic                                                  | Reading Materials                                                                         | Homework                                                                              | 
-
 | ---- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | 
-| 0.   | Quick Start!                                           | [W0 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week0) | -                                                                                     | -                                                                                            |
+| 0.   | Quick Start!                                           | [W0 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week0)                | -                                                                                     |                                                                                           |
 | 1.   | Command Line Interface basics, HTML/CSS syntax         | [W1 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master//Week1/README.md)     | [W1 Homework](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week1/MAKEME.md) | 
 | 2.   | Introduction to GIT, Responsive design                 | [W2 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master//Week2/README.md)     | [W2 Homework](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/MAKEME.md) | 
 | 3.   | GIT branches, CSS frameworks, Working with the browser | [W3 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master//Week3/README.md)     | [W3 Homework](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week3/MAKEME.md) | 
