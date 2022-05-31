@@ -35,12 +35,13 @@ You'll also be learning [GIT](https://www.github.com/hackyourfuture/git), softwa
 
 In the following table you can find the module material, week-by-week:
 
-| Week | Topic                                                  | Reading Materials                                                                         | Homework                                                                              | Lesson Plan                                                                                  |
-| ---- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Week | Topic                                                  | Reading Materials                                                                         | Homework                                                                              | 
+
+| ---- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | 
 | 0.   | Quick Start!                                           | [W0 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week0) | -                                                                                     | -                                                                                            |
-| 1.   | Command Line Interface basics, HTML/CSS syntax         | [W1 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master//Week1/README.md)     | [W1 Homework](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week1/MAKEME.md) | [W1 Lesson Plan](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week1/LESSONPLAN.md) | 
-| 2.   | Introduction to GIT, Responsive design                 | [W2 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master//Week2/README.md)     | [W2 Homework](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/MAKEME.md) | [W2 Lesson Plan](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/LESSONPLAN.md) |
-| 3.   | GIT branches, CSS frameworks, Working with the browser | [W3 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master//Week3/README.md)     | [W3 Homework](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week3/MAKEME.md) | [W3 Lesson Plan](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week3/LESSONPLAN.md) |
+| 1.   | Command Line Interface basics, HTML/CSS syntax         | [W1 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master//Week1/README.md)     | [W1 Homework](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week1/MAKEME.md) | 
+| 2.   | Introduction to GIT, Responsive design                 | [W2 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master//Week2/README.md)     | [W2 Homework](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/MAKEME.md) | 
+| 3.   | GIT branches, CSS frameworks, Working with the browser | [W3 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master//Week3/README.md)     | [W3 Homework](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week3/MAKEME.md) | 
 
 ### **Module goals**
 
@@ -129,10 +130,10 @@ In order to successfully complete this module you will need to master the follow
 
 Any software application consists of at least 2 parts: a frontend, which is what the user sees and interacts with, and a backend. This module will expose you to the wonderful world of backend development, where you learn all about where your data goes once you've pressed that submit button. You'll be writing web servers and learn how to send users the right feedback.
 
-| Week | Topic                               | Readings                                                                             | Homework                                                                             | Lesson Plan                                                                                 |
-| ---: | ----------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-|   1. | Client-server model, HTTP & Express | [Readings W1](https://github.com/HackYourFuture/Node.js/tree/master/week1/README.md) | [Homework W1](https://github.com/HackYourFuture/Node.js/tree/master/week1/MAKEME.md) | [Lesson Plan W1](https://github.com/HackYourFuture/Node.js/tree/master/week1/LESSONPLAN.md) |
-|   2. | REST, CRUD & API                    | [Readings W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/README.md) | [Homework W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/MAKEME.md) | [Lesson Plan W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/LESSONPLAN.md) |
+| Week | Topic                               | Readings                                                                             | Homework                                                                             | 
+| ---: | ----------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | 
+|   1. | Client-server model, HTTP & Express | [Readings W1](https://github.com/HackYourFuture/Node.js/tree/master/week1/README.md) | [Homework W1](https://github.com/HackYourFuture/Node.js/tree/master/week1/MAKEME.md) | 
+|   2. | REST, CRUD & API                    | [Readings W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/README.md) | [Homework W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/MAKEME.md) | 
 
 ### **Module goals**
 
