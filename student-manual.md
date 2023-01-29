@@ -92,7 +92,7 @@ The additional sessions, tests and interviews will be planned with enough time i
 
 The video lectures are included in the curriculum on GitHub. (you can also find them on our [YouTube channel](https://www.youtube.com/channel/UCkK246iKcOAvsL0SI_6n3eA)). In these lectures, one of our teachers explains the core concepts of this week and provides you  examples and exercises.
 
-You are also asked to do the homework assignments and readings practically every week (see next section). On Tuesday you will have to submit your homework and on Saturdays at least one question before the Question and Answer (Q&A) session on Sunday. The Q&A session is an online meeting where the teacher will answer your questions, so please come prepared! He/she might also ask YOU questions. Submitting homework and Q&A’s are mandatory! 
+You are also asked to do the homework assignments and readings practically every week (see next section). On Tuesday you will have to submit your homework and on Saturdays at least one question before the Question and Answer (Q&A) session on Sunday. The Q&A session is an online meeting where the teacher will answer your questions, so please come prepared! They might also ask YOU questions. Submitting homework and Q&A’s are mandatory! 
 
 Currently, due to Corona all of our education is online. In the near future we hope to go back to face-to-face classes, but is not clear yet when that will happen.
 
@@ -213,7 +213,7 @@ Bad:		_"Can you explain again what a callback is?"_
 Before submitting your question, try to answer it yourself by researching online for the answer using google, [MDN](https://developer.mozilla.org/en-US/), [StackOverflow](https://stackoverflow.com/), etc. If youve spent a good half hour - 1 hours researching and looking for the answer and still cannot find the result yourself...you've found yourself a great question to ask for the Q&A session. Again, if you can’t think of a question search online for a small exercise. And if you cant find an exercise, try to come up with one yourself. If you can't fix it (or simply find it very challenging), that's a good exercise to submit to your class.
 
 * Be on time, turn your camera on, and your microphone off. If you have a poor internet connection let Tjebbe know so we can find a solution together.
-* Participate actively: Answer if a teacher has a yes/no question. These sessions are a dialoge so it's a shared task to make it interactive, educational and fun.
+* Participate actively: Answer if a teacher has a yes/no question. These sessions are a dialogue so it's a shared task to make it interactive, educational and fun.
 * Ask additional questions and speak up when something is not clear. IMPORTANT: Do not to wait with questions and hope things will get better with time. The speed of our program is very fast, so you have to take initiative and reach out to us for HELP. Again, good programmers ask for help. Those that do not ask for help, will hardly ever become good programmers.
 * Be ready to answer questions yourself. The teacher will be active in asking YOU to explain concepts. This is not to embarrass you but to help you practice the skills you will need when applying and/or working at a real company.
 
