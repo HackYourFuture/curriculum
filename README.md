@@ -203,7 +203,7 @@ By the end of this module, students should have a familiarity with and basic und
 
 ![Project](./assets/project.png)
 
-In the upcoming 7 weeks you'll be immersed into the web developer life. By the end of it you will have created a full-stack web application and published it to the internet.
+In the upcoming 6 weeks you'll be immersed into the web developer life. By the end of it you will have created a full-stack web application and published it to the internet.
 
 Everything you have learned so far will be combined and put into practice. Added to that you'll learn some more cutting-edge technologies that will prepare you for a great start in a modern software company. We will start out with the basics and incrementally add more complexity. This way you'll learn how all the pieces of a RESTful API fit together, thereby gaining a deeper understanding of where the backend stops and the frontend starts.
 
@@ -212,12 +212,11 @@ Along with practicing your programming skills you will also be working on your c
 | Week # | Topic                                  |
 | ------ | -------------------------------------- |
 | 1.     | Introducing Project, Create wireframes |
-| 2.     | Build features I                       |
-| 3.     | Build features II, Finalize MVP        |
-| 4.     | Build features III, Introduce SCRUM    |
-| 5.     | Build features IV, Retrospective       |
-| 6.     | Finalize application                   |
-| 7.     | Final Presentation                     |
+| 2.     | Build week                             |
+| 3.     | Build week                             |
+| 4.     | Build week                             |
+| 5.     | Finalize application                   |
+| 6.     | Final Presentation                     |
 
 ### **Module goals**
 
