@@ -5,6 +5,10 @@
 - Are you a new mentor? Take a look [here](https://github.com/HackYourFuture/mentors) for some practical tips on how to get started!
 - Are you a new student? Be sure to get started with our [Welcome Guide](https://github.com/HackYourFuture/curriculum/blob/master/welcome.md) to see how to prepare for your first class and beyond!
 
+## Before you continue
+
+If you are an aspiring student at HackYourFuture, please note that before you can do the application assignment mentioned on the website we expect you to already have done the [Explore module](https://github.com/HackYourFuture/explore). This module you can do on your own in your own time to see if web development and the HackYourFuture program is right for you. We hope it is!
+
 ## Overview
 
 The HackYourFuture curriculum consists of 8 modules, spread over 7 months. In the following diagram you'll find the sequence of all the modules included:
@@ -15,44 +19,40 @@ The HackYourFuture curriculum consists of 8 modules, spread over 7 months. In th
 
 If you follow the program you'll learn the following skills:
 
-- Ability to `build a basic modern full-stack web application` (using NodeJS, MySQL and React)
+- Ability to `build a basic modern full-stack web application` (using NodeJS, MySQL, MongoDB and React)
 - Get experience with working in teams using `Agile principles`
 - Knowing how to `learn and self-teach new programming concepts`
 - How to use `third-party libraries/APIs`
 - Have a basic understanding of what it means to work on digital products
 
-## Module #1 - [HTML/CSS/GIT](https://github.com/HackYourFuture/HTML-CSS)
+## Module #1 - [CLI/GIT](https://github.com/HackYourFuture/CLI-Git)
 
-![HTML/CSS](./assets/html-css.png)
+![CLI/GIT](./assets/cli-git.png)
 
-Welcome to the wonderful world of web development! In this module you will learn the basic building blocks of the web: HTML and CSS. HTML gives us the power to add text, images and videos to a page. CSS gives us the power to organize these parts and make it look nice.
+Welcome to HackYourFuture! In this module we are going to go into two things that are maybe not as fun as building websites like you did in the application process, but are vital to your success as a developer: the command-line interface (CLI) and Git.
 
-The products of HTML and CSS comprise two-thirds of what is called `frontend` (the final third is client-side JavaScript, which you will learn about in later modules). What is frontend? It's another word for the presentational part of a piece of software. In terms of web development we're talking about "what you see" when you go to any website.
+The command-line interface is a way for you to give commands to your computer using text rather than clicking, which will be used throughout your developer life. As you may have already guessed, it is much easier for any code you write to talk to the computer via defined commands rather than trying to navigate a user interface meant for humans. In this module we will give you a quick overview how to access the command-line interface and what commands you will use the most.
 
-Think of it like this: if a webpage were a person, the HTML would be the skeleton and CSS the skin and clothing!
-
-You'll also be learning [GIT](https://www.github.com/hackyourfuture/git), software that will allow you to save your folders and files in case they accidentally get deleted or end up corrupt. It can do much more and you'll learn all about that starting from week 2!
+You'll also be learning Git, which is software that will allow you to save your folders and files in case they accidentally get deleted or end up corrupt. It is the industry standard when talking about version control of your code and we will be using it all the time during the curriculum so that you become familiar with it.
 
 In the following table you can find the module material, week-by-week:
 
-| Week | Topic                                                  | Reading Materials                                                                         | Homework                                                                              | 
-| ---- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | 
-| 0.   | Quick Start!                                           | [W0 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week0)                | -                                                                                     |                                                                                           |
-| 1.   | Command Line Interface basics, HTML/CSS syntax         | [W1 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master//Week1/README.md)     | [W1 Homework](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week1/MAKEME.md) | 
-| 2.   | Introduction to GIT, Responsive design                 | [W2 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master//Week2/README.md)     | [W2 Homework](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/MAKEME.md) | 
-| 3.   | GIT branches, CSS frameworks, Working with the browser | [W3 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master//Week3/README.md)     | [W3 Homework](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week3/MAKEME.md) | 
+| Week | Topic                                      | Reading Materials                                                                   | Homework                                                                             |
+| ---- | ------------------------------------------ | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| 1.   | Command Line Interface basics, Git, GitHub | [W1 Reading](https://github.com/HackYourFuture/CLI-Git/tree/master/Week1/README.md) | [W1 Homework](https://github.com/HackYourFuture/CLI-Git/tree/master/Week1/MAKEME.md) |
 
 ### **Module goals**
 
 By the end of this module, students should have a familiarity with and basic understanding of the following:
 
-- Be able to write syntactically correct `HTML` and `CSS`
-- Understand what is meant by `responsive` web development
-- Practice navigating your computer using the `command line interface (CLI)`
-- Learn about `GIT` and its basic usage
-- Become familiar with `Trello` and `GitHub` as a way to submit your homework
-- Know your way around `Visual Studio Code`
-- Feel comfortable working with your `browser's inspector`
+- Understand what a terminal is
+- Know what markdown is and how to create a README
+- Navigate the folders of your computer using the `command line interface (CLI)`
+- Understand wat Git is used
+- Use `GIT` commands and be able to:
+  - Create a branch
+  - Commit changes
+  - Merge branches
 
 ## Module #2 - [JavaScript](https://github.com/HackYourFuture/JavaScript/)
 
@@ -60,13 +60,12 @@ By the end of this module, students should have a familiarity with and basic und
 
 In this module you'll make a start into the wonderful world of programming. We will be using the programming language JavaScript to do so. You'll learn about the basic building blocks of programming: `loops`, `functions`, `control flow` and more. Consider these as the ABC's of programming, without them it's impossible to write working software!
 
-
-| Week | Topic                                                      | Reading Materials                                                                       | Homework                                                                                 |
-| ---- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 1.   | Variables, Variable Types, Operators, Objects, Arrays                  | [Reading W1](https://github.com/HackYourFuture/JavaScript/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/JavaScript/tree/master/Week1/MAKEME.md) |
-| 2.   | Loops, Control Flow, If/Else, Naming Conventions, Career Training I    | [Reading W2](https://github.com/HackYourFuture/JavaScript/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/JavaScript/tree/master/Week2/MAKEME.md) |
-| 3.   | Functions, Scope, ModernJS.                                            | [Reading W3](https://github.com/HackYourFuture/JavaScript/tree/master/Week3/README.md) | [Homework W3](https://github.com/HackYourFuture/JavaScript/tree/master/Week3/MAKEME.md) |
-| 4.   | Higher Order Functions, Array functions, Closures                      | [Reading W4](https://github.com/HackYourFuture/JavaScript/tree/master/Week4/README.md) | [Homework W4](https://github.com/HackYourFuture/JavaScript/tree/master/Week4/MAKEME.md) |
+| Week | Topic                                                               | Reading Materials                                                                      | Homework                                                                                |
+| ---- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| 1.   | Variables, Variable Types, Operators, Objects, Arrays               | [Reading W1](https://github.com/HackYourFuture/JavaScript/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/JavaScript/tree/master/Week1/MAKEME.md) |
+| 2.   | Loops, Control Flow, If/Else, Naming Conventions, Career Training I | [Reading W2](https://github.com/HackYourFuture/JavaScript/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/JavaScript/tree/master/Week2/MAKEME.md) |
+| 3.   | Functions, Scope, ModernJS.                                         | [Reading W3](https://github.com/HackYourFuture/JavaScript/tree/master/Week3/README.md) | [Homework W3](https://github.com/HackYourFuture/JavaScript/tree/master/Week3/MAKEME.md) |
+| 4.   | Higher Order Functions, Array functions, Closures                   | [Reading W4](https://github.com/HackYourFuture/JavaScript/tree/master/Week4/README.md) | [Homework W4](https://github.com/HackYourFuture/JavaScript/tree/master/Week4/MAKEME.md) |
 
 ### **Module goals**
 
@@ -83,13 +82,13 @@ By the end of this module, students should have a familiarity with and basic und
 
 ![Browsers](./assets/browsers.png)
 
-In **Browsers** you'll learn all about how to use JavaScript within the browser. First, you'll learn about how HTML is structured within your browser: we call this the `Document Object Model` (DOM). Once you've gotten the hang of that we'll apply JavaScript to it, in order to manipulate the elements and make our pages more interactive. We call this `DOM manipulation` and it's one of the most interesting things about JavaScript! We will finish off with a group project to already combine everything you have learned into your first web application. Besides the technical part, you'll improve your 'soft skills' as well in the [Presentation module](https://github.com/HackYourFuture/presentation-module). This is a two weeks program that will get you out of your comfort zone. Check the Read.me file for a more detailed explanation and overview. 
+In **Browsers** you'll learn all about how to use JavaScript within the browser. First, you'll learn about how HTML is structured within your browser: we call this the `Document Object Model` (DOM). Once you've gotten the hang of that we'll apply JavaScript to it, in order to manipulate the elements and make our pages more interactive. We call this `DOM manipulation` and it's one of the most interesting things about JavaScript! We will finish off with a group project to already combine everything you have learned into your first web application. Besides the technical part, you'll improve your 'soft skills' as well in the [Presentation module](https://github.com/HackYourFuture/presentation-module). This is a two weeks program that will get you out of your comfort zone. Check the Read.me file for a more detailed explanation and overview.
 
-| Week | Topic | Reading Materials | Homework |
-| ---- | ----- | ----------------- | -------- |
-| 1.   | Document-Object Model (DOM), DOM manipulation                              | [Reading W1](https://github.com/HackYourFuture/Browsers/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/Browsers/tree/master/Week1/MAKEME.md) | 
-| 2.   | Presentation Module week 1, Group project week 1!                          | [Reading W2](https://github.com/HackYourFuture/Browsers/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/Browsers/tree/master/Week2/MAKEME.md) |
-| 3.   | Presentation Module week 2, Group project week 2 + Tech interview          | [Reading W3](https://github.com/HackYourFuture/Browsers/tree/master/Week3/README.md) | No individual homework |
+| Week | Topic                                                             | Reading Materials                                                                    | Homework                                                                              |
+| ---- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| 1.   | Document-Object Model (DOM), DOM manipulation                     | [Reading W1](https://github.com/HackYourFuture/Browsers/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/Browsers/tree/master/Week1/MAKEME.md) |
+| 2.   | Presentation Module week 1, Group project week 1!                 | [Reading W2](https://github.com/HackYourFuture/Browsers/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/Browsers/tree/master/Week2/MAKEME.md) |
+| 3.   | Presentation Module week 2, Group project week 2 + Tech interview | [Reading W3](https://github.com/HackYourFuture/Browsers/tree/master/Week3/README.md) | No individual homework                                                                |
 
 ### **Module goals**
 
@@ -106,11 +105,11 @@ In order to successfully complete this module you will need to master the follow
 
 A big part of being a programmer means moving data from one place to another. It also means working with other people's software. In this module you'll be learning about one of the core things of what makes a web developer: working with APIs! On top of that you'll also learn how to think differently about how you write your programs. Like in any field, once you've mastered a particular way of doing things you start thinking about how it could be done differently. In the end you will also build a full project by yourself that takes data from publicly available API's to create a web application with substance!
 
-| Week | Topic | Reading Materials | Homework |
-| ---- | ----- | ----------------- | -------- |
-| 1.   | Synchronous vs asynchronous, Callbacks, Promises, The Event Loop                   | [Reading W1](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week1/MAKEME.md) |
-| 2.   | Application Programming Interface (API), Fetch, Async/await, Career Training II    | [Reading W2](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week2/MAKEME.md) |
-| 3.   | Individual project + Tech interview                                                | [Project](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week3/README.md)    |                                 |
+| Week | Topic                                                                           | Reading Materials                                                                     | Homework                                                                               |
+| ---- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 1.   | Synchronous vs asynchronous, Callbacks, Promises, The Event Loop                | [Reading W1](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week1/MAKEME.md) |
+| 2.   | Application Programming Interface (API), Fetch, Async/await, Career Training II | [Reading W2](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week2/MAKEME.md) |
+| 3.   | Individual project + Tech interview                                             | [Project](https://github.com/HackYourFuture/UsingAPIs/tree/master/Week3/README.md)    |                                                                                        |
 
 ### **Module goals**
 
@@ -129,10 +128,10 @@ In order to successfully complete this module you will need to master the follow
 
 Any software application consists of at least 2 parts: a frontend, which is what the user sees and interacts with, and a backend. This module will expose you to the wonderful world of backend development, where you learn all about where your data goes once you've pressed that submit button. You'll be writing web servers and learn how to send users the right feedback.
 
-| Week | Topic                               | Readings                                                                             | Homework                                                                             | 
-| ---: | ----------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | 
-|   1. | Client-server model, HTTP & Express | [Readings W1](https://github.com/HackYourFuture/Node.js/tree/master/week1/README.md) | [Homework W1](https://github.com/HackYourFuture/Node.js/tree/master/week1/MAKEME.md) | 
-|   2. | REST, CRUD & API                    | [Readings W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/README.md) | [Homework W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/MAKEME.md) | 
+| Week | Topic                               | Readings                                                                             | Homework                                                                             |
+| ---: | ----------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+|   1. | Client-server model, HTTP & Express | [Readings W1](https://github.com/HackYourFuture/Node.js/tree/master/week1/README.md) | [Homework W1](https://github.com/HackYourFuture/Node.js/tree/master/week1/MAKEME.md) |
+|   2. | REST, CRUD & API                    | [Readings W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/README.md) | [Homework W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/MAKEME.md) |
 
 ### **Module goals**
 
@@ -142,7 +141,6 @@ In this module you will get familiar with the world of backend development. By t
 - The `client-server` model
 - What `HTTP` and `REST` mean
 - How to `create your own web servers` with Node.js, using `Express.js`
-- What a `templating engine` is.
 - How to use the `Node Package Manager (NPM)`.
 - How to use Express.js to make a `RESTful API`
 - How to build a small `full-stack application`
@@ -154,11 +152,12 @@ In this module you will get familiar with the world of backend development. By t
 In this module you'll learn all about a fundamental part of any software application: how to (safely) store data, so that it can be used on-demand. You'll learn how to structure and group data so your apps know where to find and store the correct data.
 
 | Week | Topic                                                                         | Readings                                                                               | Homework                                                                               |
-| ---: | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| ---: | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --- |
 |   1. | What's a database, Entities, Data structures, Structured Query Language (SQL) | [Readings W1](https://github.com/HackYourFuture/databases/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/databases/tree/master/Week1/MAKEME.md) |
 |   2. | Identifiers, Relationships, Domain Modeling, Advanced SQL commands            | [Readings W2](https://github.com/HackYourFuture/databases/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/databases/tree/master/Week2/MAKEME.md) |
 |   3. | Normalization, Transactions, SQL Injection, NoSQL (with MongoDB)              | [Readings W3](https://github.com/HackYourFuture/databases/tree/master/Week3/README.md) | [Homework W3](https://github.com/HackYourFuture/databases/tree/master/Week3/MAKEME.md) |
-|   4. | NoSQL advanced commands, Pagination, SQL vs NoSQL                             | [Readings W4](https://github.com/HackYourFuture/databases/tree/master/Week4/README.md) | [Homework W4](https://github.com/HackYourFuture/databases/tree/master/Week4/MAKEME.md) |  |
+|   4. | NoSQL advanced commands, Pagination, SQL vs NoSQL                             | [Readings W4](https://github.com/HackYourFuture/databases/tree/master/Week4/README.md) | [Homework W4](https://github.com/HackYourFuture/databases/tree/master/Week4/MAKEME.md) |     |
+
 ### **Module goals**
 
 In this module you will get familiar with the complexity of storing data. By the end of it you have learned:
@@ -179,13 +178,13 @@ In these 4 weeks we will go back to the frontend and learn how to make faster, m
 It is mainly used to create dynamic user interfaces, changing the data a user sees depending on their input.
 
 In this module you'll learn about how to think about web pages in a radically different way: instead of making separate pages, you'll be making components of pages. Instead of hardcoded content, you'll make structures that can hold different data.
-                                                               | -                                                                                         |
-| Week | Topics                                          | Reading Materials                | Homework                         |
-| ---- | ----------------------------------------------- | -------------------------------- | -------------------------------- | 
-| 1.   | What is React, JSX, State & Props, Deploy a static site | [Readings W1](https://github.com/HackYourFuture/React/blob/master/week1/README.md) | [Homework W1](https://github.com/HackYourFuture/React/blob/master/week1/MAKEME.md) | 
-| 2.   | API calls, Context            | [Readings W2](https://github.com/HackYourFuture/React/blob/master/week2/README.md) | [Homework W2](https://github.com/HackYourFuture/React/blob/master/week2/MAKEME.md) |
-| 3.   | Client-side routing, Custom hooks      | [Readings W3](https://github.com/HackYourFuture/React/blob/master/week3/README.md) | [Homework W3](https://github.com/HackYourFuture/React/blob/master/week3/MAKEME.md) | 
-| 4.   | Project!                   | [Readings W4](https://github.com/HackYourFuture/React/blob/master/week4/README.md) |  |  
+| - |
+| Week | Topics | Reading Materials | Homework |
+| ---- | ----------------------------------------------- | -------------------------------- | -------------------------------- |
+| 1. | What is React, JSX, State & Props, Deploy a static site | [Readings W1](https://github.com/HackYourFuture/React/blob/master/week1/README.md) | [Homework W1](https://github.com/HackYourFuture/React/blob/master/week1/MAKEME.md) |
+| 2. | API calls, Context | [Readings W2](https://github.com/HackYourFuture/React/blob/master/week2/README.md) | [Homework W2](https://github.com/HackYourFuture/React/blob/master/week2/MAKEME.md) |
+| 3. | Client-side routing, Custom hooks | [Readings W3](https://github.com/HackYourFuture/React/blob/master/week3/README.md) | [Homework W3](https://github.com/HackYourFuture/React/blob/master/week3/MAKEME.md) |
+| 4. | Project! | [Readings W4](https://github.com/HackYourFuture/React/blob/master/week4/README.md) | |
 
 ### **Module goals**
 
