@@ -58,14 +58,14 @@ By the end of this module, students should have a familiarity with and basic und
 
 ![JavaScript](./assets/javascript.png)
 
-In this module you'll make a start into the wonderful world of programming. We will be using the programming language JavaScript to do so. You'll learn about the basic building blocks of programming: `loops`, `functions`, `control flow` and more. Consider these as the ABC's of programming, without them it's impossible to write working software!
+In this module you'll make a start into the wonderful world of programming. We will be using the programming language JavaScript to do so. You'll learn about the basic building blocks of programming: `loops`, `functions`, `control flow` and more advanced JavaScript specific intricacies. Consider these as the ABC's of programming, without them it's impossible to write working software!
 
-| Week | Topic                                                               | Reading Materials                                                                      | Homework                                                                                |
-| ---- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 1.   | Variables, Variable Types, Operators, Objects, Arrays               | [Reading W1](https://github.com/HackYourFuture/JavaScript/tree/master/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/JavaScript/tree/master/Week1/MAKEME.md) |
-| 2.   | Loops, Control Flow, If/Else, Naming Conventions, Career Training I | [Reading W2](https://github.com/HackYourFuture/JavaScript/tree/master/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/JavaScript/tree/master/Week2/MAKEME.md) |
-| 3.   | Functions, Scope, ModernJS.                                         | [Reading W3](https://github.com/HackYourFuture/JavaScript/tree/master/Week3/README.md) | [Homework W3](https://github.com/HackYourFuture/JavaScript/tree/master/Week3/MAKEME.md) |
-| 4.   | Higher Order Functions, Array functions, Closures                   | [Reading W4](https://github.com/HackYourFuture/JavaScript/tree/master/Week4/README.md) | [Homework W4](https://github.com/HackYourFuture/JavaScript/tree/master/Week4/MAKEME.md) |
+| Week | Topic                                                      | Reading Materials                                                                       | Homework                                                                                 |
+| ---- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 1.   | JS Basics Refresher, Loops, Naming Conventions                         | [Reading W1](/Week1/README.md) | [Homework W1](/Week1/MAKEME.md) |
+| 2.   | Scope, ModernJS, Problem Solving                                       | [Reading W2](/Week2/README.md) | [Homework W2](/Week2/MAKEME.md) |
+| 3.   | Higher Order Functions, Closures, Unit Testing                         | [Reading W3](/Week3/README.md) | [Homework W3](/Week3/MAKEME.md) |
+| 4.   | This keyword, constructor functions, classes                           | [Reading W4](/Week4/README.md) | [Homework W4](/Week4/MAKEME.md) |
 
 ### **Module goals**
 
