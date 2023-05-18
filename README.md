@@ -62,10 +62,10 @@ In this module you'll make a start into the wonderful world of programming. We w
 
 | Week | Topic                                                      | Reading Materials                                                                       | Homework                                                                                 |
 | ---- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 1.   | JS Basics Refresher, Loops, Naming Conventions                         | [Reading W1](/Week1/README.md) | [Homework W1](/Week1/MAKEME.md) |
-| 2.   | Scope, ModernJS, Problem Solving                                       | [Reading W2](/Week2/README.md) | [Homework W2](/Week2/MAKEME.md) |
-| 3.   | Higher Order Functions, Closures, Unit Testing                         | [Reading W3](/Week3/README.md) | [Homework W3](/Week3/MAKEME.md) |
-| 4.   | This keyword, constructor functions, classes                           | [Reading W4](/Week4/README.md) | [Homework W4](/Week4/MAKEME.md) |
+| 1.   | JS Basics Refresher, Loops, Naming Conventions                         | [Reading W1](https://github.com/HackYourFuture/JavaScript/tree/main/Week1/README.md) | [Homework W1](https://github.com/HackYourFuture/JavaScript/tree/main/Week1/MAKEME.md) |
+| 2.   | Scope, ModernJS, Problem Solving                                       | [Reading W2](https://github.com/HackYourFuture/JavaScript/tree/main/Week2/README.md) | [Homework W2](https://github.com/HackYourFuture/JavaScript/tree/main/Week2/MAKEME.md) |
+| 3.   | Higher Order Functions, Closures, Unit Testing                         | [Reading W3](https://github.com/HackYourFuture/JavaScript/tree/main/Week3/README.md) | [Homework W3](https://github.com/HackYourFuture/JavaScript/tree/main/Week3/MAKEME.md) |
+| 4.   | This keyword, constructor functions, classes                           | [Reading W4](https://github.com/HackYourFuture/JavaScript/tree/main/Week4/README.md) | [Homework W4](https://github.com/HackYourFuture/JavaScript/tree/main/Week4/MAKEME.md) |
 
 ### **Module goals**
 
