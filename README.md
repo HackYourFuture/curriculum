@@ -178,7 +178,7 @@ In these 4 weeks we will go back to the frontend and learn how to make faster, m
 It is mainly used to create dynamic user interfaces, changing the data a user sees depending on their input.
 
 In this module you'll learn about how to think about web pages in a radically different way: instead of making separate pages, you'll be making components of pages. Instead of hardcoded content, you'll make structures that can hold different data.
-| - |
+
 | Week | Topics | Reading Materials | Homework |
 | ---- | ----------------------------------------------- | -------------------------------- | -------------------------------- |
 | 1. | What is React, JSX, State & Props, Deploy a static site | [Readings W1](https://github.com/HackYourFuture/React/blob/master/week1/README.md) | [Homework W1](https://github.com/HackYourFuture/React/blob/master/week1/MAKEME.md) |
