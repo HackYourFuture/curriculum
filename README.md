@@ -159,6 +159,13 @@ In this module you'll learn all about a fundamental part of any software applica
 |   4. | NoSQL advanced commands, Pagination, SQL vs NoSQL                             | [Readings W4](https://github.com/HackYourFuture/databases/tree/master/Week4/README.md) | [Assignment W4](https://github.com/HackYourFuture/databases/tree/master/Week4/MAKEME.md) |
 
 
+| Week | Topics | Reading Materials | Assignments |
+| ---- | ----------------------------------------------- | -------------------------------- | -------------------------------- |
+| 1. | What's a database, Entities, Data structures, Structured Query Language (SQL) | [Readings W1](https://github.com/HackYourFuture/databases/tree/master/Week1/README.md) | [Assignment W1](https://github.com/HackYourFuture/databases/tree/master/Week1/MAKEME.md) |
+| 2. | Identifiers, Relationships, Domain Modeling, Advanced SQL commands | [Readings W2](https://github.com/HackYourFuture/databases/tree/master/Week2/README.md) | [Assignment W2](https://github.com/HackYourFuture/databases/tree/master/Week2/MAKEME.md) |
+| 3. | Normalization, Transactions, SQL Injection, NoSQL (with MongoDB) | [Readings W3](https://github.com/HackYourFuture/databases/tree/master/Week3/README.md) | [Assignment W3](https://github.com/HackYourFuture/databases/tree/master/Week3/MAKEME.md) |
+| 4. | NoSQL advanced commands, Pagination, SQL vs NoSQL | [Readings W4](https://github.com/HackYourFuture/databases/tree/master/Week4/README.md) | [Assignment W4](https://github.com/HackYourFuture/databases/tree/master/Week4/MAKEME.md) |
+
 
 ### **Module goals**
 
