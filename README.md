@@ -13,7 +13,13 @@ If you are an aspiring trainee at HackYourFuture, please note that before you ca
 
 The HackYourFuture curriculum consists of 8 modules, spread over 7 months. In the following diagram you'll find the sequence of all the modules included:
 
-![Curriculum](./assets/curriculum.png)
+[![CLI/GIT](./assets/cli-git.png)](https://github.com/HackYourFuture/CLI-Git)
+[![JavaScript](./assets/javascript.png)](https://github.com/HackYourFuture/JavaScript)
+[![Browsers](./assets/browsers.png)](https://github.com/HackYourFuture/Browsers)
+[![UsingAPIs](./assets/usingapis.png)](https://github.com/HackYourFuture/UsingAPIs)
+[![Node.js](./assets/nodejs.png)](https://github.com/HackYourFuture/Node.js)
+[![Databases](./assets/databases.png)](https://github.com/HackYourFuture/Databases)
+[![React.js](./assets/react.png)](https://github.com/HackYourFuture/React)
 
 ## Learning goals
 
@@ -101,7 +107,7 @@ In order to successfully complete this module you will need to master the follow
 
 ## Module #4 - [Using API's](https://github.com/HackYourFuture/UsingAPIs)
 
-![JavaScript3](./assets/usingapis.png)
+![UsingAPIs](./assets/usingapis.png)
 
 A big part of being a programmer means moving data from one place to another. It also means working with other people's software. In this module you'll be learning about one of the core things of what makes a web developer: working with APIs! On top of that you'll also learn how to think differently about how you write your programs. Like in any field, once you've mastered a particular way of doing things you start thinking about how it could be done differently. In the end you will also build a full project by yourself that takes data from publicly available API's to create a web application with substance!
 
@@ -132,6 +138,8 @@ Any software application consists of at least 2 parts: a frontend, which is what
 | ---: | ----------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
 |   1. | Client-server model, HTTP & Express | [Readings W1](https://github.com/HackYourFuture/Node.js/tree/master/week1/README.md) | [Assignment W1](https://github.com/HackYourFuture/Node.js/tree/master/week1/MAKEME.md) |
 |   2. | REST, CRUD & API                    | [Readings W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/README.md) | [Assignment W2](https://github.com/HackYourFuture/Node.js/tree/master/week2/MAKEME.md) |
+|   3. | TBD                    | [Readings W3](https://github.com/HackYourFuture/Node.js/tree/master/week3/README.md) | |
+
 
 ### **Module goals**
 
