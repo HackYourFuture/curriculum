@@ -20,6 +20,7 @@ The HackYourFuture curriculum consists of 8 modules, spread over 7 months. In th
 [![Node.js](./assets/nodejs.png)](https://github.com/HackYourFuture/Node.js)
 [![Databases](./assets/databases.png)](https://github.com/HackYourFuture/Databases)
 [![React.js](./assets/react.png)](https://github.com/HackYourFuture/React)
+[![React.js](./assets/project.png)](https://github.com/HackYourFuture/Project)
 
 ## Learning goals
 
