@@ -9,7 +9,7 @@ HackYourFuture is completely aimed at making you into a professional web-develop
 ## A few important things:
 
 - Be sure to check your email for the date, time and important details for the introduction session and your starting day.
-- Please read our (complete) study manual to be better prepared. You can find the manual [here](https://github.com/HackYourFuture/curriculum/blob/master/student-manual.md).
+- Please read our (complete) study manual to be better prepared. You can find the manual [here](https://github.com/HackYourFuture/curriculum/blob/master/study-manual.md).
 - Take a quick look at our curriculum already. Get familiar with it's structure and content. You can find it [here](http://www.github.com/hackyourfuture/curriculum).
 - Read about HackYourFuture's culture [here](https://github.com/HackYourFuture/culture).
 - Most of our activities are conducted online. However, since March 2020 (start of the Corona pandemic) we have been testing and fine tuning our online sessions and we are quite confident we will provide you with a high quality education experience.
