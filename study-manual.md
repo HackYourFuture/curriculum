@@ -36,27 +36,27 @@ The HackYourFuture team
 
 # Chapter 0: The organisation <a name="HYF"></a>
 
-HackYourFuture was founded in 2016. We saw many talented people coming to the Netherlands as a refugee, but many had difficulty finding a job. At the same time the tech/IT sector is looking for talent to fill their open vacancies. That does not make any sense :) You can read more about the story of HYF on [our website](https://www.hackyourfuture.net/about/).
+HackYourFuture was founded in 2016. Many talented people who come to the Netherlands as a refugee experience difficulties in finding a job in their field. Meanwhile, the IT sector is constantly in need of talents to fill their open vacancies. That does not make any sense :) HYF is there to breach the barriers that prevent qualified people to reach a suitable employment in tech. You can read more about the story of HYF on [our website](https://www.hackyourfuture.net/about/).
 
-HYF is a foundation, which means we do not make profits. However, we do make costs of course. Our program costs around EUR10000 per graduate that finds a job, yet the education is free. How do we do this? Currently, we receive most of our revenues from donations (60%) from large foundations like the ING Netherlands Fund, Stichting Doen and the Oranje Fonds. We also receive donations from companies and individuals (mostly former trainees). The rest of our revenues we receive through an education fee we ask to companies that hire our graduates.
+As a foundation, HYF does not make profits. However, there are expenses of course. Our program costs around €12.000 per graduate that finds a job, yet the education is free. In order to make this possible, we receive most of our revenues from donations. 60% of those come from large foundations, such as the ING Netherlands Fund, Stichting Doen and the Oranje Fonds. We also receive donations from companies and individuals (mostly former trainees). The rest of our revenues, we receive through an education fee that we ask to companies that hire our graduates. This education fee is not deducated from the graduates' income, and allows for our organisation to finance the next generation of trainees.
 
-One of the main strengths of our organisation is that we rely heavily on the contribution of our mentors, all professional software developers and testers, that help to correct assignments, train cohorts and guide you through the program. Some of our graduates are now teaching at HackYourFuture! Currently, we have 4 paid employees on the payroll and together they form the 'core-team' of HYF. They keep the program running, update the curriculum, promote the organisation to find jobs and funding and are there to support you at every step of the way.
+One of HYF's main strengths is that we heavily rely on the contribution of our mentors, all professional software developers and testers who help to correct assignments, train cohorts and guide you through the program. Some of our graduates are now teaching at HackYourFuture! Currently, we have four employees on the payroll who together form the 'core-team' of HYF. They keep the program running, update the curriculum, promote the organisation in order to find jobs and funding and are there to support you at every step on the way.
 
-[This RePo](https://github.com/HackYourFuture/culture) lays out our core values. These core values are leading for all of us involved in HackYourFuture: staff, alumni, trainees and mentors. They are leading in how we learn and teach and interact with each other. Please read them carefully.
+[This RePo](https://github.com/HackYourFuture/culture) lays out our core values. These core values are fundamental grounds for everyone involved in the HYF community: staff, alumni, trainees and mentors. They are establish how we learn, teach and interact with each other. Please read them carefully.
 
-Also make sure to read and sign our code of conduct, which you can find [here](https://github.com/HackYourFuture/curriculum/blob/master/welcome.md). If you have any questions, feel free to ask them during introduction day or by approaching one of the core-team members on Slack (our internal communication platform - More on that later).
+Also make sure to read and sign our code of conduct, which you can find [here](https://github.com/HackYourFuture/curriculum/blob/master/welcome.md). If you have any questions, feel free to ask them during introduction day or by approaching one of the core-team members on Slack (our internal communication platform–more on that later).
 
 # Chapter 1: Course overview <a name="course"></a>
 
-During the next half year, you will study a variety of technologies and ways of thinking. This will build a solid foundation for you to become a web developer. What does this mean?
+During the coming months, you will study a variety of technologies and ways of thinking. This will build a solid foundation for you to become a web developer. What does this mean?
 
 At the end of the 7 months you will leave HackYourFuture with:
 
-- The skills to build your own full-stack web applications
-- Experience working in a team
-- Access to the Alumni Network: a community of HackYourFuture graduates
-- A decent CV and LinkedIn profile coupled with interview skills
-- Introductions to companies looking to hire programmers or software testers
+- The skills to build your own full-stack web applications;
+- Experience working in a team;
+- Access to the Alumni Network: a community of HackYourFuture graduates;
+- A good CV and LinkedIn profile coupled with interview skills;
+- Introductions to companies looking to hire programmers or software testers.
 
 In order for this to be turned into reality, you will have to work very hard. In the following section you will find an overview of all the subjects you’ll be learning about throughout the course.
 
