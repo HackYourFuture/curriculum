@@ -1,12 +1,12 @@
 # Welcome to our program!
 
-On average, we receive 100-200 applications for every new cohort. Therefore, to be accepted into HackYourFuture is a big accomplishment. So congratulations!
+On average, we receive 100-200 applications for every new cohort. To be accepted into HackYourFuture is thus a big accomplishment; congratulations!
 
-You are now a member of a large community. 180+ trainees have graduated from HackYourFuture and more than 85% find a job as a professional web developer or software tester. However, our course will be challenging. For the next 7 months there will be moments in which you might want to give up...If that happens, it is important to remember that you are not the first to go through this! Many of our trainees, who are now in professional jobs, found the program difficult and have at some point thought about quitting the course but they pushed through! Based on their experiences, we compiled this guide to share with you the lessons learned throughout the more than 30 cohorts that went through the program before you.
+You are now a member of a large community. 380+ trainees have graduated from HackYourFuture and more than 88% find a job as a professional web developer or software tester. However, our course is challenging. For the next 7 months there will be moments in which you might want to give up... If that happens, it is important to remember that you are not the first to go through this. Many of our trainees, who are now in professional jobs, found the program difficult and have at some point considered quitting, but they pushed through! Based on their experiences, we compiled this guide to share with you the lessons learned throughout the more than 50 cohorts that went through the program before you.
 
-This guide consists of 3 chapters. In chapter 0 we lay out the foundation of the HYF organisation. In the second chapter, we provide a summary of our program. The final chapter focusses on what you can do to get through the course.
+This guide consists of 3 chapters. In chapter 1 we lay out the foundation of the HYF organisation. In the second chapter, we provide a summary of our program. The final chapter focuses on what you can do to get through the course.
 
-Like you, this document is always improving. If you feel something is missing or might be improved, please let us know and we might add your suggestion.
+Like you, this document is always improving. If you feel something is missing or should be improved, please let us know and we might add your suggestion.
 
 Good luck on your journey!
 
@@ -14,27 +14,27 @@ The HackYourFuture team
 
 # Table of Contents
 
-- [Chapter 0: The Organization](#HYF)
-- [Chapter 1: Course Overview](#course)
+- [Chapter 0: The organisation](#HYF)
+- [Chapter 1: Course overview](#course)
   - [1.1 Curriculum](#curriculum)
-  - [1.2 Weekly Program](#weekly)
-  - [1.3 Assignments and Preparation](#assignment)
+  - [1.2 Weekly program](#weekly)
+  - [1.3 Assignments & Preparation](#assignment)
   - [1.4 Tests](#tests)
   - [1.5 Mentors](#mentors)
   - [1.6 Q&A sessions](#sessions)
-  - [1.7 Three Strike Policy](#strike)
+  - [1.7 Three-strike policy](#strike)
   - [1.8 Start your career](#career)
-  - [1.9 Paying it Forward](#donations)
+  - [1.9 Paying it forward](#donations)
 - [Chapter 2: How to study programming (tips for non-programmers)](#study)
   - [2.1 Reading error messages](#error)
   - [2.2 Finding solutions online (ChatGPT & Google)](#solution)
   - [2.3 Asking for help when stuck](#stuck)
   - [2.4 Code as much as possible](#code)
-  - [2.5 Minimize distractions](#distractions)
+  - [2.5 Minimise distractions](#distractions)
   - [2.6 Life happens](#life)
 - [Final thoughts](#thoughts)
 
-# Chapter 0: The Organization <a name="HYF"></a>
+# Chapter 0: The organisation <a name="HYF"></a>
 
 HackYourFuture was founded in 2016. We saw many talented people coming to the Netherlands as a refugee, but many had difficulty finding a job. At the same time the tech/IT sector is looking for talent to fill their open vacancies. That does not make any sense :) You can read more about the story of HYF on [our website](https://www.hackyourfuture.net/about/).
 
@@ -46,7 +46,7 @@ One of the main strengths of our organisation is that we rely heavily on the con
 
 Also make sure to read and sign our code of conduct, which you can find [here](https://github.com/HackYourFuture/curriculum/blob/master/welcome.md). If you have any questions, feel free to ask them during introduction day or by approaching one of the core-team members on Slack (our internal communication platform - More on that later).
 
-# Chapter 1: Course Overview <a name="course"></a>
+# Chapter 1: Course overview <a name="course"></a>
 
 During the next half year, you will study a variety of technologies and ways of thinking. This will build a solid foundation for you to become a web developer. What does this mean?
 
@@ -234,7 +234,7 @@ Before submitting your question, try to answer it yourself by researching online
 - Ask additional questions and speak up when something is not clear. IMPORTANT: Do not to wait with questions and hope things will get better with time. The speed of our program is very fast, so you have to take initiative and reach out to us for HELP. Again, good programmers ask for help. Those that do not ask for help, will hardly ever become good programmers.
 - Be ready to answer questions yourself. The mentor will be active in asking YOU to explain concepts. This is not to embarrass you but to help you practice the skills you will need when applying and/or working at a real company.
 
-## 1.7 Three Strike Policy <a name="strike"></a>
+## 1.7 Three-strike policy <a name="strike"></a>
 
 At HackYourFuture we have a 3-strike policy. This means that you get 1 strike in the following situations:
 
@@ -320,7 +320,7 @@ The rest of the error message is what we call the call stack:
   at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
 ```
 
-This should tell you where in the code it broke. We will go into more detail about this in the curriculum, but the rule here is to look for a filename / directory that you recognise. In this case the first line `at Server.<anonymous> (C:\Users\Rob\hyf\Node.js\week1\homework\exercises\3-web-server\server.js:26:9)` is a file on my computer that I recognize. The numbers at the end `26:9` tells you at what line (26) and character in that line (9) your code broke. So now you know where to start looking for a problem!
+This should tell you where in the code it broke. We will go into more detail about this in the curriculum, but the rule here is to look for a filename / directory that you recognise. In this case the first line `at Server.<anonymous> (C:\Users\Rob\hyf\Node.js\week1\homework\exercises\3-web-server\server.js:26:9)` is a file on my computer that I recognise. The numbers at the end `26:9` tells you at what line (26) and character in that line (9) your code broke. So now you know where to start looking for a problem!
 
 ## 2.3 Finding solutions online <a name="solution"></a>
 
@@ -341,7 +341,7 @@ Let's say even the internet cannot help you, it is then time to ask your cohort 
 Hi team, I get an error when running my server, anyone else ran into this problem also?
 ```
 
-This is not very helpful and will probably not get a lot of response. The reason is that there is no information which means any other trainees/mentors/coaches will not be able to know if the error is indeed the same. The best thing to do is to take a screenshot of or copy the error message and post it there. That way your colleagues will already know if it is something they recognize. For example:
+This is not very helpful and will probably not get a lot of response. The reason is that there is no information which means any other trainees/mentors/coaches will not be able to know if the error is indeed the same. The best thing to do is to take a screenshot of or copy the error message and post it there. That way your colleagues will already know if it is something they recognise. For example:
 
 ```
 Hi team, I get the following error when running my server for Node week 3 exercise 3:
@@ -370,7 +370,7 @@ When coding along and getting to the end product it is easy to convince yourself
 
 Remember, your time is valuable so make good use of it!
 
-## 2.6 Minimize distractions <a name="distractions"></a>
+## 2.6 Minimise distractions <a name="distractions"></a>
 
 The goal whilst studying should be to reach a state of ‘flow’. Flow can be described as the complete immersion in an activity. By doing so, you lose your sense of space and time. There is quite some research about ‘flow’. This research shows that not only your learning curve increases significantly, also the level of joy increases. In other words, if you are fully concentrated whilst programming you feel way more satisfied as a result.
 
