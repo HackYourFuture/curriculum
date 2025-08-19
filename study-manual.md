@@ -42,7 +42,7 @@ As a foundation, HYF does not make profits. However, there are expenses of cours
 
 One of HYF's main strengths is that we heavily rely on the contribution of our mentors, all professional software developers and testers who help to correct assignments, train cohorts and guide you through the program. Some of our graduates are now teaching at HackYourFuture! Currently, we have four employees on the payroll who together form the 'core-team' of HYF. They keep the program running, update the curriculum, promote the organisation in order to find jobs and funding and are there to support you at every step on the way.
 
-[This RePo](https://github.com/HackYourFuture/culture) lays out our core values. These core values are fundamental grounds for everyone involved in the HYF community: staff, alumni, trainees and mentors. They are establish how we learn, teach and interact with each other. Please read them carefully.
+[This Repo](https://github.com/HackYourFuture/culture) lays out our core values. These core values are fundamental grounds for everyone involved in the HYF community: staff, alumni, trainees and mentors. They are establish how we learn, teach and interact with each other. Please read them carefully.
 
 Also make sure to read and sign our code of conduct, which you can find [here](https://github.com/HackYourFuture/curriculum/blob/master/welcome.md). If you have any questions, feel free to ask them during introduction day or by approaching one of the core-team members on Slack (our internal communication platform–more on that later).
 
@@ -169,7 +169,7 @@ The last one is most important there, do _not_ ever put anything into your codeb
 
 If we (or your mentor) notices that you copied code without applying the rules above, we will see that as plagiarism. In any case of fraud or plagiarism, you will be taken out of the program.
 
-Last but not least, when you copy code you dont understand, you might feel things are going great when in fact they are not. Is a lot better to accept you are struggling or having a hard time with the task at hand and ask for help. A great programmer is not that one that knows every solution. Sometimes the best programmer is that one that knows how to look for solutions by himself and if after some time he doesnt find the solution, he asks for support. Your supervisor, mentors, colleagues and the core-team is here to help you. Use that to your advantage.
+Last but not least, when you copy code you don't understand, you might feel things are going great when in fact they are not. Is a lot better to accept you are struggling or having a hard time with the task at hand and ask for help. A great programmer is not that one that knows every solution. Sometimes the best programmer is that one that knows how to look for solutions by himself and if after some time he doesnt find the solution, he asks for support. Your supervisor, mentors, colleagues and the core-team is here to help you. Use that to your advantage.
 
 ## 1.4 Tests <a name="tests"></a>
 
@@ -227,9 +227,9 @@ Good: _"Do callbacks have to do with asynchronicity in our applications?"_
 
 Bad: _"Can you explain again what a callback is?"_
 
-Before submitting your question, try to answer it yourself by researching online for the answer using google, [MDN](https://developer.mozilla.org/en-US/), [StackOverflow](https://stackoverflow.com/), etc. If youve spent a good half hour - 1 hours researching and looking for the answer and still cannot find the result yourself...you've found yourself a great question to ask for the Q&A session. Again, if you can’t think of a question search online for a small exercise. And if you cant find an exercise, try to come up with one yourself. If you can't fix it (or simply find it very challenging), that's a good exercise to submit to your cohort.
+Before submitting your question, try to answer it yourself by researching online for the answer using google, [MDN](https://developer.mozilla.org/en-US/), [StackOverflow](https://stackoverflow.com/), etc. If you have spent a good half hour - 1 hours researching and looking for the answer and still cannot find the result yourself...you've found yourself a great question to ask for the Q&A session. Again, if you can’t think of a question search online for a small exercise. And if you cant find an exercise, try to come up with one yourself. If you can't fix it (or simply find it very challenging), that's a good exercise to submit to your cohort.
 
-- Be on time, turn your camera on, and your microphone off. If you have a poor internet connection let Tjebbe know so we can find a solution together.
+- Be on time, turn your camera on, and your microphone off. If you have a poor internet connection let us know so we can find a solution together.
 - Participate actively: Answer if a mentors has a yes/no question. These sessions are a dialogue so it's a shared task to make it interactive, educational and fun.
 - Ask additional questions and speak up when something is not clear. IMPORTANT: Do not to wait with questions and hope things will get better with time. The speed of our program is very fast, so you have to take initiative and reach out to us for HELP. Again, good programmers ask for help. Those that do not ask for help, will hardly ever become good programmers.
 - Be ready to answer questions yourself. The mentor will be active in asking YOU to explain concepts. This is not to embarrass you but to help you practice the skills you will need when applying and/or working at a real company.
