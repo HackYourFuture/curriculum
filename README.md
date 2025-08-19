@@ -26,7 +26,7 @@ The HackYourFuture curriculum consists of 8 modules, spread over 7 months. In th
 
 If you follow the program you'll learn the following skills:
 
-- Ability to `build a basic modern full-stack web application` (using NodeJS, MySQL, MongoDB and React)
+- Ability to `build a basic modern full-stack web application` (using Node.JS, PostgreSQL, MongoDB and React)
 - Get experience with working in teams using `Agile principles`
 - Knowing how to `learn and self-teach new programming concepts`
 - How to use `third-party libraries/APIs`
@@ -178,7 +178,7 @@ In this module you will get familiar with the complexity of storing data. By the
 - How to work with `Structured Query Language` (SQL)
 - Learn all about the `relational model`
 - Recognize the `basic setup of a database`
-- Know about `MySQL` as an example of a relational database system
+- Know about `PostgresSQL` as an example of a relational database system
 - Learn about NoSQL databases, with an emphasis on `MongoDB`
 
 ## Module #7 - [React](https://github.com/HackYourFuture/React)
